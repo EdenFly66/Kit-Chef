@@ -1,0 +1,65 @@
+{
+  "modulo": 7,
+  "leccion_numero": "7.6",
+  "titulo": "Horneado con vapor",
+  "slug": "horneado-con-vapor",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "El vapor es esencial para lograr un buen pan de masa madre. Durante los primeros 20 minutos de cocción, mantiene blanda la corteza, permitiendo que el pan se expanda a su máximo potencial antes de que la superficie se endurezca y limite ese crecimiento."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Existen dos formas principales de lograr este vapor en casa: horneado abierto, o dentro de una olla de fundición tapada."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El horneado abierto es como se hornea en una panadería profesional: el pan se cocina sobre una piedra o plancha de horno, y se genera vapor dentro del horno durante la primera mitad de la cocción. En casa se puede lograr con una bandeja con agua hirviendo, o rociando agua directo sobre las paredes del horno caliente al inicio."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Bandeja de horno con agua ya hirviendo colocada en la base del horno precalentado, generando una nube de vapor visible, junto a la piedra de horno donde se colocará el pan."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El horneado en olla de fundición es más simple de replicar en casa: se hornea con la tapa puesta la primera mitad del tiempo, y destapada la segunda mitad. El vapor necesario lo aporta la propia humedad de la masa, contenida dentro de la olla — no hace falta agregar agua ni nada extra."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Tamaño de olla según tamaño de pan",
+      "columnas": ["Forma de pan", "Peso de harina", "Tamaño de olla sugerido"],
+      "filas": [
+        ["Redondo (boule)", "500 g", "5 litros, forma redonda"],
+        ["Alargado (batard)", "500 g", "6-7 litros, forma ovalada"]
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Secuencia de horneado en olla de fundición",
+      "items": [
+        "Precalentar la olla vacía dentro del horno a temperatura alta (alrededor de 260°C), unos 45 minutos antes de hornear",
+        "Transferir la masa a la olla caliente, greñar rápido, tapar de inmediato",
+        "Hornear tapado, bajando la temperatura del horno a unos 230°C, por 20 minutos",
+        "Destapar y continuar horneando sin tapa 20-25 minutos más, hasta lograr el color de corteza deseado",
+        "Retirar y dejar enfriar sobre una rejilla al menos una hora antes de cortar"
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Masa recién greñada siendo depositada con cuidado dentro de la olla de fundición humeante y precalentada, sujeta con papel mantequilla como faja para bajarla sin quemarse."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Sobre el manejo de la olla caliente",
+      "texto": "La olla sale del horno a más de 200°C. Usar guantes de silicona que cubran también el antebrazo evita accidentes al alcanzar el fondo del horno."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Pan recién sacado de la olla de fundición, con la corteza destapada mostrando un color castaño profundo y ampollas pequeñas, sobre una rejilla para enfriar."
+    }
+  ]
+}

@@ -15,6 +15,11 @@
       "texto": "Palta con burrata, o aliño de tahini con queso de cabra. Grasa sobre grasa, sin alivio de ácido ni de textura, crea un bowl pesado y monótono. Conviene usar solo un elemento cremoso por ensalada, y construir brillo y crocancia alrededor de él."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Bowl con tajadas de palta y burrata juntas, sin ningún elemento ácido ni crocante visible, ilustrando el error de combinar dos elementos cremosos en una misma ensalada."
+    },
+    {
       "tipo": "tip",
       "titulo": "Dos hierbas dominantes",
       "texto": "Estragón con cilantro, o menta con albahaca en cantidad. Las hierbas fuertes compiten a nivel aromático — sus compuestos volátiles chocan entre sí antes incluso de llegar a la lengua. Conviene elegir una hierba dominante y usar la otra apenas como acento."
@@ -30,9 +35,19 @@
       "texto": "Lechuga mantecosa o brotes bajo un aliño César o de tahini. Las hojas colapsan casi al instante. Conviene igualar el peso del aliño con el peso de la hoja, o cambiar a una hoja más firme."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Hojas de lechuga mantecosa colapsadas y empapadas bajo una capa espesa de aderezo César, mostrando cómo una hoja delicada se aplasta con un aliño pesado."
+    },
+    {
       "tipo": "tip",
       "titulo": "Fruta con cebolla cruda sin colchón",
       "texto": "Cebolla morada cruda directo contra durazno o higo maduro. Conviene encurtir la cebolla primero (10 minutos en vinagre) — así se le quita el filo picante sin perder el color ni el crujiente."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Cebolla morada en rodajas encurtiéndose en un bowl con vinagre, junto a rodajas de durazno maduro, mostrando el paso de encurtido que evita que el picante domine la fruta."
     },
     {
       "tipo": "tabla",

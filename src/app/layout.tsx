@@ -35,6 +35,18 @@ export default function RootLayout({
       lang="es"
       className={`${fraunces.variable} ${inter.variable} ${plexMono.variable} h-full antialiased`}
     >
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try {
+              var t = localStorage.getItem("kitchef_tema");
+              if (t === "claro" || t === "oscuro") {
+                document.documentElement.setAttribute("data-theme", t === "oscuro" ? "dark" : "light");
+              }
+            } catch (e) {}`,
+          }}
+        />
+      </head>
       <body className="min-h-full flex flex-col">
         <AuthProvider>
           <SiteHeader />

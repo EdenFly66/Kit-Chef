@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "seed:modulos": "tsx --env-file=.env.local scripts/seed-modulos.ts",
-    "seed:modulo-1": "tsx --env-file=.env.local scripts/seed-modulo-1.ts"
+    "seed:contenido": "tsx --env-file=.env.local scripts/seed-contenido.ts",
+    "seed:recetas": "tsx --env-file=.env.local scripts/seed-recetas.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.111.0",

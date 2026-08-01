@@ -56,6 +56,32 @@
   }
 }
 
+/* El toggle manual (ThemeToggle) marca data-theme en <html> y gana por
+   sobre la preferencia del sistema, en ambos sentidos. */
+:root[data-theme="dark"] {
+  --background: var(--tinta);
+  --foreground: #f1e8da;
+  --color-superficie: #2a1f18;
+  --color-superficie-2: #362820;
+  --color-ink-dim: #b3a494;
+  --color-acero: #8b96a0;
+  --color-brasa: #f0602e;
+  --color-borde: rgba(241, 232, 218, 0.14);
+  --color-grano: rgba(241, 232, 218, 0.05);
+}
+
+:root[data-theme="light"] {
+  --background: var(--pergamino);
+  --foreground: var(--tinta);
+  --color-superficie: #f5eee0;
+  --color-superficie-2: #e4d9c4;
+  --color-ink-dim: #6b5f52;
+  --color-acero: var(--acero);
+  --color-brasa: var(--brasa);
+  --color-borde: rgba(28, 20, 16, 0.14);
+  --color-grano: rgba(28, 20, 16, 0.05);
+}
+
 body {
   background: var(--background);
   color: var(--foreground);

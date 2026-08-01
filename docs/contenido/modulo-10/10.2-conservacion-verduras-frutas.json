@@ -1,0 +1,35 @@
+{
+  "modulo": 10,
+  "leccion_numero": "10.2",
+  "titulo": "Conservación de verduras y frutas",
+  "slug": "conservacion-verduras-frutas",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Verduras y frutas se echan a perder de formas distintas según su tipo, y no todas se benefician del mismo trato — meter todo al refrigerador sin criterio es una de las causas más comunes de desperdicio de comida en casa."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Dónde guardar según el tipo",
+      "columnas": ["Tipo", "Dónde guardar", "Notas"],
+      "filas": [
+        ["Hojas verdes", "Refrigerador, en bolsa con papel absorbente", "El papel absorbe humedad extra y evita que se pudran rápido"],
+        ["Tomate", "Temperatura ambiente", "El frío arruina su textura y sabor"],
+        ["Palta", "Temperatura ambiente hasta madurar, luego refrigerador", "Refrigerar detiene la maduración una vez lista"],
+        ["Papa, cebolla, ajo", "Lugar oscuro y ventilado, fuera del refrigerador", "El frío convierte el almidón de la papa en azúcar, alterando su sabor"],
+        ["Berries", "Refrigerador, sin lavar hasta el momento de comer", "Lavar antes de guardar acelera que se echen a perder"],
+        ["Plátano", "Temperatura ambiente", "El frío ennegrece la cáscara y detiene la maduración de forma dispareja"]
+      ]
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Separar lo que madura de lo que no",
+      "texto": "Frutas como el plátano y la manzana liberan gas etileno, que acelera la maduración de lo que tengan cerca. Guardarlas separadas de verduras sensibles (como la lechuga) evita que estas se echen a perder antes de tiempo."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Las verduras de raíz (zanahoria, betarraga) duran considerablemente más si se les corta el follaje antes de guardar — las hojas siguen consumiendo humedad y nutrientes de la raíz incluso después de la cosecha."
+    }
+  ]
+}

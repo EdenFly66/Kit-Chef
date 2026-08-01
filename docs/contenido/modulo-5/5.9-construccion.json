@@ -26,13 +26,28 @@
       "texto": "El lavado por inmersión es más efectivo que el chorro directo, sobre todo con hojas arenosas como la espinaca: se sumergen en agua fría, se mueven suavemente, y se levantan hacia afuera del agua (nunca se cuelan, o la tierra vuelve a caer sobre las hojas). Se repite 2-3 veces si hace falta."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Hojas de espinaca sumergidas en un bowl con agua fría, siendo movidas suavemente para que la tierra se hunda al fondo, mostrando la técnica de lavado por inmersión."
+    },
+    {
       "tipo": "tip",
       "titulo": "El paso que casi todos se saltan",
       "texto": "Guardar la textura para el final parece un detalle menor, pero es el paso que más se salta y más se lamenta. Crotones o semillas agregados temprano absorben aderezo, se ablandan, y terminan hundidos en el fondo del bowl en vez de aportar crocancia en cada bocado."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Mano esparciendo crotones dorados y semillas tostadas sobre una ensalada ya aliñada, justo antes de llevarla a la mesa."
+    },
+    {
       "tipo": "parrafo",
       "texto": "El sazonado en capas es distinto de sazonar todo al final: salar las hojas antes de aliñar, sazonar el aderezo por separado, y terminar con un toque de sal en escamas y pimienta recién molida ya servido. Sazonar en un solo paso casi siempre deja el resultado con menos sabor del que podría tener."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Mano moliendo pimienta y espolvoreando sal en escamas sobre una ensalada ya servida en el plato, mostrando el toque final del sazonado en capas."
     }
   ]
 }

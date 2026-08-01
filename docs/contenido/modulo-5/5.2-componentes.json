@@ -22,13 +22,28 @@
       ]
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Mise en place sobre tabla de madera con los cinco componentes de una ensalada separados a la vista: hojas verdes (base), aceite de oliva y palta (grasa), limón cortado (ácido), nueces tostadas (textura) y hierbas frescas picadas (acento)."
+    },
+    {
       "tipo": "parrafo",
       "texto": "La clave para elegir bien los componentes es restricción y contraste: seguir una o dos lógicas de combinación y quedarse con 3 a 6 ingredientes en total. Cada ingrediente debería cumplir un rol distinto — si dos están haciendo lo mismo, conviene sacar uno. Más ingredientes no significa mejor ensalada, muchas veces significa una ensalada más confusa."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Ensalada terminada con solo cuatro ingredientes visibles en el bowl — lechuga, palta, tomate cherry y semillas tostadas — mostrando cómo un número reducido de ingredientes con roles distintos resulta en un plato claro."
     },
     {
       "tipo": "tip",
       "titulo": "Las cinco sensaciones de sabor",
       "texto": "Cada ingrediente aporta una o más de cinco sensaciones distintas: grasa (sostiene el sabor), ácido (aclara), sal (potencia todo lo demás), dulce (suaviza los filos duros), y amargo (crea tensión y complejidad). No hace falta tener las cinco en cada ensalada, pero saber cuáles están presentes ayuda a identificar qué falta."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Primer plano de tajadas de palta sobre una ensalada recién servida, ilustrando cómo un mismo ingrediente puede cumplir el rol de grasa y de textura al mismo tiempo."
     }
   ]
 }

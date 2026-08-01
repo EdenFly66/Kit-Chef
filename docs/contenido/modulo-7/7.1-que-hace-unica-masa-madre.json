@@ -1,0 +1,41 @@
+{
+  "modulo": 7,
+  "leccion_numero": "7.1",
+  "titulo": "Qué hace única a la masa madre",
+  "slug": "que-hace-unica-masa-madre",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "El pan de masa madre parece simple — solo agua, harina y sal. Pero apenas se empieza a hacer el primer pan, queda claro que hay mucho más detrás de esos tres ingredientes. La masa madre es distinta del pan común por dos motivos: los ingredientes que lleva, y cómo fermenta."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Fotografía cenital de los tres ingredientes base de la masa madre — un bowl con harina, un vaso con agua y un platillo con sal gruesa — dispuestos junto a un frasco con cultivo iniciador activo y burbujeante, para contrastar la simplicidad de la lista de ingredientes."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La mayoría de los panes industriales llevan más de 10 ingredientes, incluyendo mejoradores de masa, endulzantes y conservantes. Un pan de masa madre lleva solo tres: agua, harina y sal. La fermentación de los panes industriales se logra rápido con una sola cepa de levadura comercial, y esas masas terminan de fermentar en apenas un par de horas. La masa madre, en cambio, fermenta con levaduras silvestres y bacterias del ácido láctico presentes en el ambiente — un proceso que puede tomar muchas horas o incluso días, y que desarrolla sabores y texturas que un pan industrial nunca alcanza."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Dos rebanadas de pan una junto a la otra sobre una tabla: a la izquierda un pan de molde industrial de miga uniforme y apretada, a la derecha una rebanada de pan de masa madre con miga irregular y alveolada, mostrando la diferencia visual entre ambos procesos de fermentación."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La masa madre suele considerarse más 'sana' que el pan industrial. Su fermentación natural ayuda a predigerir parte del gluten, lo que puede ayudar a personas con cierta sensibilidad, y tiene un índice glicémico más bajo que otros panes."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Por qué vale la pena aprenderlo",
+      "texto": "Ya sea por los beneficios de un pan fermentado naturalmente, por el sabor superior, o por el gusto de volver a un oficio más tradicional en la cocina, este pan tiene un atractivo que sigue ganando adeptos en todo el mundo."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Pan de masa madre recién horneado, entero, con la greña abierta y la corteza dorada con ampollas, enfriándose sobre una rejilla — toma de tres cuartos que muestre el volumen y la 'oreja' formada en el corte."
+    }
+  ]
+}

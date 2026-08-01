@@ -1,0 +1,38 @@
+{
+  "modulo": 8,
+  "leccion_numero": "8.2",
+  "titulo": "Carne de vacuno",
+  "slug": "tips-carne-vacuno",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "La carne de vacuno se divide en dos grandes familias según cómo conviene cocinarla: cortes magros y tiernos que se cocinan rápido, y cortes duros con colágeno que necesitan cocción lenta para ablandarse."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Cortes chilenos y su mejor uso",
+      "columnas": ["Corte", "Familia", "Mejor técnica"],
+      "filas": [
+        ["Lomo liso, filete", "Magro y tierno", "Sellado a la sartén o parrilla"],
+        ["Entrecot, asado de tira", "Con grasa, tierno", "Sellado, parrilla"],
+        ["Posta rosada, asiento", "Duro, con colágeno", "Braseado, cocción lenta"],
+        ["Osobuco", "Muy duro, mucho colágeno", "Braseado, varias horas"],
+        ["Carne molida", "Variable", "Salteado, a la plancha"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Confundir la familia de un corte es el error más común: intentar sellar rápido un osobuco da un resultado duro y masticable, mientras que brasear por horas un filete lo arruina por completo, secándolo y deshaciendo su textura tierna natural."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Reposo obligatorio",
+      "texto": "Sin importar el corte, dejar reposar la carne después de cocinarla (5-10 minutos para cortes chicos, más para piezas grandes) permite que los jugos se redistribuyan en vez de escaparse todos al primer corte."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El marmoleo (la grasa intramuscular, visible como vetas blancas dentro de la carne) es gran parte de lo que determina el sabor y la jugosidad de un corte magro. Cortes con más marmoleo toleran mejor un punto de cocción más alto sin secarse."
+    }
+  ]
+}

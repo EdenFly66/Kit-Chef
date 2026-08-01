@@ -1,0 +1,45 @@
+{
+  "modulo": 8,
+  "leccion_numero": "8.5",
+  "titulo": "Otros ingredientes",
+  "slug": "tips-otros-ingredientes",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Además de las proteínas, hay un puñado de ingredientes de uso diario que se benefician de conocer un par de trucos específicos."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "**Huevos**: la frescura se puede probar sumergiéndolos en agua — un huevo fresco se hunde y queda de lado, uno más viejo se para en un extremo, y uno realmente pasado flota (por el aire que se acumula adentro con el tiempo, y no conviene usarlo)."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "**Palta**: para madurar más rápido, se puede guardar en una bolsa de papel junto a un plátano — el gas etileno que libera el plátano acelera la maduración. Para que una palta cortada no se ponga café, un chorrito de limón sobre la pulpa expuesta ayuda bastante (ver Módulo 1, ácido: impacto químico)."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "**Cebolla**: cortarla bajo un chorro suave de agua fría reduce bastante el picor en los ojos, porque los compuestos volátiles responsables se disuelven parcialmente en el agua antes de llegar al aire."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "**Ajo**: para pelarlo rápido, aplastar suavemente el diente con la base de un cuchillo (con cuidado) — la cáscara se suelta sola y se retira con facilidad."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "**Limón**: se obtiene más jugo si se hace rodar con firmeza sobre la mesada antes de cortarlo, o si se calienta unos segundos en el microondas — ambos ayudan a romper las membranas internas que retienen el jugo."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Resumen rápido",
+      "columnas": ["Ingrediente", "Truco"],
+      "filas": [
+        ["Huevo", "Prueba de flotación para verificar frescura"],
+        ["Palta", "Bolsa de papel + plátano para madurar más rápido"],
+        ["Cebolla", "Cortar bajo agua fría reduce el ardor en los ojos"],
+        ["Ajo", "Aplastar el diente para pelarlo más rápido"],
+        ["Limón", "Hacerlo rodar o calentarlo un poco antes de exprimir"]
+      ]
+    }
+  ]
+}

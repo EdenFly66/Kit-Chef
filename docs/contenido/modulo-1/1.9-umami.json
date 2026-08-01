@@ -27,6 +27,11 @@
       ]
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Selección de ingredientes ricos en glutamato dispuestos sobre una tabla: un trozo de queso parmesano curado, filetes de anchoa, un tarro de pasta de tomate concentrada y hongos shiitake secos"
+    },
+    {
       "tipo": "parrafo",
       "texto": "Existen además dos compuestos —inosinato y guanilato— que por sí solos casi no tienen sabor, pero que potencian enormemente la percepción del glutamato cuando se combinan con él. Si el glutamato es la llave que abre los receptores de umami, estos compuestos son la cuña que mantiene la puerta abierta. El efecto combinado es mucho más fuerte que cualquiera de los dos ingredientes por separado."
     },
@@ -38,6 +43,11 @@
     {
       "tipo": "parrafo",
       "texto": "Un dashi japonés combina alga kombu (rica en glutamato) con katsuobushi/bonito seco (rico en inosinato). Una salsa boloñesa combina tomate (glutamato) con anchoas (inosinato). Un risotto con hongos combina parmesano (glutamato) con hongos secos (guanilato). En cada caso, ninguno de los dos ingredientes por separado tiene el mismo impacto que la combinación."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Alga kombu y katsuobushi (bonito seco en hojuelas) junto a una olla con agua, los ingredientes base para preparar un dashi japonés"
     },
     {
       "tipo": "tabla",

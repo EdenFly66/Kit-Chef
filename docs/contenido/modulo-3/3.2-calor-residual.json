@@ -14,6 +14,11 @@
       "texto": "El motivo es simple: el exterior de la pieza está mucho más caliente que el centro mientras cocina. Al retirarla del fuego, ese calor acumulado en el exterior sigue avanzando hacia el centro, más frío, hasta que la temperatura se empareja. Ese avance de calor es lo que sigue cocinando la carne por dentro."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Corte transversal de un asado grueso recién retirado del horno, mostrando el borde bien dorado y el centro rosado, para ilustrar el gradiente de temperatura entre el exterior y el centro."
+    },
+    {
       "tipo": "parrafo",
       "texto": "La cantidad de calor residual depende de dos factores: el grosor de la pieza y la intensidad con la que se cocinó. Un bistec fino y sellado a fuego fuerte sube apenas unos 2-3°C después de retirado. Un pollo entero asado, en cambio, puede subir hasta 6°C o más."
     },
@@ -30,6 +35,11 @@
       ]
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Comparación lado a lado de un bistec fino recién sellado a fuego fuerte y un asado grueso recién salido del horno, ambos con termómetro de sonda insertado, para contrastar el aumento de temperatura residual según el grosor del corte."
+    },
+    {
       "tipo": "parrafo",
       "texto": "Esto es exactamente lo que explica por qué en la lección anterior las 'temperaturas de retiro' eran más bajas que las 'temperaturas finales' — no es un margen de seguridad arbitrario, es matemática real: si se espera a que la carne llegue a la temperatura final deseada dentro del horno o la sartén, va a terminar sobrecocida una vez que el calor residual termine de subirla."
     },
@@ -37,6 +47,11 @@
       "tipo": "tip",
       "titulo": "Por qué el reposo es parte de la técnica, no un paso opcional",
       "texto": "El reposo después de cocinar no es solo para que 'se redistribuyan los jugos' (aunque eso también ayuda) — es el tiempo que necesita el calor residual para terminar su trabajo. Cortar la carne apenas sale del fuego interrumpe ese proceso a medio camino."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Trozo de carne reposando sobre una rejilla con papel aluminio suelto por encima, sonda de termómetro con cable aún insertada y monitor visible mostrando cómo la temperatura sigue subiendo durante el reposo."
     },
     {
       "tipo": "parrafo",

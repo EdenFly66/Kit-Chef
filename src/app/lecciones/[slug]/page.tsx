@@ -29,22 +29,23 @@ export default async function LeccionPage({
         ← Volver al módulo
       </Link>
 
-      <div className="mt-6 flex flex-wrap items-center justify-between gap-6">
-        <div>
-          <p className="font-mono text-xs uppercase tracking-wide text-brasa">
-            Lección {leccion.numero}
-          </p>
-          <h1 className="font-titulo text-3xl font-semibold text-foreground">
-            {leccion.titulo}
-          </h1>
-        </div>
-        <MarcarLeidaButton leccionId={leccion.id} />
+      <div className="mt-6">
+        <p className="font-mono text-xs uppercase tracking-wide text-brasa">
+          Lección {leccion.numero}
+        </p>
+        <h1 className="font-titulo text-3xl font-semibold text-foreground">
+          {leccion.titulo}
+        </h1>
       </div>
 
       <div className="mt-8 space-y-6">
         {leccion.contenido.map((bloque, i) => (
           <BloqueRenderer key={i} bloque={bloque} />
         ))}
+      </div>
+
+      <div className="mt-10 border-t border-borde pt-6">
+        <MarcarLeidaButton leccionId={leccion.id} />
       </div>
     </main>
   );

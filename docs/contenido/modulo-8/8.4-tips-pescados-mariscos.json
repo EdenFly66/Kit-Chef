@@ -1,0 +1,38 @@
+{
+  "modulo": 8,
+  "leccion_numero": "8.4",
+  "titulo": "Pescados y mariscos",
+  "slug": "tips-pescados-mariscos",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Pescados y mariscos son las proteínas más rápidas de cocinar de más — sus proteínas son mucho más delicadas que las de la carne o el pollo, y el margen entre 'en su punto' y 'seco y gomoso' es muy angosto."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Guía rápida por tipo",
+      "columnas": ["Tipo", "Mejor técnica", "Señal de que está listo"],
+      "filas": [
+        ["Filete blanco (merluza, congrio)", "Sellado, al horno", "Se despega en láminas con un tenedor"],
+        ["Salmón", "Sellado, al horno", "Centro apenas translúcido, 52-55°C"],
+        ["Camarones", "Salteado rápido", "Forma de 'C', color opaco rosado"],
+        ["Choritos, almejas", "Vapor", "Las valvas se abren solas"],
+        ["Pulpo", "Cocción lenta, luego sellado", "Un cuchillo entra sin resistencia"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La regla más simple para pescado en filete: cocinar hasta que se separe en láminas limpias con un tenedor, pero justo apenas — un segundo de más y la textura pasa de suave a fibrosa y seca."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Sobre el pulpo",
+      "texto": "El pulpo tiene fama de quedar duro como goma, pero es al revés: necesita cocción lenta y prolongada (más de una hora a fuego suave) para que su colágeno se ablande, igual que un corte duro de carne. Recién después de eso conviene sellarlo rápido a fuego fuerte para dorar la superficie."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Los mariscos con concha (choritos, almejas) tienen su propia señal de cocción clara: se abren solos al estar listos. Cualquiera que no se abra después de cocinar, mejor descartarlo — es señal de que no estaba en condiciones desde antes de cocinarlo."
+    }
+  ]
+}

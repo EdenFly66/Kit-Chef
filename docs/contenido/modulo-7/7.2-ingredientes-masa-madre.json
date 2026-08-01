@@ -1,0 +1,71 @@
+{
+  "modulo": 7,
+  "leccion_numero": "7.2",
+  "titulo": "Ingredientes: harina, agua, cultivo iniciador, sal",
+  "slug": "ingredientes-masa-madre",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "La harina aporta todos los nutrientes del pan y, más importante, el gluten. El gluten no es una sola molécula, sino una red de proteínas que se forma cuando la harina se hidrata con agua. Se compone de dos proteínas: glutenina (aporta fuerza y elasticidad) y gliadina (aporta extensibilidad, la capacidad de estirarse sin romperse). Harinas con más proteína tienen más potencial para formar gluten fuerte."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Tipos de harina más comunes",
+      "columnas": ["Harina", "Proteína aprox.", "Uso principal"],
+      "filas": [
+        ["Harina de fuerza / panadera", "12-14%", "Panes con estructura fuerte, buena miga abierta"],
+        ["Harina todo uso / sin polvos", "10-12%", "Uso general, panes de estructura moderada"],
+        ["Harina integral", "13-14%", "Aporta sabor y nutrientes, pero debilita el gluten"],
+        ["Harina de centeno", "8-10%", "Sabor intenso, forma poco gluten, masa pegajosa"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Para quienes recién empiezan, una base de harina de fuerza (85-90%) combinada con un poco de harina integral (10-15%) da buen equilibrio entre estructura y complejidad de sabor."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Primer plano de dos montículos de harina separados sobre la mesa de trabajo — harina de fuerza blanca y harina integral más oscura y granulada — mostrando la diferencia de color y textura entre ambas antes de mezclarlas."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El agua activa las enzimas de la harina y comienza a formar el gluten — recién ahí se puede hablar de masa. El concepto de hidratación (el porcentaje de agua respecto al peso de la harina) es central en panadería: una masa de 70% de hidratación tiene 700 gramos de agua por cada 1.000 gramos de harina."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Hidratación y su efecto en el pan",
+      "columnas": ["Hidratación", "Consistencia", "Resultado"],
+      "filas": [
+        ["55-65%", "Firme, fácil de manejar", "Miga apretada, útil para bollería"],
+        ["65-75%", "Firme pero moldeable", "Buen punto para principiantes"],
+        ["75-85%", "Suave, algo pegajosa", "Miga abierta, pan artesanal"],
+        ["85%+", "Muy húmeda, difícil de manejar", "Miga muy abierta, requiere más práctica"]
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Dos porciones de masa lado a lado sobre la mesa: una masa firme de baja hidratación que sostiene forma de bola compacta, y otra masa de alta hidratación, brillante y ligeramente escurrida, contrastando ambas consistencias."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El cultivo iniciador (o masa madre propiamente tal) es el ingrediente que distingue a este pan. Es un ecosistema vivo de levaduras silvestres y bacterias del ácido láctico, cultivado a partir de solo harina y agua dejadas fermentar con el tiempo. Se cuida con alimentaciones regulares — se descarta una parte y se agrega harina y agua fresca — y se mantiene activo mientras se use con frecuencia."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Frasco de vidrio con cultivo iniciador activo, con una banda elástica marcando el nivel inicial y la masa ya duplicada por encima de esa marca, mostrando burbujas visibles en la superficie y en los costados del frasco."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Empezar con un cultivo ya activo",
+      "texto": "Cultivar un iniciador desde cero puede tomar una o dos semanas, sin garantía de éxito al primer intento. Conseguir una cucharada de cultivo ya maduro de alguien que hace pan habitualmente evita esa frustración inicial y acelera mucho el aprendizaje."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La sal es el ingrediente más pequeño en peso (usualmente 1,8% a 2,2% del peso de la harina), pero cumple un rol crítico: sazona el pan, fortalece la red de gluten haciendo la masa más elástica y manejable, y controla el ritmo de fermentación al frenar la actividad de los microorganismos del cultivo."
+    }
+  ]
+}

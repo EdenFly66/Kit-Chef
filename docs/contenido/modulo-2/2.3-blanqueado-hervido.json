@@ -18,6 +18,11 @@
       "texto": "Para pastas conviene un hervor fuerte y constante, que mantenga las piezas en movimiento y evite que se peguen. Para alimentos densos y almidonados como papas o zanahorias enteras, conviene partir en agua fría — así se cocinan de forma pareja de afuera hacia adentro, en vez de quedar cocidas por fuera y crudas en el centro."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Papas enteras sumergidas en agua fría dentro de la olla, antes de encender el fuego, para ilustrar el arranque en frío de verduras densas y almidonadas."
+    },
+    {
       "tipo": "parrafo",
       "texto": "El blanqueado es una inmersión breve en agua hirviendo con fuerza, seguida de un paro inmediato en agua con hielo. Su función es fijar el color y la textura, desactivar enzimas, y cocinar parcialmente un alimento antes de un paso final. Las verduras verdes obtienen su color de la clorofila. Al entrar en agua hirviendo, se eliminan bolsas de aire en las células que normalmente bloquean parte de ese pigmento, haciendo que se vean aún más vivas."
     },
@@ -35,6 +40,11 @@
         "Paso inmediato a agua con hielo o agua corriente fría, para detener la cocción por completo",
         "Secado completo antes del siguiente paso o del almacenamiento"
       ]
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Verduras verdes recién sacadas del agua hirviendo siendo sumergidas de inmediato en un bowl con agua y hielo, deteniendo la cocción por completo."
     },
     {
       "tipo": "tabla",
@@ -56,6 +66,11 @@
       "tipo": "tip",
       "titulo": "Mejor forma de terminar unas verduras blanqueadas",
       "texto": "Un salteado rápido con ajo y aceite de oliva justo antes de servir — se obtiene color brillante, buena textura, y sabor real, mucho mejor que servirlas tal cual."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Brócoli blanqueado salteado brevemente con ajo y aceite de oliva en una sartén, con el verde brillante característico del resultado final."
     }
   ]
 }

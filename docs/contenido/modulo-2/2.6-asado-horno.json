@@ -24,6 +24,11 @@
       ]
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Bandeja con trozos de zapallo camote dispuestos en una sola capa, con espacio entre cada trozo, antes de entrar al horno."
+    },
+    {
       "tipo": "tabla",
       "titulo": "Temperaturas sugeridas para asar verduras",
       "columnas": ["Grupo", "Ejemplos", "Temperatura"],
@@ -37,6 +42,11 @@
     {
       "tipo": "parrafo",
       "texto": "Para carnes, lo mejor para asar son cortes grandes, tiernos y con algo de grasa. Se salan la noche anterior. Si el corte no tiene un grosor parejo, conviene atarlo para que cocine de forma pareja. Un termómetro de sonda en la parte más gruesa es la forma más confiable de saber cuándo retirarlo."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Trozo de carne atado con hilo de cocina para parejar su forma, con un termómetro de sonda insertado en la parte más gruesa antes de entrar al horno."
     },
     {
       "tipo": "tabla",
@@ -58,6 +68,11 @@
       "tipo": "tip",
       "titulo": "Un buen asado para principiantes",
       "texto": "Un pollo entero asado con verduras de raíz es una de las mejores formas de empezar. Usar las verduras como base bajo el pollo, con las papas alrededor y las verduras más chicas cerca del centro. Asar a 200°C hasta que el pollo llegue a 71°C internos y la piel esté dorada y crocante."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Pollo entero recién salido del horno sobre una cama de verduras de raíz, con la piel dorada y crocante lista para reposar."
     }
   ]
 }

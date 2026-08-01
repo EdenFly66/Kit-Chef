@@ -1,0 +1,64 @@
+{
+  "modulo": 7,
+  "leccion_numero": "7.5",
+  "titulo": "Equipamiento básico por nivel de compromiso",
+  "slug": "equipamiento-panificacion",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Técnicamente se puede hacer algo parecido a pan con solo un bowl y un horno. Pero contar con las herramientas adecuadas hace el proceso mucho más disfrutable y los resultados más consistentes. No hace falta comprar todo de una vez — conviene ir escalando según cuánto se vaya a hornear."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Equipamiento mínimo (para empezar)",
+      "columnas": ["Función", "Herramienta"],
+      "filas": [
+        ["Hogar del cultivo", "Frasco o taper plástico"],
+        ["Medición", "Balanza digital"],
+        ["Mezclado", "Las manos"],
+        ["Fermentación en bloque", "Bowl grande"],
+        ["Formado y reposo final", "Bowl con paño limpio"],
+        ["Corte", "Cuchillo bien afilado"],
+        ["Horneado con vapor", "2 bandejas de horno"]
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Fotografía cenital de una mesa de trabajo con el equipamiento mínimo ordenado: un frasco con cultivo, una balanza digital, un bowl grande, un paño de cocina y un cuchillo afilado."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Equipamiento intermedio (panadero regular)",
+      "columnas": ["Función", "Herramienta"],
+      "filas": [
+        ["Hogar del cultivo", "Frasco de vidrio"],
+        ["Medición", "Balanza digital + termómetro de lectura instantánea"],
+        ["Mezclado", "Rasqueta de bowl + rasqueta de banco"],
+        ["Reposo final", "Canasto de fermentación (banneton) redondo"],
+        ["Corte", "Lama curva (mango con hoja de afeitar)"],
+        ["Horneado con vapor", "Olla de fundición (dutch oven) de 5 litros"]
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Fotografía cenital del equipamiento intermedio dispuesto sobre la mesa: banneton redondo enharinado, lama con hoja de afeitar, rasqueta de banco y una olla de fundición con la tapa al lado."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El vapor es esencial durante los primeros 20 minutos de horneado — mantiene blanda la corteza mientras el pan todavía se está expandiendo, permitiendo que alcance su tamaño máximo antes de que la costra se endurezca. La forma más simple de lograrlo en casa es hornear con una olla de fundición tapada: el vapor lo genera la misma humedad de la masa, atrapada dentro de la olla."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Olla de fundición (dutch oven) dentro del horno, tapada, con un leve escape de vapor visible por el borde de la tapa durante los primeros minutos de cocción."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Lo que más vale la pena comprar primero",
+      "texto": "Si solo se puede invertir en una cosa más allá de lo mínimo, la balanza digital es la prioridad — la precisión en panadería es mucho más importante que en otros tipos de cocina, porque las proporciones afectan directamente la estructura del pan, no solo el sabor."
+    }
+  ]
+}

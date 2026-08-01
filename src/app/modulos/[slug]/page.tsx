@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import { supabase } from "@/lib/supabase/client";
 import type { Leccion, Modulo } from "@/lib/types/database";
@@ -27,7 +28,11 @@ export default async function ModuloPage({
 
   return (
     <main className="mx-auto w-full max-w-2xl px-6 py-12">
-      <p className="font-mono text-xs uppercase tracking-wide text-acero">
+      <Link href="/modulos" className="text-sm text-acero hover:underline">
+        ← Volver a módulos
+      </Link>
+
+      <p className="mt-4 font-mono text-xs uppercase tracking-wide text-acero">
         Módulo {modulo.numero}
       </p>
       <h1 className="font-titulo text-3xl font-semibold text-foreground">

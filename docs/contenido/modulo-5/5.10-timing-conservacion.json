@@ -14,8 +14,18 @@
       "texto": "Las ensaladas mezcladas y compuestas se sirven de inmediato — las hojas aliñadas se marchitan en unos 10 minutos. Nunca conviene volver a aliñar una ensalada que ya se sirvió antes; mejor agregar aderezo fresco a las sobras. Elementos calientes o asados se agregan justo al final, recién antes de servir."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Ensalada recién aliñada junto a la misma ensalada 10 minutos después, mostrando cómo las hojas se marchitan si no se sirve de inmediato."
+    },
+    {
       "tipo": "parrafo",
       "texto": "Las ensaladas ligadas y farináceas, en cambio, mejoran después de 20-30 minutos de reposo — los sabores se desarrollan y se asientan. Conviene probar de nuevo antes de servir y reajustar la sazón, ya que la preparación va a haber absorbido parte del ácido y la sal."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Bowl de ensalada de garbanzos y farro cubierto con film, reposando sobre la mesada durante los 20-30 minutos antes de servir."
     },
     {
       "tipo": "tabla",
@@ -26,6 +36,11 @@
         ["Con ajo o chalota fresca", "5-7 días", "El ajo se suaviza y endulza los primeros 2-3 días, después empieza a dominar"],
         ["Con hierba fresca o cítrico", "3 días", "Las hierbas se oxidan rápido, el cítrico se vuelve amargo — agregar al final, no de entrada"]
       ]
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Varios frascos de vinagreta etiquetados con la fecha de preparación, guardados en la puerta del refrigerador."
     },
     {
       "tipo": "lista",

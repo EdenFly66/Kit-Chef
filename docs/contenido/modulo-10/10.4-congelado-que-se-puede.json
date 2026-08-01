@@ -1,0 +1,46 @@
+{
+  "modulo": 10,
+  "leccion_numero": "10.4",
+  "titulo": "Congelado: qué se puede y qué no",
+  "slug": "congelado-que-se-puede",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "El congelador puede extender mucho la vida útil de la comida, pero no todos los alimentos toleran bien el proceso — algunos cambian de textura de forma tan drástica que dejan de ser agradables al descongelar."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Qué congela bien",
+      "columnas": ["Alimento", "Notas"],
+      "filas": [
+        ["Guisos, sopas, salsas", "Excelente candidato — la textura casi no cambia"],
+        ["Carnes crudas o cocidas", "Muy bien, sobre todo bien envueltas"],
+        ["Pan", "Muy bien, rebanado o entero"],
+        ["Verduras blanqueadas", "Bien, siempre que se blanqueen antes de congelar"],
+        ["Masa cruda (pan, empanadas)", "Muy bien, ideal para preparar con anticipación"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Qué NO congela bien",
+      "columnas": ["Alimento", "Qué pasa"],
+      "filas": [
+        ["Lechuga y verduras de hoja crudas", "Se vuelven acuosas y flácidas al descongelar"],
+        ["Papa cocida (entera, en trozos)", "Cambia de textura, queda granulada"],
+        ["Huevos con cáscara", "El líquido se expande y puede romper la cáscara"],
+        ["Salsas con base de crema o mayonesa", "Se cortan al descongelar"],
+        ["Frituras", "Pierden por completo la textura crocante"]
+      ]
+    },
+    {
+      "tipo": "tip",
+      "titulo": "El enemigo es el aire, no el frío",
+      "texto": "La mayoría de los problemas de 'quemado por congelador' (esas manchas blancas y textura correosa) vienen de bolsas de aire dentro del envase, no del frío en sí. Envolver bien apretado, sacando todo el aire posible, evita ese problema casi por completo."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Etiquetar con el nombre y la fecha antes de congelar es un hábito simple que ahorra mucha frustración después — es sorprendentemente difícil reconocer un guiso congelado de otro solo por su apariencia."
+    }
+  ]
+}

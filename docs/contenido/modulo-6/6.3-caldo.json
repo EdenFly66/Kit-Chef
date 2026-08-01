@@ -17,9 +17,12 @@
   "pasos": [
     { "numero_paso": 1, "instruccion": "Colocar los huesos en una olla grande y cubrir con agua fría, unos 3-4 litros.", "tecnica_relacionada": null },
     { "numero_paso": 2, "instruccion": "Llevar a hervor suave (no un hervor fuerte, que enturbia el caldo) y espumar las impurezas que suben a la superficie los primeros 15-20 minutos.", "tecnica_relacionada": "blanqueado-hervido-hervor-lento" },
+    { "tipo": "imagen", "url": "", "caption": "Superficie del caldo durante el espumado: espuma grisácea de impurezas siendo retirada con un cucharón, agua apenas en hervor suave" },
     { "numero_paso": 3, "instruccion": "Agregar cebolla, zanahoria, apio y laurel, cortados en trozos grandes (no importa la precisión, se van a colar al final).", "tecnica_relacionada": "tipos-de-corte" },
+    { "tipo": "imagen", "url": "", "caption": "Zanahoria, apio, cebolla y laurel en trozos grandes flotando en el caldo, recién incorporados a la olla" },
     { "numero_paso": 4, "instruccion": "Cocinar a fuego muy bajo, con el agua apenas burbujeando, por 2-3 horas.", "tecnica_relacionada": null },
-    { "numero_paso": 5, "instruccion": "Colar, salar a gusto, y dejar enfriar antes de guardar. Se conserva unos 4-5 días en el refrigerador, o varios meses congelado.", "tecnica_relacionada": "salar-a-gusto" }
+    { "numero_paso": 5, "instruccion": "Colar, salar a gusto, y dejar enfriar antes de guardar. Se conserva unos 4-5 días en el refrigerador, o varios meses congelado.", "tecnica_relacionada": "salar-a-gusto" },
+    { "tipo": "imagen", "url": "", "caption": "Caldo colado en un bowl, de color dorado claro y transparente, sin restos de huesos ni verduras" }
   ],
   "tags_dieta": []
 }

@@ -14,6 +14,11 @@
       "texto": "El ácido opaca el color de las verduras verdes. La clorofila, el pigmento que les da ese verde brillante, se degrada rápido en un ambiente ácido. Por eso conviene agregar limón o vinagre a una ensalada justo antes de servir, nunca con anticipación. El efecto contrario ocurre con los rojos y morados — las antocianinas (el pigmento de la col morada, la cebolla morada o la betarraga) se vuelven más vivas e intensas con el ácido. Cebolla morada en vinagre se pone de un rosado eléctrico en pocos minutos."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Cebolla morada cortada en pluma sumergida en vinagre dentro de un frasco de vidrio, mostrando el cambio de color hacia un rosado intenso en pocos minutos"
+    },
+    {
       "tipo": "parrafo",
       "texto": "Una pequeña cantidad de cítrico también evita que la fruta y verdura cortada se oxide y se ponga café. El ácido ascórbico (vitamina C) inhibe la enzima responsable de esa oxidación — por eso un chorrito de limón sobre una manzana o palta cortada las mantiene con buen aspecto por horas."
     },
@@ -23,8 +28,18 @@
       "texto": "Para que una palta cortada no se ponga café mientras se prepara el resto de una comida, basta con rociarla con un poco de jugo de limón."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Mitad de palta cortada siendo rociada con jugo de limón para evitar que la pulpa se oxide y se ponga café"
+    },
+    {
       "tipo": "parrafo",
       "texto": "En las proteínas, el ácido provoca que se tensen y se desnaturalicen, de forma parecida a como lo hace el calor. Unas gotas de limón o vinagre agregadas a productos lácteos hacen que las proteínas se coagulen y corten — así es como se hace el queso fresco casero. Por eso no conviene dejar proteínas delicadas como el pescado en contacto con ácido por mucho tiempo, salvo que la intención sea 'cocinarlo' químicamente, como en un ceviche: el ácido pone la carne opaca y firme, igual que lo haría el calor."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Cubos de pescado blanco crudo en jugo de limón dentro de un bowl, con la superficie ya opaca y firme por el efecto del ácido, en el punto típico de un ceviche"
     },
     {
       "tipo": "parrafo",

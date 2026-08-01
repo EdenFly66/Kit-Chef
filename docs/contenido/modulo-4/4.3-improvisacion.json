@@ -10,6 +10,11 @@
       "texto": "Esto es hacia donde apuntaban todas las lecciones anteriores. Ya se tienen las herramientas — ahora toca aprender a usarlas juntas, sin depender de una receta paso a paso. Cocinar de verdad es más parecido a improvisar sobre una base que a seguir una partitura al pie de la letra: hay que ajustarse a los ingredientes que hay, al punto exacto de un limón, a lo que ofrezca la carnicería ese día."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Mesón de cocina fotografiado desde arriba, con una proteína, verduras variadas y condimentos sueltos dispuestos sin ningún libro de recetas ni papel a la vista, transmitiendo la idea de empezar a cocinar sin una receta escrita."
+    },
+    {
       "tipo": "lista",
       "titulo": "El framework de 6 pasos",
       "items": [
@@ -35,12 +40,22 @@
       "texto": "Antes de empezar a cocinar, tener todos los ingredientes organizados — lo que se conoce como 'mise en place' ('todo en su lugar', en francés). Todo lo que se pueda preparar con anticipación, hacerlo antes. Esto saca presión y multitarea del momento en que ya hay algo sobre el fuego."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Estación de mise en place fotografiada desde arriba: varios pocillos pequeños con ingredientes ya picados y porcionados (ajo picado, cebolla en cubos, especias medidas) ordenados en fila, listos antes de encender el fuego."
+    },
+    {
       "tipo": "parrafo",
       "texto": "El paso de probar y ajustar merece su propio espacio porque casi nadie lo hace de forma consciente. Plano, significa que falta sal. Pesado o apagado, significa que falta ácido. Delgado o unidimensional, significa que falta más especia o profundidad. Filoso o duro, un poco de dulzor ayuda a equilibrar."
     },
     {
       "tipo": "parrafo",
       "texto": "El paso de terminación es el gesto profesional que la mayoría de la gente en casa se salta. Fuera del fuego, justo antes de servir, agregar uno o más de estos tres elementos: una grasa de terminación (mantequilla, buen aceite de oliva, unas gotas de aceite de sésamo), un elemento fresco (hierbas, cebollín, un toque de cítrico), y textura (algo crocante). No hace falta usar los tres siempre, pero casi siempre uno de ellos eleva un plato de bueno a memorable."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Primer plano de una mano espolvoreando hierbas frescas picadas y agregando un chorrito de aceite de oliva sobre un plato ya armado, justo antes de servir, mostrando el gesto final de terminación."
     }
   ]
 }

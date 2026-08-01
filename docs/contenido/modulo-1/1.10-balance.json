@@ -18,6 +18,11 @@
       "texto": "El segundo nivel es el plato completo. Un plato está balanceado si se puede construir el bocado perfecto — uno donde sal, grasa y ácido conviven y se potencian entre sí. ¿Está bien sazonado? ¿Tiene grasa que transporte los sabores? ¿Tiene ácido que aporte contraste? Los tres deberían ser perceptibles, sin que ninguno domine por completo."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Plato terminado con un trozo de proteína bañado en salsa untuosa y un toque final de hierbas frescas o cítrico, ejemplo de sal, grasa y ácido en equilibrio en un mismo bocado"
+    },
+    {
       "tipo": "parrafo",
       "texto": "El tercer nivel es la comida completa, con varios platos. El orden en que se sirven las cosas también importa. No conviene acumular platos pesados sin ningún respiro ácido entre medio — una comida con entrada frita, plato principal pesado y postre denso deja satisfecho, pero también incómodo, porque nada reseteó el paladar en el camino."
     },
@@ -25,6 +30,11 @@
       "tipo": "tip",
       "titulo": "Sobre componentes 'desbalanceados a propósito'",
       "texto": "Algunos componentes no están pensados para comerse solos — su función es balancear otra cosa. Una salsa picante, la mayoría de los encurtidos y muchos condimentos son demasiado ácidos o salados por sí solos, pero están perfectamente calibrados para redondear un bocado de algo pesado. No hay que probarlos solos y juzgarlos como desbalanceados — su trabajo es en conjunto."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Pequeño bowl de encurtidos o salsa picante servido junto a un plato principal pesado, mostrando su rol como contraste dentro de la comida completa"
     },
     {
       "tipo": "tabla",
@@ -42,6 +52,11 @@
     {
       "tipo": "parrafo",
       "texto": "Para arreglar algo demasiado salado, el método clásico es la dilución: agregar más ingredientes sin sal para bajar el porcentaje de sal en toda la preparación. Por eso conviene siempre reservar una parte de cada ingrediente al armar una salsa o aliño — si se usa todo y termina quedando salado, no hay forma de diluirlo sin rehacer la receta completa."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Porción de un ingrediente sin sal (por ejemplo, crema o caldo neutro) reservada aparte junto a una olla de salsa, lista para diluirla si queda demasiado salada"
     },
     {
       "tipo": "tip",

@@ -1,0 +1,57 @@
+{
+  "modulo": 7,
+  "leccion_numero": "7.4",
+  "titulo": "Técnicas de panificación",
+  "slug": "tecnicas-panificacion",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Hacer un pan de masa madre requiere un puñado de técnicas que se van encadenando. Ninguna necesita salir perfecta desde el primer intento — se aprenden horneando, no leyendo."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "**Autólisis**: mezclar solo la harina y el agua, y dejar reposar sin tocar por un rato antes de agregar sal o cultivo. Le da tiempo al almidón para absorber agua y activa las enzimas que van a generar azúcares fermentables y liberar proteínas para formar gluten. Harinas de fuerza necesitan unos 30 minutos; con harina integral o centeno conviene alargarlo a una hora."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "**Amasado**: el objetivo es incorporar la sal y el cultivo de forma pareja, y dar el primer empuje al desarrollo del gluten. Se puede hacer a mano (más control, resultado más tierno) o con batidora con gancho (más agresivo, buena estructura desde el inicio). Se sabe que está lista cuando la superficie se ve más lisa, menos pegajosa, y sostiene una forma unificada."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Manos estirando un trozo de masa entre los dedos hasta formar una membrana translúcida y delgada sin que se rompa (prueba de la ventana), mostrando el punto de desarrollo del gluten después del amasado."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "**Pliegues**: se hacen en las primeras horas de la fermentación en bloque, para fortalecer la red de gluten con suavidad. Se toma un extremo de la masa, se estira hacia arriba sin romperla, y se dobla sobre el centro — se repite girando el recipiente un cuarto de vuelta cada vez. Con 3-4 rondas espaciadas cada 30-45 minutos suele bastar."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "**Preformado**: al terminar la fermentación en bloque, se divide la masa en porciones y se les da una forma redonda suelta, para darles estructura antes del formado final. Se deja reposar unos 15-20 minutos tapada — este descanso relaja el gluten y facilita el paso siguiente."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "**Formado final**: acá se construye la tensión definitiva de la masa. Para un pan redondo (boule), se estira suave la masa hacia el centro desde los bordes, y luego se gira sobre la mesa sin harina para tensar la superficie mediante fricción. Para un pan alargado (batard), se dobla la masa sobre sí misma en pliegues sucesivos, sellando bien las uniones."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Manos girando una bola de masa sobre la mesa sin harina, con los dedos en forma de copa a los costados, capturando el momento en que la superficie se tensa por la fricción durante el formado final."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "**Greñado**: es el corte que se hace en la superficie de la masa justo antes de hornear. El pan puede expandirse hasta tres veces su tamaño original durante la cocción — sin un corte, esa expansión ocurre de forma impredecible, reventando el pan por su punto más débil. El corte dirige esa expansión de forma controlada, y de paso aporta un valor estético al pan terminado."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "El ángulo del corte importa",
+      "texto": "Un corte hecho en un ángulo entre 30° y 45° respecto a la superficie de la masa genera una solapa que se abre de forma controlada durante el horneado, formando la característica 'oreja' del pan. Un corte demasiado vertical no genera ese efecto."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Lama en mano haciendo un corte en ángulo de unos 30-45 grados sobre la superficie de una masa ya formada, justo antes de hornear, mostrando la inclinación de la hoja respecto a la masa."
+    }
+  ]
+}

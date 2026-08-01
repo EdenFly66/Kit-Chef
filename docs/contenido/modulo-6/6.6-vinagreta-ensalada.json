@@ -19,10 +19,13 @@
   "pasos": [
     { "numero_paso": 1, "instruccion": "Lavar las hojas por inmersión, no bajo el chorro, y secarlas por completo.", "tecnica_relacionada": "construccion-armado" },
     { "numero_paso": 2, "instruccion": "Disolver la sal en el vinagre, agregar la mostaza, y luego incorporar el aceite en un chorro lento mientras se bate, hasta emulsionar.", "tecnica_relacionada": "aderezos-formula-base" },
+    { "tipo": "imagen", "url": "", "caption": "Chorro de aceite de oliva cayendo en la mezcla de vinagre y mostaza mientras se bate con varillas, en el momento de emulsionar" },
     { "numero_paso": 3, "instruccion": "Probar el aderezo sobre una hoja (no en la cuchara) y ajustar sal o ácido si hace falta.", "tecnica_relacionada": "troubleshooting-aderezos" },
     { "numero_paso": 4, "instruccion": "Colocar las hojas en un bowl grande, agregar el aderezo por los bordes del bowl, y mezclar levantando desde abajo, nunca revolviendo.", "tecnica_relacionada": "construccion-armado" },
+    { "tipo": "imagen", "url": "", "caption": "Manos mezclando la ensalada desde abajo hacia arriba dentro del bowl, levantando las hojas para distribuir el aderezo sin aplastarlas" },
     { "numero_paso": 5, "instruccion": "Agregar el tomate cherry cortado por la mitad, y mezclar suave.", "tecnica_relacionada": "tipos-de-corte" },
-    { "numero_paso": 6, "instruccion": "Terminar con parmesano y nueces recién antes de servir, para que la textura no se pierda.", "tecnica_relacionada": "cinco-componentes-ensalada" }
+    { "numero_paso": 6, "instruccion": "Terminar con parmesano y nueces recién antes de servir, para que la textura no se pierda.", "tecnica_relacionada": "cinco-componentes-ensalada" },
+    { "tipo": "imagen", "url": "", "caption": "Ensalada terminada en el bowl, con virutas de parmesano y nueces recién espolvoreadas por encima" }
   ],
   "tags_dieta": ["vegetariano"]
 }

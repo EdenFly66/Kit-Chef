@@ -10,6 +10,11 @@
       "texto": "Casi ninguna receta se rompe por completo porque falte un ingrediente. Lo que suele romperse es el resultado final si se reemplaza sin entender qué función cumplía ese ingrediente en la preparación. La clave para sustituir bien no es memorizar una lista de reemplazos, sino identificar el rol que cumple lo que falta: ¿aporta grasa? ¿ácido? ¿espesor? ¿dulzor? Una vez identificado ese rol, encontrar un reemplazo se vuelve mucho más simple."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Un bloque de mantequilla junto a una botella de aceite neutro, cada uno con una cuchara servida al lado, fotografiados en comparación directa para mostrar dos ingredientes que cumplen la misma función de grasa en un salteado."
+    },
+    {
       "tipo": "tabla",
       "titulo": "Sustituciones comunes por función",
       "columnas": ["Falta esto", "Función que cumple", "Reemplazo posible"],
@@ -25,6 +30,11 @@
       ]
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Dos manojos de hierbas frescas lado a lado sobre la tabla de picar, cilantro y perejil, mostrando la diferencia de color y textura entre un ingrediente y su sustituto funcional."
+    },
+    {
       "tipo": "parrafo",
       "texto": "Algunas sustituciones cambian el sabor final del plato (cambiar cilantro por perejil, por ejemplo, da un resultado distinto, aunque funcional). Otras son casi invisibles al paladar (cambiar mantequilla por aceite en un salteado rara vez se nota). Vale la pena distinguir entre ambos tipos antes de decidir un reemplazo, sobre todo si el ingrediente es el protagonista del plato."
     },
@@ -32,6 +42,11 @@
       "tipo": "tip",
       "titulo": "Cuándo NO conviene sustituir",
       "texto": "En pastelería y panadería, donde las proporciones son químicamente precisas (harina, leudante, líquido), las sustituciones son más riesgosas que en cocina salada. Ahí conviene ser más conservador y buscar un reemplazo probado específicamente para esa función, en vez de improvisar."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Balanza de cocina digital mostrando un bowl de harina siendo pesado con precisión, junto a un vaso medidor de líquido, representando el nivel de exactitud que requiere una receta de pastelería antes de cambiar un ingrediente."
     },
     {
       "tipo": "parrafo",

@@ -23,13 +23,28 @@
       ]
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Bowl de aderezo cortado, con el aceite separado y flotando en la superficie, mostrando el problema de 'no emulsiona' antes de corregirlo."
+    },
+    {
       "tipo": "parrafo",
       "texto": "Siempre conviene probar el aderezo sobre una hoja real, no directo de la cuchara — un aderezo se siente más filoso en la cuchara de lo que se siente puesto sobre una hoja."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Mano sumergiendo una hoja de lechuga en un tarro de aderezo para probar el sabor directamente sobre la hoja, en vez de probar desde la cuchara."
     },
     {
       "tipo": "tip",
       "titulo": "El truco del tiempo",
       "texto": "Hacer el aderezo primero y dejarlo reposar 10-15 minutos mientras se preparan los demás componentes. El ajo se suaviza, los sabores se integran, y la emulsión se estabiliza — para cuando la ensalada está lista, el aderezo va a estar notablemente mejor que recién hecho."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Tarro de aderezo recién hecho reposando sobre la mesada junto a los demás ingredientes de la ensalada siendo picados, ilustrando los 10-15 minutos de reposo antes de servir."
     }
   ]
 }

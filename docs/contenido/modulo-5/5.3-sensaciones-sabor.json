@@ -26,6 +26,11 @@
       "texto": "Las combinaciones más confiables en ensaladas se basan en tensiones entre dos de estas sensaciones. Amargo con dulce es de las más efectivas: la amargura deja de ser un defecto y se convierte en una cualidad cuando hay dulzor cerca para atemperarla. Radicchio con higo, rúcula con uva asada — ese tipo de combinación."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Bowl de rúcula con uvas asadas y trozos de queso azul repartidos encima, mostrando la combinación de tensión amargo-dulce antes de aliñar."
+    },
+    {
       "tipo": "tabla",
       "titulo": "Combinaciones de tensión más usadas",
       "columnas": ["Combinación", "Por qué funciona", "Ejemplo"],
@@ -37,9 +42,19 @@
       ]
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Trozos de sandía y queso feta desmenuzado sobre un plato, ejemplificando la combinación de tensión sal-dulce de la tabla."
+    },
+    {
       "tipo": "tip",
       "titulo": "Cómo usar esto en la práctica",
       "texto": "Antes de agregar un ingrediente nuevo a una ensalada, preguntarse qué sensación aporta. Si ya hay tres ingredientes con grasa y ninguno con ácido, ese es el hueco que hay que llenar — no otro ingrediente graso más."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Mano rociando jugo de limón fresco sobre una ensalada ya aliñada con abundante aceite de oliva, ilustrando cómo agregar ácido corrige un desequilibrio de grasa."
     }
   ]
 }

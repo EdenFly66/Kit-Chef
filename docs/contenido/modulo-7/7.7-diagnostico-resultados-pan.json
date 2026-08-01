@@ -1,0 +1,61 @@
+{
+  "modulo": 7,
+  "leccion_numero": "7.7",
+  "titulo": "Diagnóstico de resultados",
+  "slug": "diagnostico-resultados-pan",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Antes de comerse el pan entero, vale la pena tomarse un momento para evaluar cómo se ve, se siente y sabe. Estas observaciones ayudan a entender qué funcionó y qué se puede ajustar la próxima vez."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El indicador más dramático de un buen pan es el crecimiento en el horno (llamado 'oven spring'), combinado con la 'oreja' que se forma en el corte. Un buen pan va a tener un crecimiento parejo y voluminoso donde se expandió el corte. Un pan sub-fermentado igual puede lograr buen crecimiento, pero uno sobre-fermentado no."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Pan entero de perfil, mostrando el crecimiento en el horno y la 'oreja' abierta a lo largo de la línea de greñado, con volumen parejo a ambos lados del corte."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La corteza debería verse de un dorado profundo a color castaño, con pequeñas ampollas y grietas al enfriarse — señal de una masa bien fermentada y reposada en frío. Si la corteza está pálida, probablemente falta cocción. Si está opaca en vez de brillante, faltó vapor en la primera mitad del horneado."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Primer plano de la corteza de un pan recién horneado, mostrando el color castaño profundo, pequeñas ampollas y grietas finas típicas de una masa bien fermentada."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La miga es la huella digital del pan — cada una es única y entrega más información que cualquier otra característica. Es fundamental dejar reposar el pan al menos una hora antes de cortarlo: el vapor atrapado adentro todavía sigue gelatinizando el almidón, y cortar antes de tiempo aplasta la estructura suave y deja una miga pegajosa o gomosa."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Diagnóstico según la miga",
+      "columnas": ["Lo que se observa", "Causa probable"],
+      "filas": [
+        ["Pocos agujeros grandes en medio de una miga densa", "Masa sub-fermentada"],
+        ["Agujeros grandes cerca de la corteza, densa hacia abajo", "Sub-fermentación o formado deficiente"],
+        ["Agujeros muy chicos con paredes irregulares", "Sobre-fermentación, pérdida de fuerza del gluten"],
+        ["Miga muy húmeda y pegajosa", "Falta de cocción"],
+        ["Miga seca y desmoronadiza", "Exceso de cocción, o harina muy vieja"]
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Pan cortado por la mitad, mostrando la miga completa en corte transversal, con alveolos irregulares de distintos tamaños distribuidos por toda la rebanada."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Los hombros del pan (los bordes donde la miga se encuentra con la corteza) también dan información: hombros redondeados y con buen volumen indican que el pan fue formado con buena tensión y creció con fuerza. Hombros angostos o caídos suelen indicar sobre-fermentación, o una red de gluten poco desarrollada para sostener el nivel de hidratación de la masa."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Llevar un registro",
+      "texto": "Anotar qué se hizo y comparar con el resultado obtenido es una de las formas más rápidas de mejorar como panadero — con el tiempo, los patrones entre proceso y resultado se vuelven mucho más claros."
+    }
+  ]
+}

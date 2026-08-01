@@ -10,6 +10,11 @@
       "texto": "La temperatura es determinante para la textura, la jugosidad y la seguridad de la carne. Adivinar según el tiempo o el tacto lleva a resultados inconsistentes. Un buen termómetro de lectura instantánea es una de las mejores inversiones que se pueden hacer para cocinar mejor."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Termómetro de lectura instantánea insertado en el centro de un trozo grueso de lomo liso sobre tabla de cortar, con la pantalla digital en foco mostrando la lectura de temperatura."
+    },
+    {
       "tipo": "parrafo",
       "texto": "La carne está compuesta principalmente por proteína (miosina y actina), grasa y agua. La grasa se derrite entre 43°C y 60°C — ahí es cuando la grasa intramuscular empieza a licuarse y aportar sabor. La miosina comienza a desnaturalizarse cerca de los 49°C, punto en el que la carne se vuelve firme pero se mantiene tierna y jugosa. Cuando la actina se desnaturaliza a temperaturas más altas, se contrae y expulsa humedad — esto es justo lo que hace que la carne recocida quede seca y gomosa."
     },
@@ -31,6 +36,11 @@
       "texto": "La recomendación estándar de cocinar el pollo a 74°C es en realidad una simplificación. La seguridad alimentaria depende de una combinación de tiempo Y temperatura, no solo de la temperatura. A 74°C, las bacterias mueren al instante. Pero mantener la carne a 63°C durante unos 3 minutos logra el mismo efecto de pasteurización. Por eso un pollo jugoso terminado a 65°C es igual de seguro que uno seco y recocido a 74°C, siempre que se le dé el tiempo de reposo adecuado."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Sonda de termómetro insertada en el centro de una pechuga de pollo, con la pantalla mostrando 65°C, junto a un segundo trozo de pollo recocido y reseco para contraste visual."
+    },
+    {
       "tipo": "lista",
       "titulo": "Cómo usar la sonda correctamente",
       "items": [
@@ -39,6 +49,11 @@
         "Usar sondas con cable solo como monitor: si es de cable, sirve para monitorear durante la cocción, pero conviene verificar la temperatura final con una de lectura instantánea",
         "Considerar la cocción residual: retirar la carne del calor antes de la temperatura objetivo — la cocción residual la va a terminar de llevar"
       ]
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Primer plano de la punta de la sonda insertada en la parte más gruesa de un muslo de pollo, angulada para evitar el hueso, mostrando el gesto de mover levemente la punta para ubicar el punto más frío."
     },
     {
       "tipo": "tip",

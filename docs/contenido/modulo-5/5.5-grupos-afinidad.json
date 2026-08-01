@@ -14,6 +14,11 @@
       "texto": "**Grupo de hojas amargas** (rúcula, radicchio, endivia, berros): todas quieren grasa fuerte (parmesano, nueces, buen aceite de oliva), algo dulce (pera, higo, betarraga asada), y ácido filoso (balsámico, vinagre de jerez). Se resisten a los aliños suaves y a las hierbas delicadas."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Ensalada de rúcula y radicchio con láminas de pera, nueces tostadas y virutas de parmesano, mostrando una combinación típica del grupo de hojas amargas."
+    },
+    {
       "tipo": "parrafo",
       "texto": "**Grupo mediterráneo** (tomate, pepino, aceituna, alcaparra, queso feta): todos quieren buen aceite de oliva, hierbas frescas (orégano, perejil, menta), y ácido brillante (vinagre de vino tinto o limón). Se resisten a los aliños cremosos y a cualquier cosa que opaque su frescura."
     },
@@ -22,8 +27,18 @@
       "texto": "**Grupo de verduras asadas** (zapallo, zanahoria, betarraga, coliflor, camote): todos quieren aliños de tahini o yogur, especias cálidas (comino, pimentón ahumado), y algo fresco de contraste (hierba cruda, cebolla encurtida, granada). Se resisten a los aliños muy ácidos y filosos."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Zapallo y betarraga asados sobre una base de yogur con tahini, semillas de granada y cebolla encurtida por encima, ejemplo del grupo de verduras asadas."
+    },
+    {
       "tipo": "parrafo",
       "texto": "**Grupo de granos y legumbres** (farro, lentejas, garbanzos, quinoa): todos quieren más ácido del que parece necesario (lo absorben rápido), algo crocante (semillas tostadas, apio crudo, pepino), y un acento con punch (limón en conserva, ají fresco)."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Ensalada de farro y garbanzos con apio picado, semillas tostadas y rodajas de limón en conserva, mostrando el grupo de granos y legumbres."
     },
     {
       "tipo": "parrafo",

@@ -14,6 +14,11 @@
       "texto": "Las hojas verdes (lechuga, acelga, espinaca) se lavan mejor sumergidas en un bowl con agua fría, moviéndolas suavemente con la mano — no bajo el chorro directo, que no saca bien la tierra escondida entre las hojas. Si el agua queda turbia, cambiala y repetí. Un secador de hojas (o simplemente un paño limpio y harta paciencia) es clave después: la hoja mojada no agarra bien el aliño y se echa a perder más rápido."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Hojas de lechuga sumergidas en un bowl con agua fría, siendo movidas suavemente con la mano para soltar la tierra"
+    },
+    {
       "tipo": "tip",
       "titulo": "El orden importa con las verduras de raíz",
       "texto": "Papas, zanahorias y similares se lavan y refriegan ANTES de pelar, no después. Si pelás primero, arrastrás la tierra de la cáscara hacia la pulpa en el momento en que el pelador la toca."
@@ -21,6 +26,11 @@
     {
       "tipo": "parrafo",
       "texto": "Frutas y verduras con cáscara comestible (manzana, pepino, tomate) suelen traer una capa cerosa de la venta al por mayor — un buen refregado bajo agua corriente, con las manos o un cepillo suave, ayuda a sacarla junto con la mayoría de los residuos de superficie."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Manzana entera siendo refregada bajo el chorro de agua corriente con un cepillo suave para sacar la capa cerosa de la cáscara"
     },
     {
       "tipo": "parrafo",
@@ -38,6 +48,11 @@
     {
       "tipo": "parrafo",
       "texto": "La forma más simple de evitarlo es tener tablas separadas: una para carnes crudas y otra para todo lo demás (verduras, pan, cosas que se comen crudas). Si solo tienes una tabla, el orden importa: corta primero lo que se come crudo, y deja la carne cruda para el final — así no contaminas nada que ya no se va a cocinar después."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Dos tablas de picar lado a lado sobre el mesón: una con trozos de pollo crudo, otra con verduras recién cortadas, mostrando la separación física entre ambas"
     },
     {
       "tipo": "tabla",

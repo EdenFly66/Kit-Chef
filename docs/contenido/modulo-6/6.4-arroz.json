@@ -15,11 +15,14 @@
   ],
   "pasos": [
     { "numero_paso": 1, "instruccion": "Lavar el arroz bajo agua fría hasta que el agua salga clara, para sacar el exceso de almidón de superficie.", "tecnica_relacionada": "limpieza-manejo-alimentos" },
+    { "tipo": "imagen", "url": "", "caption": "Agua de lavado del arroz en un colador: comparación entre el primer enjuague turbio y el agua ya clara tras varios lavados" },
     { "numero_paso": 2, "instruccion": "Picar la media cebolla en brunoise fina.", "tecnica_relacionada": "tipos-de-corte" },
     { "numero_paso": 3, "instruccion": "Calentar el aceite en una olla, sofreír la cebolla hasta que esté transparente.", "tecnica_relacionada": "salteado" },
     { "numero_paso": 4, "instruccion": "Agregar el arroz escurrido y sofreír 1-2 minutos, revolviendo, hasta que los granos se vean translúcidos por los bordes.", "tecnica_relacionada": null },
+    { "tipo": "imagen", "url": "", "caption": "Granos de arroz en la olla con la cebolla, translúcidos en los bordes y opacos en el centro, justo antes de agregar el agua" },
     { "numero_paso": 5, "instruccion": "Agregar el agua y la sal, llevar a hervor, luego bajar a fuego mínimo y tapar. Cocinar 15-18 minutos sin destapar.", "tecnica_relacionada": "cuando-salar" },
-    { "numero_paso": 6, "instruccion": "Retirar del fuego y dejar reposar tapado 5 minutos más antes de destapar y separar los granos con un tenedor.", "tecnica_relacionada": null }
+    { "numero_paso": 6, "instruccion": "Retirar del fuego y dejar reposar tapado 5 minutos más antes de destapar y separar los granos con un tenedor.", "tecnica_relacionada": null },
+    { "tipo": "imagen", "url": "", "caption": "Arroz ya reposado, granos sueltos y separados con un tenedor, sin apelmazarse, vista desde arriba de la olla" }
   ],
   "tags_dieta": ["vegetariano", "vegano", "sin_gluten"]
 }

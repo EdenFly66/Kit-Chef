@@ -14,6 +14,11 @@
       "texto": "El ácido aligera lo pesado — grasas y almidones densos se sienten más livianos con un toque ácido. Equilibra lo dulce, lo amargo y lo salado. Esto es algo que se hace de forma intuitiva sin pensarlo: nadie come papas fritas sin algo ácido cerca (limón, vinagre, alguna salsa). El ácido no es solo un acompañamiento, literalmente hace que lo pesado se sienta comestible al aportar ese contraste."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Chorrito de jugo de limón siendo exprimido sobre un plato de papas fritas recién servidas"
+    },
+    {
       "tipo": "tip",
       "titulo": "Idea clave",
       "texto": "El ácido funciona de forma relativa, no en cantidades fijas como la sal. No existe una fórmula de 'esta cantidad de ácido' — siempre depende de cuánta grasa, dulzor y sal ya tiene el plato."
@@ -36,6 +41,11 @@
       "texto": "El calor apaga el jugo cítrico y suaviza los vinagres, al descomponer o evaporar sus compuestos más volátiles. Si se cocina jugo de limón durante una hora, esa frescura brillante desaparece por completo. Por eso los ácidos de terminación se agregan justo antes de servir, para conservar todo su impacto."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Jugo de limón siendo exprimido sobre una salsa recién retirada del fuego, justo antes de servir, para conservar su frescura"
+    },
+    {
       "tipo": "tip",
       "titulo": "Truco rápido",
       "texto": "Si un plato sabe pesado, opaco o con exceso de grasa pero por lo demás está bien sazonado, unas gotas de ácido casi siempre lo arreglan. Es uno de los ajustes de sabor más rápidos y confiables que existen."
@@ -43,6 +53,11 @@
     {
       "tipo": "parrafo",
       "texto": "Una buena estrategia combina ambos tipos: un ácido de cocción para profundidad durante la preparación, y un ácido de terminación para dar brillo justo antes de servir. Por ejemplo, un guiso hecho con vino y tomate (ácidos de cocción), terminado con un chorrito de vinagre de jerez (ácido de terminación) — el resultado tiene tanto complejidad como frescura."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Guiso de carne con base de vino tinto y tomate ya cocido, recibiendo un chorrito de vinagre de jerez justo antes de servir"
     }
   ]
 }

@@ -25,13 +25,28 @@
       "texto": "Las ensaladas mezcladas y compuestas se deben servir de inmediato después de aliñar — las hojas aliñadas se marchitan en minutos. Las ligadas y las farináceas, en cambio, se pueden —y a menudo conviene— preparar con anticipación, para dejar que los sabores se asienten y se desarrollen."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Ensalada Niçoise servida en un plato con papas, judías verdes, huevo duro, atún y aceitunas dispuestos por separado sin mezclar, mostrando el estilo de armado de una ensalada compuesta."
+    },
+    {
       "tipo": "tip",
       "titulo": "Por qué importa esta clasificación",
       "texto": "Saber de entrada qué tipo de ensalada se está armando evita errores básicos, como aliñar una ensalada mezclada con mucha anticipación (queda aguada) o servir una ensalada de pasta recién hecha sin dejarla reposar (todavía no desarrolló su sabor completo)."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Bowl de ensalada verde aliñada 20 minutos antes de la foto, con las hojas visiblemente marchitas y aguadas por el aliño — ejemplo de lo que hay que evitar en una ensalada mezclada."
+    },
+    {
       "tipo": "parrafo",
       "texto": "Las ensaladas farináceas, en particular, absorben bastante aliño con el tiempo — por eso suelen necesitar más ácido del que parece necesario al momento de prepararlas, porque buena parte de ese sabor se lo va a llevar el almidón mientras reposa."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Dos bowls de la misma ensalada de pasta lado a lado: una recién aliñada y otra después de 30 minutos de reposo en el refrigerador, mostrando cómo el almidón absorbe el aliño y cambia la textura."
     }
   ]
 }

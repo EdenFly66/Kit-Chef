@@ -1,0 +1,42 @@
+{
+  "modulo": 8,
+  "leccion_numero": "8.1",
+  "titulo": "Pollo",
+  "slug": "tips-pollo",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "El pollo es probablemente la proteína más consumida en la cocina cotidiana, y también una de las más fáciles de cocinar de más. Entender sus distintos cortes y cómo se comportan cada uno hace una diferencia enorme."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Cortes de pollo y su comportamiento",
+      "columnas": ["Corte", "Grasa", "Mejor técnica", "Temperatura final"],
+      "filas": [
+        ["Pechuga", "Baja", "Sellado, horneado — cuidado de no secarla", "68-71°C"],
+        ["Muslo", "Media-alta", "Cualquier técnica, muy tolerante", "80-82°C"],
+        ["Ala", "Alta", "Horneado, frito, parrilla", "80-82°C"],
+        ["Pollo entero", "Variable por zona", "Asado al horno", "71°C en la pechuga"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La pechuga es el corte que más se seca con facilidad, porque tiene muy poca grasa que la proteja durante la cocción. El muslo, en cambio, es mucho más tolerante a errores de tiempo gracias a su mayor contenido de grasa y colágeno — por eso suele ser el corte más recomendable para quienes recién empiezan a cocinar pollo."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Truco para pechugas parejas",
+      "texto": "Las pechugas suelen tener un extremo más grueso que el otro, lo que hace que cocinen disparejo. Aplanarlas suavemente con la base de una sartén o un mazo, hasta lograr un grosor parejo, soluciona ese problema."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Salar el pollo con anticipación (ver Módulo 1, lección de cuándo salar) hace una diferencia notable en su jugosidad, sobre todo en la pechuga. Un pollo salado la noche anterior y dejado destapado en el refrigerador también desarrolla una piel más crocante al momento de cocinarlo."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Sobre la seguridad",
+      "texto": "El pollo no necesita llegar a 74°C para ser seguro. Una pechuga terminada a 65-68°C, sostenida ese calor por unos minutos con el reposo, es tan segura como una recocida a 74°C — y considerablemente más jugosa."
+    }
+  ]
+}

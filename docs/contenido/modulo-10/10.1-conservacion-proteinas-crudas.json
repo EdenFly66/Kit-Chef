@@ -1,0 +1,55 @@
+{
+  "modulo": 10,
+  "leccion_numero": "10.1",
+  "titulo": "Conservación de proteínas crudas",
+  "slug": "conservacion-proteinas-crudas",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Carnes, pollo y pescado crudos son los alimentos donde una mala conservación tiene consecuencias más serias — no solo se trata de perder sabor o textura, sino de riesgo real de contaminación."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Duración en refrigerador (crudo)",
+      "columnas": ["Alimento", "Duración en refrigerador"],
+      "filas": [
+        ["Carne molida", "1-2 días"],
+        ["Cortes enteros de vacuno o cerdo", "3-5 días"],
+        ["Pollo (piezas o entero)", "1-2 días"],
+        ["Pescado fresco", "1-2 días"],
+        ["Mariscos", "1-2 días"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La proteína cruda siempre va en la parte más fría del refrigerador (generalmente el estante inferior), y en un recipiente cerrado o cubierto — así se evita que sus jugos goteen sobre otros alimentos, sobre todo los que se van a comer crudos."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Truco simple",
+      "texto": "Guardar la proteína cruda en un plato o bandeja con borde, aunque venga ya envasada, agrega una capa extra de seguridad frente a cualquier fuga."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Para congelar, conviene envolver bien apretado (sin bolsas de aire) y marcar la fecha. La carne molida y el pescado se echan a perder más rápido incluso congelados, así que conviene usarlos primero si hay varias proteínas guardadas."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Duración congelado",
+      "columnas": ["Alimento", "Duración congelado"],
+      "filas": [
+        ["Carne molida", "3-4 meses"],
+        ["Cortes enteros de vacuno o cerdo", "6-12 meses"],
+        ["Pollo", "9 meses"],
+        ["Pescado graso (salmón)", "2-3 meses"],
+        ["Pescado blanco", "6 meses"]
+      ]
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Descongelado seguro",
+      "texto": "La forma más segura de descongelar es pasar el alimento del congelador al refrigerador la noche anterior. Descongelar sobre la mesa a temperatura ambiente permite que la superficie llegue a temperaturas donde las bacterias se multiplican antes de que el centro se descongele por completo."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "modulo": 10,
+  "leccion_numero": "10.6",
+  "titulo": "Lácteos y huevos",
+  "slug": "conservacion-lacteos-huevos",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Lácteos y huevos son productos de uso diario en casi cualquier cocina, y también de los que más se desperdician por dudas sobre cuánto realmente duran."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Duración aproximada en refrigerador",
+      "columnas": ["Producto", "Duración después de abierto"],
+      "filas": [
+        ["Leche", "5-7 días"],
+        ["Yogur", "1-2 semanas"],
+        ["Queso duro (parmesano)", "Varias semanas a meses"],
+        ["Queso fresco", "1 semana"],
+        ["Mantequilla", "1-2 meses"],
+        ["Huevos", "3-5 semanas desde la compra"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Los huevos duran considerablemente más de lo que la mayoría cree — semanas, no días. Guardarlos en su cartón original (no en la puerta del refrigerador, que sufre más variación de temperatura) ayuda a que se mantengan frescos por más tiempo."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "El queso con moho no siempre hay que botarlo entero",
+      "texto": "En quesos duros, cortar al menos 2,5 cm alrededor y por debajo del moho visible suele ser suficiente, porque el moho no penetra fácil en una estructura densa. En quesos blandos, en cambio, el moho se extiende con más facilidad y conviene desechar la pieza completa."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La mantequilla se puede congelar sin problema y sin cambios notables de textura, lo que la hace un buen candidato para comprar en cantidad cuando está en oferta."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo saber si la leche ya no sirve",
+      "texto": "Más allá de la fecha del envase, el olfato es la prueba más confiable — leche que empezó a fallar huele agria de forma inconfundible, mucho antes de que se vea distinta a simple vista."
+    }
+  ]
+}

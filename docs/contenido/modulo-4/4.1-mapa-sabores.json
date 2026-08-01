@@ -14,6 +14,11 @@
       "texto": "Este es el atajo más útil que existe: elegir un lugar del mundo — México, Perú, Italia, Marruecos, lo que sea que suene atractivo. Esa geografía entrega un marco instantáneo: una grasa, un ácido, y un set de sabores de apoyo que ya están probados para funcionar juntos. Elimina la parálisis de decisión y da algo concreto para construir."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Mise en place de la línea peruana dispuesta en pocillos separados sobre la tabla: ají amarillo picado, cilantro fresco, ajo picado y limones cortados en mitades, mostrando los componentes de una sola dirección regional."
+    },
+    {
       "tipo": "tabla",
       "titulo": "Mapa de sabores por región",
       "columnas": ["Región", "Grasa", "Ácido", "Condimentos clave"],
@@ -31,6 +36,11 @@
       ]
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Dos platos con el mismo trozo de pollo a la plancha, fotografiados lado a lado: uno terminado con aceite de oliva, limón y perejil (línea italiana), el otro con aceite de sésamo, jengibre y salsa de soya (línea japonesa), para mostrar cómo cambia el resultado según la dirección elegida."
+    },
+    {
       "tipo": "parrafo",
       "texto": "El proceso tiene dos pasos, no uno. Primero, elegir una dirección — un lugar del mundo. Esa geografía entrega una lógica de sabor incorporada, así no hay que inventar todo desde cero. Segundo, resolver la mecánica: la grasa elegida marca el rumbo, el ácido aporta brillo, y los condimentos (especias, aromáticos, hierbas) hacen que sepa al lugar elegido."
     },
@@ -38,6 +48,11 @@
       "tipo": "tip",
       "titulo": "Truco práctico",
       "texto": "Frente a cualquier bloqueo creativo en la cocina, este es el primer recurso: pensá en un lugar del mundo antes de pensar en ingredientes sueltos. Es rápido, confiable, y produce comida rica desde el primer intento."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Refrigerador abierto fotografiado desde el ángulo de quien está decidiendo qué cocinar, con ingredientes sueltos y sin relación evidente entre sí (verduras variadas, un trozo de carne, huevos), representando el momento de bloqueo antes de elegir una dirección regional."
     },
     {
       "tipo": "parrafo",

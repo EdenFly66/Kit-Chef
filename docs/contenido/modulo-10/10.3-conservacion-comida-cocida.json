@@ -1,0 +1,43 @@
+{
+  "modulo": 10,
+  "leccion_numero": "10.3",
+  "titulo": "Conservación de comida cocida y sobras",
+  "slug": "conservacion-comida-cocida",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Una vez que la comida ya está cocinada, el reloj de seguridad empieza a correr distinto que con ingredientes crudos. Guardar bien las sobras no es solo cuestión de sabor — es cuestión de seguridad alimentaria."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La comida cocida no debería quedar más de 2 horas a temperatura ambiente antes de guardarse en el refrigerador. Pasado ese tiempo, la zona de temperatura entre 4°C y 60°C permite que las bacterias se multipliquen con rapidez."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "No hace falta esperar a que se enfríe del todo",
+      "texto": "La creencia de que la comida caliente 'daña' el refrigerador es un mito exagerado — los refrigeradores modernos manejan bien el calor. Lo importante es no dejar la comida más de 2 horas fuera antes de guardarla."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Duración aproximada de sobras en refrigerador",
+      "columnas": ["Tipo de comida", "Duración"],
+      "filas": [
+        ["Guisos, sopas, estofados", "3-4 días"],
+        ["Carnes cocidas", "3-4 días"],
+        ["Arroz cocido", "3-4 días"],
+        ["Pastas cocidas", "3-5 días"],
+        ["Ensaladas con aliño", "1-2 días"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El arroz cocido merece atención especial: puede contener esporas de una bacteria (Bacillus cereus) que sobreviven a la cocción y se multiplican si el arroz se deja mucho tiempo a temperatura ambiente. Por eso conviene enfriarlo rápido y refrigerarlo antes de las 2 horas, sin excepciones."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Enfriar rápido en porciones grandes",
+      "texto": "Una olla grande de guiso caliente tarda mucho en enfriarse entera dentro del refrigerador. Dividirla en recipientes más chicos y bajos antes de guardar acelera el enfriamiento y reduce el tiempo en la zona de riesgo."
+    }
+  ]
+}

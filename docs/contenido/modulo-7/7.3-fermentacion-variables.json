@@ -1,0 +1,71 @@
+{
+  "modulo": 7,
+  "leccion_numero": "7.3",
+  "titulo": "Fermentación: variables que la afectan",
+  "slug": "fermentacion-variables",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "La fermentación prolongada de la masa madre es lo que la distingue de otros panes. El cultivo iniciador inocula la masa con levaduras y bacterias que se alimentan de los azúcares presentes en la harina hidratada. Las enzimas rompen el almidón en azúcar, la levadura convierte ese azúcar en gas y etanol, y las bacterias convierten azúcar y etanol en ácidos orgánicos. Todo esto ocurre dentro de la masa, y la red de gluten atrapa el gas generado — así la masa crece y se transforma de una bola densa a un colchón aireado."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Las variables principales que afectan la velocidad de fermentación son: la inoculación (cuánto cultivo se agrega), el tipo de harina, la hidratación, y la temperatura."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La inoculación —el porcentaje de cultivo iniciador respecto a la harina— suele ser entre 10% y 20%. Porcentajes más altos aceleran la fermentación. Un cultivo fuerte y en su punto de actividad máxima fermenta la masa más rápido que uno recién alimentado y todavía perezoso."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Manos incorporando una porción de cultivo iniciador burbujeante dentro de un bowl con la masa recién mezclada, mostrando el cultivo todavía parcialmente integrado, con vetas visibles antes de amasar."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Harinas con más contenido de salvado (integral, centeno) fermentan más rápido porque dan más nutrientes a los microorganismos. Mayor hidratación también favorece la actividad de la levadura, al aportar más agua disponible."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Temperatura y tiempo aproximado de fermentación en bloque",
+      "columnas": ["Temperatura de la masa", "Tiempo aproximado", "% de crecimiento objetivo"],
+      "filas": [
+        ["27°C", "5,5 horas", "30%"],
+        ["24°C", "7 horas", "50%"],
+        ["22°C", "9-10 horas", "60-65%"],
+        ["20°C", "12-13 horas", "75-80%"],
+        ["18°C", "16+ horas", "100%"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La temperatura es la variable más determinante. Masas más cálidas fermentan más rápido. Fermentar más rápido no siempre es mejor: alargar la fermentación le da tiempo a la masa de desarrollar sabores más complejos. Un rango práctico y accesible en la mayoría de las cocinas es entre 18°C y 27°C."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Señales de que la fermentación en bloque está lista",
+      "items": [
+        "La masa se ve inflada y esponjosa, con un hombro definido donde toca el borde del recipiente",
+        "Se forman burbujas visibles bajo la superficie, y en los bordes si el recipiente es transparente",
+        "Al oler, ya no huele solo a harina cruda — hay un aroma dulce, levemente ácido y apetitoso",
+        "Al mover suavemente el recipiente, la masa se mueve como un globo de agua, con un vaivén aireado"
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Bowl transparente con la masa en fermentación en bloque, vista desde el costado, mostrando el hombro inflado contra la pared del recipiente y burbujas grandes visibles bajo la superficie."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Después de la fermentación en bloque",
+      "texto": "La mayoría de las masas madre pasan a un reposo en frío en el refrigerador después de formadas — esto detiene a la levadura pero deja activas las bacterias, mejorando la complejidad de sabor sin sobrefermentar. Puede durar entre 8 y 72 horas, lo que da flexibilidad para hornear cuando convenga."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Masa ya formada dentro de un banneton enharinado, entrando al refrigerador para el reposo en frío — toma que muestre la superficie tensa de la masa y la harina espolvoreada marcando el patrón del canasto."
+    }
+  ]
+}

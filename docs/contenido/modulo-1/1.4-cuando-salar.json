@@ -14,6 +14,11 @@
       "texto": "Con la carne, la sal que se pone sobre la superficie extrae agua desde el interior por ósmosis. Esa agua sale, se mezcla con la sal en la superficie, y luego ese líquido salado vuelve a ser absorbido hacia adentro — el resultado es una carne sazonada de adentro hacia afuera. Si se le da tiempo suficiente (algunas horas), la sal también empieza a romper algunas proteínas, lo que hace que la carne retenga más jugo durante la cocción y sea más difícil de secar en exceso."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Bistec crudo sobre una tabla con sal gruesa esparcida sobre toda la superficie, mostrando pequeñas gotas de humedad emergiendo por ósmosis"
+    },
+    {
       "tipo": "tip",
       "titulo": "Regla práctica",
       "texto": "Un buen punto de partida es 1% de sal sobre el peso de la carne — aproximadamente 5 gramos de sal por cada 500 gramos de carne."
@@ -21,6 +26,11 @@
     {
       "tipo": "parrafo",
       "texto": "Aquí está la parte contraintuitiva: hay una ventana de tiempo que en realidad es la peor para cocinar. Si se sala la carne y se cocina entre 5 y 30 minutos después, el agua ya salió a la superficie pero no alcanzó a volver a absorberse — el resultado es una superficie húmeda que no dora bien. Lo ideal es salar con al menos 40 minutos de anticipación, o mejor aún, la noche anterior y dejarla en el refrigerador."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Bistec salado reposando destapado sobre una rejilla dentro del refrigerador, con la superficie visiblemente seca tras varias horas, lista para dorar bien al cocinar"
     },
     {
       "tipo": "tabla",
@@ -43,6 +53,11 @@
       "tipo": "tip",
       "titulo": "Ejemplo cotidiano",
       "texto": "Por eso una ensalada nunca se debe aliñar con anticipación: la sal (y el ácido del aliño) empieza a sacar agua de las hojas casi de inmediato, y en poco tiempo quedan mustias y aguadas."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Ensalada de hojas verdes siendo aliñada con sal justo antes de servir, hojas todavía firmes y crocantes, sin señales de humedad"
     },
     {
       "tipo": "parrafo",

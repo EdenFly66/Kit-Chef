@@ -23,6 +23,11 @@
       ]
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Raspando con cuchara de madera el fondo de una olla caliente mientras se vierte vino, desglasando los restos dorados que quedaron pegados tras sellar la carne."
+    },
+    {
       "tipo": "parrafo",
       "texto": "La base aromática que se elija define la dirección de sabor del braseado incluso antes de agregar una sola especia. Cebolla, ajo y apio son los ladrillos básicos — cómo se combinan entre sí ya empieza a marcar el rumbo del plato."
     },
@@ -39,9 +44,19 @@
       ]
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Olla con la carne devuelta adentro, cubierta hasta la mitad con líquido de brasear, lista para tapar y entrar al horno."
+    },
+    {
       "tipo": "tip",
       "titulo": "No hay atajos",
       "texto": "La conversión de colágeno a gelatina, que es justo lo que hace que una carne braseada se deshaga sola, necesita tiempo a baja temperatura. Subir el fuego para acelerar da como resultado una carne seca y fibrosa, en vez de tierna y jugosa. Lento y a baja temperatura no es opcional — es el punto central de toda la técnica."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Trozo de carne braseada deshaciéndose con un tenedor sobre la olla, mostrando la textura final tras horas de cocción lenta a baja temperatura."
     }
   ]
 }

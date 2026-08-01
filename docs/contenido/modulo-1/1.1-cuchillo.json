@@ -23,6 +23,11 @@
       "texto": "La forma correcta de agarrar el cuchillo se llama 'agarre de pinza'. En vez de tomar el mango como si fuera un martillo (con toda la mano envuelta abajo), se pinza la hoja con el pulgar y el índice, justo donde termina el mango y empieza el metal. Los otros tres dedos se enrollan sueltos alrededor del mango. La sensación debe ser de control relajado, no de apretar fuerte — parecido a cómo se sostiene una baqueta de batería, no un mazo."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Primer plano de mano derecha en agarre de pinza sobre un cuchillo de chef: pulgar e índice pinzando la hoja justo donde termina el mango, los otros tres dedos enrollados sueltos alrededor del mango"
+    },
+    {
       "tipo": "tip",
       "titulo": "Por qué funciona",
       "texto": "El agarre de pinza pone tu mano más cerca del punto donde el cuchillo hace fuerza, lo que te da muchísimo más control y precisión que agarrar solo el mango. Además cansa menos la muñeca en sesiones largas de corte."
@@ -66,6 +71,11 @@
       "tipo": "tip",
       "titulo": "Cómo saber si tu cuchillo necesita afilado",
       "texto": "Pruébalo en un tomate. Un cuchillo bien afilado entra con un toque mínimo de presión, casi sin esfuerzo. Si se resbala por la piel antes de morder, es momento de afilar."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Filo de cuchillo entrando en la piel de un tomate entero con un toque mínimo de presión, sin resbalar, como prueba visual de que el cuchillo está bien afilado"
     }
   ]
 }

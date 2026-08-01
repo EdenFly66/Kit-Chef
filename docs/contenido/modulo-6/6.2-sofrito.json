@@ -15,10 +15,13 @@
   ],
   "pasos": [
     { "numero_paso": 1, "instruccion": "Picar la cebolla, el ajo y el pimentón en brunoise, lo más parejo posible.", "tecnica_relacionada": "tipos-de-corte" },
+    { "tipo": "imagen", "url": "", "caption": "Cebolla, ajo y pimentón recién picados en brunoise parejo, en montoncitos separados sobre la tabla, antes de ir a la olla" },
     { "numero_paso": 2, "instruccion": "Calentar el aceite en una olla o sartén a fuego medio.", "tecnica_relacionada": "conceptos-de-grasas" },
     { "numero_paso": 3, "instruccion": "Agregar la cebolla con una pizca de sal, y cocinar revolviendo seguido hasta que esté transparente y suave, unos 5-7 minutos, sin dejar que tome color todavía.", "tecnica_relacionada": "cuando-salar" },
+    { "tipo": "imagen", "url": "", "caption": "Cebolla en la olla en el punto justo: transparente y suave, sin dorarse, vista desde arriba" },
     { "numero_paso": 4, "instruccion": "Agregar el ajo y el pimentón, y seguir cocinando otros 5 minutos, hasta que todo esté suave y aromático.", "tecnica_relacionada": "salteado" },
-    { "numero_paso": 5, "instruccion": "Probar y ajustar la sal. Este sofrito queda listo como base para guisos, arroces, o salsas.", "tecnica_relacionada": "salar-a-gusto" }
+    { "numero_paso": 5, "instruccion": "Probar y ajustar la sal. Este sofrito queda listo como base para guisos, arroces, o salsas.", "tecnica_relacionada": "salar-a-gusto" },
+    { "tipo": "imagen", "url": "", "caption": "Sofrito terminado en la olla: cebolla, ajo y pimentón bien integrados, de color uniforme y textura suave" }
   ],
   "tags_dieta": ["vegetariano", "vegano"]
 }

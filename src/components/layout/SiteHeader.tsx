@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useAuth } from "@/lib/auth/AuthProvider";
 import { supabase } from "@/lib/supabase/client";
+import { ThemeToggle } from "./ThemeToggle";
 
 export function SiteHeader() {
   const { user, loading } = useAuth();
@@ -15,30 +16,33 @@ export function SiteHeader() {
           Kit-Chef
         </Link>
 
-        {!loading && (
-          <nav className="flex items-center gap-3 font-mono text-xs uppercase tracking-wide text-ink-dim">
-            {user ? (
-              <>
-                <span>{nombre}</span>
-                <button
-                  onClick={() => supabase.auth.signOut()}
-                  className="text-brasa hover:underline"
-                >
-                  Cerrar sesión
-                </button>
-              </>
-            ) : (
-              <>
-                <Link href="/iniciar-sesion" className="hover:text-foreground">
-                  Iniciar sesión
-                </Link>
-                <Link href="/registro" className="text-brasa hover:underline">
-                  Registrarse
-                </Link>
-              </>
-            )}
-          </nav>
-        )}
+        <div className="flex items-center gap-4">
+          {!loading && (
+            <nav className="flex items-center gap-3 font-mono text-xs uppercase tracking-wide text-ink-dim">
+              {user ? (
+                <>
+                  <span>{nombre}</span>
+                  <button
+                    onClick={() => supabase.auth.signOut()}
+                    className="text-brasa hover:underline"
+                  >
+                    Cerrar sesión
+                  </button>
+                </>
+              ) : (
+                <>
+                  <Link href="/iniciar-sesion" className="hover:text-foreground">
+                    Iniciar sesión
+                  </Link>
+                  <Link href="/registro" className="text-brasa hover:underline">
+                    Registrarse
+                  </Link>
+                </>
+              )}
+            </nav>
+          )}
+          <ThemeToggle />
+        </div>
       </div>
     </header>
   );

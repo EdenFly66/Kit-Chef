@@ -23,6 +23,11 @@
       "texto": "Por eso, si se agrega un ingrediente húmedo a una sartén caliente, primero se va a escuchar un chisporroteo intenso y va a soltar vapor visible — esa es literalmente el agua de la superficie evaporándose antes de que pueda empezar el dorado."
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Un trozo de carne húmeda al tocar la sartén caliente, soltando una nube de vapor visible — el agua de la superficie evaporándose antes de que pueda comenzar el dorado."
+    },
+    {
       "tipo": "lista",
       "titulo": "Cómo lograr mejor dorado",
       "items": [
@@ -35,8 +40,18 @@
       ]
     },
     {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Costra dorada pareja y crocante sobre un corte de carne recién sellado, con puntos de color intenso típicos de la reacción de Maillard."
+    },
+    {
       "tipo": "parrafo",
       "texto": "Para favorecer el dorado: mantener los bordes de la olla bajos, no saturar la sartén, y dejar la tapa afuera. Para frenar el dorado (por ejemplo, al sudar cebolla sin que tome color): tapar para atrapar vapor, saturar más la sartén, o agregar un chorrito de líquido — esto mantiene la temperatura de superficie cerca de los 100°C, donde el dorado no puede ocurrir."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Cebolla transparente y sin color sudándose en una olla tapada a fuego bajo, con gotas de condensación en la tapa — ejemplo de cómo frenar el dorado a propósito."
     },
     {
       "tipo": "tip",

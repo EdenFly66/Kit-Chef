@@ -16,9 +16,12 @@
   "pasos": [
     { "numero_paso": 1, "instruccion": "Derretir la mantequilla en una olla a fuego medio, sin dejar que tome color.", "tecnica_relacionada": null },
     { "numero_paso": 2, "instruccion": "Agregar la harina de golpe y mezclar con varillas, cocinando 1-2 minutos para quitar el sabor a crudo. Esto se llama roux.", "tecnica_relacionada": "conceptos-de-grasas" },
+    { "tipo": "imagen", "url": "", "caption": "Roux recién formado en la olla: pasta espesa de mantequilla y harina de color dorado pálido, antes de agregar la leche" },
     { "numero_paso": 3, "instruccion": "Agregar la leche fría de a poco, batiendo constantemente para evitar grumos.", "tecnica_relacionada": null },
     { "numero_paso": 4, "instruccion": "Cocinar a fuego bajo, revolviendo seguido, hasta que espese (unos 10 minutos). Salar a gusto, probando de a poco.", "tecnica_relacionada": "salar-a-gusto" },
-    { "numero_paso": 5, "instruccion": "Terminar con una pizca de nuez moscada. Usar de inmediato o cubrir con film en contacto para que no forme una nata.", "tecnica_relacionada": null }
+    { "tipo": "imagen", "url": "", "caption": "Punto de napa de la bechamel: salsa cubriendo el dorso de una cuchara de madera, con un dedo trazando una línea que no se cierra" },
+    { "numero_paso": 5, "instruccion": "Terminar con una pizca de nuez moscada. Usar de inmediato o cubrir con film en contacto para que no forme una nata.", "tecnica_relacionada": null },
+    { "tipo": "imagen", "url": "", "caption": "Olla de bechamel terminada con film plástico puesto directamente sobre la superficie de la salsa para evitar que forme nata" }
   ],
   "tags_dieta": ["vegetariano"],
   "nota": "Cada paso con tecnica_relacionada distinto de null debe resolverse contra el slug de una lección existente al cargar a Supabase (RF-07b)."
