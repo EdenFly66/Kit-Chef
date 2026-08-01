@@ -1,0 +1,37 @@
+{
+  "modulo": 5,
+  "leccion_numero": "5.1",
+  "titulo": "Los 4 tipos de ensalada",
+  "slug": "cuatro-tipos-ensalada",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Toda buena ensalada sigue el mismo marco de referencia. Aprender los principios permite improvisar cualquier combinación sin necesidad de receta. Antes de elegir un solo ingrediente, conviene saber qué tipo de ensalada se está armando — esa decisión determina el momento de servir, el estilo de aliño, si se puede preparar con anticipación, y hasta qué cuenta como una buena base."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Los 4 tipos de ensalada",
+      "columnas": ["Tipo", "Descripción", "Ejemplos", "Momento de servir"],
+      "filas": [
+        ["Mezclada", "Ingredientes combinados y aliñados juntos en un bowl", "César, ensalada griega, ensalada chilena", "Inmediato, después de aliñar"],
+        ["Compuesta", "Cada componente ubicado por separado en el plato, sin mezclar", "Niçoise, caprese, bowls armados", "Inmediato, aliño al servir o en la mesa"],
+        ["Ligada", "Ingredientes unidos por un aglutinante espeso — mayonesa, yogur o similar", "Ensalada de pollo, ensalada rusa, coleslaw", "Mejora reposando, se puede preparar antes"],
+        ["Farinácea", "Construida sobre una base de almidón — pasta, grano, legumbre o pan", "Ensalada de pasta, tabulé, ensalada de garbanzos", "Mejora reposando, se puede preparar antes"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Las ensaladas mezcladas y compuestas se deben servir de inmediato después de aliñar — las hojas aliñadas se marchitan en minutos. Las ligadas y las farináceas, en cambio, se pueden —y a menudo conviene— preparar con anticipación, para dejar que los sabores se asienten y se desarrollen."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Por qué importa esta clasificación",
+      "texto": "Saber de entrada qué tipo de ensalada se está armando evita errores básicos, como aliñar una ensalada mezclada con mucha anticipación (queda aguada) o servir una ensalada de pasta recién hecha sin dejarla reposar (todavía no desarrolló su sabor completo)."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Las ensaladas farináceas, en particular, absorben bastante aliño con el tiempo — por eso suelen necesitar más ácido del que parece necesario al momento de prepararlas, porque buena parte de ese sabor se lo va a llevar el almidón mientras reposa."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "modulo": 6,
+  "titulo": "Huevos revueltos (dos métodos)",
+  "slug": "huevos-revueltos",
+  "descripcion": "El plato perfecto para aprender: exige atención, responde de inmediato a lo que se hace, y cuesta casi nada si sale mal. Dos métodos, dos resultados completamente distintos.",
+  "tiempo_preparacion_min": 10,
+  "dificultad": "facil",
+  "porciones": 1,
+  "ingredientes": [
+    { "nombre": "huevo", "cantidad": 3, "unidad": "unidad" },
+    { "nombre": "mantequilla", "cantidad": 15, "unidad": "g" },
+    { "nombre": "sal", "cantidad": 1, "unidad": "g" }
+  ],
+  "pasos": [
+    { "numero_paso": 1, "instruccion": "Método rápido: batir los huevos apenas con un tenedor, sin incorporar mucho aire — se buscan hilos de clara y yema apenas mezclados.", "tecnica_relacionada": null },
+    { "numero_paso": 2, "instruccion": "Precalentar una sartén antiadherente a fuego medio con la mantequilla. Cuando espume, agregar los huevos.", "tecnica_relacionada": "conceptos-de-grasas" },
+    { "numero_paso": 3, "instruccion": "En unos 10 segundos van a empezar a formarse cuajos en el fondo. Empujarlos desde afuera hacia el centro con una espátula, sin romperlos más de lo necesario.", "tecnica_relacionada": null },
+    { "numero_paso": 4, "instruccion": "Retirar del fuego cuando todavía se vean brillantes y un poco crudos — el calor residual los termina de cocinar en el plato. Salar generosamente al final.", "tecnica_relacionada": "cuando-salar" },
+    { "numero_paso": 5, "instruccion": "Método lento: salar los huevos crudos y dejarlos reposar 15 minutos antes de cocinar, para que queden más tiernos.", "tecnica_relacionada": "cuando-salar" },
+    { "numero_paso": 6, "instruccion": "Cocinar en una olla o sartén fría con mantequilla, a fuego bajo, revolviendo constantemente y retirando la olla del fuego cada 20 segundos para controlar la temperatura.", "tecnica_relacionada": "coccion-calor-residual" },
+    { "numero_paso": 7, "instruccion": "Continuar hasta lograr una textura brillante, tipo natilla espesa. Retirar del fuego antes de que llegue al punto deseado.", "tecnica_relacionada": null }
+  ],
+  "tags_dieta": ["vegetariano", "sin_gluten"]
+}

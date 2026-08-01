@@ -1,0 +1,34 @@
+{
+  "modulo": 5,
+  "leccion_numero": "5.2",
+  "titulo": "Los 5 componentes",
+  "slug": "cinco-componentes-ensalada",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Sin importar el tipo de ensalada, toda buena ensalada cumple con cinco roles. Son roles, no ingredientes específicos — un mismo ingrediente puede cumplir más de uno a la vez."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Los cinco roles",
+      "columnas": ["Rol", "Función", "Ejemplos"],
+      "filas": [
+        ["Base", "Fundamento del plato, define el volumen y el carácter", "Hojas verdes, granos, legumbres, verduras ralladas"],
+        ["Grasa", "Transporta el sabor y cubre cada elemento", "Aceite de oliva, queso, palta, frutos secos, tahini, yema"],
+        ["Ácido", "Levanta y aclara todo el conjunto", "Cítricos, vinagre, encurtidos, alcaparras, tomate"],
+        ["Textura", "El contraste que mantiene interesante cada bocado", "Crotones, semillas, verduras crudas, algo crocante"],
+        ["Acento", "La nota final que hace memorable el plato", "Hierbas frescas, ralladura, un toque de umami"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La clave para elegir bien los componentes es restricción y contraste: seguir una o dos lógicas de combinación y quedarse con 3 a 6 ingredientes en total. Cada ingrediente debería cumplir un rol distinto — si dos están haciendo lo mismo, conviene sacar uno. Más ingredientes no significa mejor ensalada, muchas veces significa una ensalada más confusa."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Las cinco sensaciones de sabor",
+      "texto": "Cada ingrediente aporta una o más de cinco sensaciones distintas: grasa (sostiene el sabor), ácido (aclara), sal (potencia todo lo demás), dulce (suaviza los filos duros), y amargo (crea tensión y complejidad). No hace falta tener las cinco en cada ensalada, pero saber cuáles están presentes ayuda a identificar qué falta."
+    }
+  ]
+}

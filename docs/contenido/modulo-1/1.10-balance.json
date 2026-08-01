@@ -1,0 +1,52 @@
+{
+  "modulo": 1,
+  "leccion_numero": "1.10",
+  "titulo": "Balance: sal, grasa y ácido",
+  "slug": "balance-sal-grasa-acido",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Todo buen plato está balanceado — pero balance no significa simplemente 'agregar suficiente de todo'. Se trata de entender tres niveles distintos en los que la comida necesita estar en armonía, y saber diagnosticar y corregir cuando algo falla."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El primer nivel es el componente individual. Si algo se comería solo —una salsa, un aliño, una guarnición— tiene que estar balanceado por sí mismo: buena textura, sabores claros, bien sazonado. Un componente se balancea antes de que se acerque siquiera al plato final."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El segundo nivel es el plato completo. Un plato está balanceado si se puede construir el bocado perfecto — uno donde sal, grasa y ácido conviven y se potencian entre sí. ¿Está bien sazonado? ¿Tiene grasa que transporte los sabores? ¿Tiene ácido que aporte contraste? Los tres deberían ser perceptibles, sin que ninguno domine por completo."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El tercer nivel es la comida completa, con varios platos. El orden en que se sirven las cosas también importa. No conviene acumular platos pesados sin ningún respiro ácido entre medio — una comida con entrada frita, plato principal pesado y postre denso deja satisfecho, pero también incómodo, porque nada reseteó el paladar en el camino."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Sobre componentes 'desbalanceados a propósito'",
+      "texto": "Algunos componentes no están pensados para comerse solos — su función es balancear otra cosa. Una salsa picante, la mayoría de los encurtidos y muchos condimentos son demasiado ácidos o salados por sí solos, pero están perfectamente calibrados para redondear un bocado de algo pesado. No hay que probarlos solos y juzgarlos como desbalanceados — su trabajo es en conjunto."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Cómo diagnosticar y corregir un desbalance",
+      "columnas": ["Problema", "Causa probable", "Solución"],
+      "filas": [
+        ["Sabor plano", "Falta de sal", "Agregar sal de a poco, probando entre cada adición"],
+        ["Sabor duro o de una sola nota", "Falta de ácido", "Un chorrito de limón o vinagre"],
+        ["Sabor pesado", "Exceso de grasa, falta de brillo", "Más ácido, reducir grasa, agregar algo fresco"],
+        ["Demasiado salado", "Exceso de sal", "Diluir con más ingredientes sin sal, agregar grasa o ácido"],
+        ["Sabor amargo", "Aromáticos quemados o desbalance", "Un poco de dulzor, más grasa, o volver a empezar los aromáticos"],
+        ["Demasiado dulce", "Exceso de dulzor", "Agregar ácido, agregar sal, agregar un elemento amargo"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Para arreglar algo demasiado salado, el método clásico es la dilución: agregar más ingredientes sin sal para bajar el porcentaje de sal en toda la preparación. Por eso conviene siempre reservar una parte de cada ingrediente al armar una salsa o aliño — si se usa todo y termina quedando salado, no hay forma de diluirlo sin rehacer la receta completa."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Truco de precisión al probar sal",
+      "texto": "Usá una cuchara chica: poné unos granos extra de sal ahí, probá esa muestra por separado, y evaluá la diferencia antes de agregar más a toda la preparación. Esta precisión evita el círculo vicioso de seguir corrigiendo y empeorar cada vez."
+    }
+  ]
+}

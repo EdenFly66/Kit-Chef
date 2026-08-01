@@ -1,0 +1,25 @@
+{
+  "modulo": 6,
+  "titulo": "Arroz graneado perfecto",
+  "slug": "arroz-graneado",
+  "descripcion": "El arroz parece simple pero es de los alimentos que más se arruinan por descuido. Esta técnica asegura un arroz suelto, sin apelmazarse.",
+  "tiempo_preparacion_min": 25,
+  "dificultad": "facil",
+  "porciones": 4,
+  "ingredientes": [
+    { "nombre": "arroz", "cantidad": 300, "unidad": "g" },
+    { "nombre": "agua", "cantidad": 450, "unidad": "ml" },
+    { "nombre": "aceite", "cantidad": 15, "unidad": "ml" },
+    { "nombre": "sal", "cantidad": 3, "unidad": "g" },
+    { "nombre": "cebolla", "cantidad": 0.5, "unidad": "unidad" }
+  ],
+  "pasos": [
+    { "numero_paso": 1, "instruccion": "Lavar el arroz bajo agua fría hasta que el agua salga clara, para sacar el exceso de almidón de superficie.", "tecnica_relacionada": "limpieza-manejo-alimentos" },
+    { "numero_paso": 2, "instruccion": "Picar la media cebolla en brunoise fina.", "tecnica_relacionada": "tipos-de-corte" },
+    { "numero_paso": 3, "instruccion": "Calentar el aceite en una olla, sofreír la cebolla hasta que esté transparente.", "tecnica_relacionada": "salteado" },
+    { "numero_paso": 4, "instruccion": "Agregar el arroz escurrido y sofreír 1-2 minutos, revolviendo, hasta que los granos se vean translúcidos por los bordes.", "tecnica_relacionada": null },
+    { "numero_paso": 5, "instruccion": "Agregar el agua y la sal, llevar a hervor, luego bajar a fuego mínimo y tapar. Cocinar 15-18 minutos sin destapar.", "tecnica_relacionada": "cuando-salar" },
+    { "numero_paso": 6, "instruccion": "Retirar del fuego y dejar reposar tapado 5 minutos más antes de destapar y separar los granos con un tenedor.", "tecnica_relacionada": null }
+  ],
+  "tags_dieta": ["vegetariano", "vegano", "sin_gluten"]
+}

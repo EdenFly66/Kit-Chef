@@ -1,0 +1,44 @@
+{
+  "modulo": 5,
+  "leccion_numero": "5.10",
+  "titulo": "Timing, conservación y preparación anticipada",
+  "slug": "timing-conservacion-anticipada",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Cuándo se sirve una ensalada y cómo se guardan sus componentes importa tanto como la forma en que se armó. Ignorar esto es la razón más común por la que una ensalada bien construida termina decepcionando en la mesa."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Las ensaladas mezcladas y compuestas se sirven de inmediato — las hojas aliñadas se marchitan en unos 10 minutos. Nunca conviene volver a aliñar una ensalada que ya se sirvió antes; mejor agregar aderezo fresco a las sobras. Elementos calientes o asados se agregan justo al final, recién antes de servir."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Las ensaladas ligadas y farináceas, en cambio, mejoran después de 20-30 minutos de reposo — los sabores se desarrollan y se asientan. Conviene probar de nuevo antes de servir y reajustar la sazón, ya que la preparación va a haber absorbido parte del ácido y la sal."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Cuánto duran los aderezos guardados",
+      "columnas": ["Tipo de aderezo", "Duración", "Notas"],
+      "filas": [
+        ["Vinagreta simple", "2 semanas", "Se solidifica en frío, vuelve a líquido en 5 minutos a temperatura ambiente"],
+        ["Con ajo o chalota fresca", "5-7 días", "El ajo se suaviza y endulza los primeros 2-3 días, después empieza a dominar"],
+        ["Con hierba fresca o cítrico", "3 días", "Las hierbas se oxidan rápido, el cítrico se vuelve amargo — agregar al final, no de entrada"]
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Reglas de oro que siempre aplican",
+      "items": [
+        "Seco es crocante: el agua diluye el aderezo y causa que se aguade — secar bien las hojas siempre",
+        "Sazonar en capas: nunca en un solo paso",
+        "Menos es más: cinco ingredientes bien elegidos superan a diez que compiten entre sí",
+        "Probar el bocado completo: no los elementos por separado",
+        "Igualar el peso: aderezos livianos con ingredientes livianos, aderezos densos con ingredientes robustos",
+        "La textura va al final: siempre, sin excepción",
+        "Un solo ancla: elegir un sabor dominante y construir todo alrededor de él"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "modulo": 1,
+  "leccion_numero": "1.5",
+  "titulo": "Salar a gusto",
+  "slug": "salar-a-gusto",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "La sal es el condimento más importante de la cocina, pero no por el motivo que la mayoría cree. No es que haga que la comida sepa 'salada' — es que hace que todo sepa más a sí mismo. Entender bien cómo usarla es probablemente el salto de calidad más grande que puede dar alguien recién empezando a cocinar."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Cuando los iones de sodio de la sal tocan la lengua, cambian físicamente cómo funcionan los receptores de sabor: los receptores de amargo y ácido se atenúan, mientras que los de dulce y umami se intensifican. El resultado es que la comida simplemente sabe mejor, más nítida, más a lo que realmente es."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El punto óptimo de sal en un plato es más amplio de lo que parece. Hay un rango bastante generoso donde el sabor sigue mejorando a medida que se agrega sal — muy poca sal deja la comida plana y sin carácter, pero pasado cierto punto, el exceso empieza a tapar todo lo demás y solo se percibe salado."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Ejercicio para entrenar el paladar",
+      "texto": "Cortá una rodaja de tomate o pepino y probala sin nada. Agregá una pizca mínima de sal y probá de nuevo. Agregá otra pizca. Vas a notar cómo el sabor se abre y el aroma se intensifica con cada pizca — ese es el efecto en acción, no solo teoría."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El método correcto para salar mientras se cocina es simple pero requiere disciplina: remover, probar, ajustar. Y hacerlo de forma constante durante todo el proceso, no solo al final. Si se prueba únicamente cuando el plato ya está listo, se pierde la oportunidad de construir sabor en capas a lo largo de la cocción — la sal agregada temprano sazona desde adentro, mientras que la sal agregada al final resalta la superficie."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Probando una preparación con una cucharita antes de ajustar la sal de toda la olla"
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Truco para no pasarse",
+      "texto": "Cuando sientas que estás cerca del punto justo, poné una pizca extra de sal en una cucharadita pequeña y probá esa muestra por separado, antes de agregarla al resto de la preparación. Así se puede calibrar sin arriesgar la olla entera con un exceso de sal del que no hay vuelta atrás."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Con la práctica, salar deja de ser algo que se mide con cucharitas exactas y se convierte en algo intuitivo — se sala, se prueba, se ajusta, hasta que el plato 'se siente' bien. Esa calibración por prueba es, de lejos, más confiable que cualquier medida fija de una receta."
+    }
+  ]
+}

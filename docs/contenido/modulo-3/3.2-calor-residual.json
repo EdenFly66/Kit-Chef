@@ -1,0 +1,46 @@
+{
+  "modulo": 3,
+  "leccion_numero": "3.2",
+  "titulo": "Cocción por transferencia de calor residual",
+  "slug": "coccion-calor-residual",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Después de retirar la carne del fuego, su temperatura interna sigue subiendo — esto se llama cocción por calor residual o 'carryover'. Es uno de los conceptos que más sorprende a quienes recién empiezan a cocinar, porque parece contraintuitivo: la carne sigue cocinándose incluso lejos del calor."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El motivo es simple: el exterior de la pieza está mucho más caliente que el centro mientras cocina. Al retirarla del fuego, ese calor acumulado en el exterior sigue avanzando hacia el centro, más frío, hasta que la temperatura se empareja. Ese avance de calor es lo que sigue cocinando la carne por dentro."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La cantidad de calor residual depende de dos factores: el grosor de la pieza y la intensidad con la que se cocinó. Un bistec fino y sellado a fuego fuerte sube apenas unos 2-3°C después de retirado. Un pollo entero asado, en cambio, puede subir hasta 6°C o más."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Referencia de calor residual",
+      "columnas": ["Grosor / tipo de corte", "Intensidad del calor", "Aumento aproximado"],
+      "filas": [
+        ["Bistec fino (2-3 cm)", "Fuego intenso", "2-3°C"],
+        ["Corte grueso (5 cm+)", "Fuego intenso", "5-6°C"],
+        ["Corte grueso (5 cm+)", "Calor suave (horno bajo)", "3°C"],
+        ["Pieza grande (asado, pollo entero)", "Calor suave", "5-6°C"],
+        ["Pieza grande (asado, pollo entero)", "Fuego intenso", "8-10°C"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Esto es exactamente lo que explica por qué en la lección anterior las 'temperaturas de retiro' eran más bajas que las 'temperaturas finales' — no es un margen de seguridad arbitrario, es matemática real: si se espera a que la carne llegue a la temperatura final deseada dentro del horno o la sartén, va a terminar sobrecocida una vez que el calor residual termine de subirla."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Por qué el reposo es parte de la técnica, no un paso opcional",
+      "texto": "El reposo después de cocinar no es solo para que 'se redistribuyan los jugos' (aunque eso también ayuda) — es el tiempo que necesita el calor residual para terminar su trabajo. Cortar la carne apenas sale del fuego interrumpe ese proceso a medio camino."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "En la práctica, esto significa que la temperatura objetivo de cualquier receta no es el número al que hay que llegar mientras se cocina — es el número al que hay que retirar la carne del fuego, restando el calor residual esperado según el grosor y la intensidad de cocción."
+    }
+  ]
+}

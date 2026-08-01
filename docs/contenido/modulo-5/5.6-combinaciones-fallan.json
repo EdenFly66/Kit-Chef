@@ -1,0 +1,50 @@
+{
+  "modulo": 5,
+  "leccion_numero": "5.6",
+  "titulo": "Combinaciones que fallan",
+  "slug": "combinaciones-que-fallan",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Tan útil como saber qué combina bien, es saber qué combinaciones suelen fallar. Estos son los errores más comunes al armar una ensalada, y por qué ocurren."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Dos elementos cremosos",
+      "texto": "Palta con burrata, o aliño de tahini con queso de cabra. Grasa sobre grasa, sin alivio de ácido ni de textura, crea un bowl pesado y monótono. Conviene usar solo un elemento cremoso por ensalada, y construir brillo y crocancia alrededor de él."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Dos hierbas dominantes",
+      "texto": "Estragón con cilantro, o menta con albahaca en cantidad. Las hierbas fuertes compiten a nivel aromático — sus compuestos volátiles chocan entre sí antes incluso de llegar a la lengua. Conviene elegir una hierba dominante y usar la otra apenas como acento."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Dos anclas de umami",
+      "texto": "Anchoas con miso, o parmesano con salsa de soya. Dos anclas de umami compiten en vez de complementarse — el resultado sabe confuso y sobresalado. Conviene elegir una y dejar que las demás la apoyen."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Hojas delicadas con aliño pesado",
+      "texto": "Lechuga mantecosa o brotes bajo un aliño César o de tahini. Las hojas colapsan casi al instante. Conviene igualar el peso del aliño con el peso de la hoja, o cambiar a una hoja más firme."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Fruta con cebolla cruda sin colchón",
+      "texto": "Cebolla morada cruda directo contra durazno o higo maduro. Conviene encurtir la cebolla primero (10 minutos en vinagre) — así se le quita el filo picante sin perder el color ni el crujiente."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Resumen de combinaciones a evitar",
+      "columnas": ["Error", "Por qué falla", "Solución"],
+      "filas": [
+        ["Dos elementos cremosos", "Grasa sobre grasa, sin alivio", "Usar solo uno, agregar ácido y textura"],
+        ["Dos hierbas dominantes", "Compiten a nivel aromático", "Elegir una dominante, la otra como acento"],
+        ["Dos anclas de umami", "Compiten en vez de complementarse", "Elegir una sola ancla"],
+        ["Hoja delicada + aliño pesado", "La hoja colapsa", "Igualar pesos, o cambiar de hoja"],
+        ["Fruta + cebolla cruda", "El picante domina la fruta", "Encurtir la cebolla antes"]
+      ]
+    }
+  ]
+}

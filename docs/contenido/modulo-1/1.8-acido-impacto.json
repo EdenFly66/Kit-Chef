@@ -1,0 +1,56 @@
+{
+  "modulo": 1,
+  "leccion_numero": "1.8",
+  "titulo": "Ácido: impacto químico en los alimentos",
+  "slug": "acido-impacto-quimico",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "El ácido no solo afecta el sabor — cambia la estructura física y química de casi todo lo que toca. Entender estos efectos ayuda a predecir qué va a pasar antes de que pase, en vez de descubrirlo por sorpresa."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El ácido opaca el color de las verduras verdes. La clorofila, el pigmento que les da ese verde brillante, se degrada rápido en un ambiente ácido. Por eso conviene agregar limón o vinagre a una ensalada justo antes de servir, nunca con anticipación. El efecto contrario ocurre con los rojos y morados — las antocianinas (el pigmento de la col morada, la cebolla morada o la betarraga) se vuelven más vivas e intensas con el ácido. Cebolla morada en vinagre se pone de un rosado eléctrico en pocos minutos."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Una pequeña cantidad de cítrico también evita que la fruta y verdura cortada se oxide y se ponga café. El ácido ascórbico (vitamina C) inhibe la enzima responsable de esa oxidación — por eso un chorrito de limón sobre una manzana o palta cortada las mantiene con buen aspecto por horas."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Truco práctico",
+      "texto": "Para que una palta cortada no se ponga café mientras se prepara el resto de una comida, basta con rociarla con un poco de jugo de limón."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "En las proteínas, el ácido provoca que se tensen y se desnaturalicen, de forma parecida a como lo hace el calor. Unas gotas de limón o vinagre agregadas a productos lácteos hacen que las proteínas se coagulen y corten — así es como se hace el queso fresco casero. Por eso no conviene dejar proteínas delicadas como el pescado en contacto con ácido por mucho tiempo, salvo que la intención sea 'cocinarlo' químicamente, como en un ceviche: el ácido pone la carne opaca y firme, igual que lo haría el calor."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Con proteínas más duras y con colágeno, en cambio, el ácido es un aliado. Agregar vino o tomate a un guiso ayuda a romper el colágeno del tejido conectivo, convirtiéndolo en gelatina durante horas de cocción — es una de las razones por las que esos ingredientes ácidos hacen que las carnes guisadas queden tan tiernas."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Efectos del ácido según el alimento",
+      "columnas": ["Alimento", "Efecto del ácido"],
+      "filas": [
+        ["Verduras verdes", "Opaca el color (degrada la clorofila)"],
+        ["Verduras rojas/moradas", "Intensifica el color (activa antocianinas)"],
+        ["Fruta cortada", "Previene la oxidación/pardeamiento"],
+        ["Lácteos", "Coagula las proteínas (base del queso fresco)"],
+        ["Pescado crudo", "'Cocina' químicamente la proteína (ceviche)"],
+        ["Carnes con colágeno", "Ayuda a ablandar durante cocción larga"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El ácido también ralentiza la descomposición de la celulosa en las verduras, por lo que se mantienen más firmes cuando se cocinan en un ambiente ácido. Por eso conviene ablandar completamente la cebolla antes de agregar el tomate en una preparación: una vez que llega el ácido, la cebolla deja de ablandarse."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Maceración rápida",
+      "texto": "Dejar cebolla cruda cortada fina en vinagre por 15-30 minutos suaviza su sabor picante mientras conserva el color y el crujiente — es una guarnición versátil y fácil que eleva casi cualquier plato."
+    }
+  ]
+}

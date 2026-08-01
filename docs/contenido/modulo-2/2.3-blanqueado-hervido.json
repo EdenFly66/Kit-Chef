@@ -1,0 +1,61 @@
+{
+  "modulo": 2,
+  "leccion_numero": "2.3",
+  "titulo": "Blanqueado, hervido y hervor lento",
+  "slug": "blanqueado-hervido-hervor-lento",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Hervir y blanquear usan la misma agua a la temperatura más alta posible — 100°C a nivel del mar. Pero se usan para dos propósitos bien distintos: cocinar un alimento completamente por dentro, o fijar rápido su color y textura antes de terminarlo con otra técnica."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Lo primero es la base: usar una olla grande con abundante agua bien salada. El agua debe saber a mar suave — aproximadamente 10 gramos de sal por litro de agua. Ese nivel de sal cumple varias funciones: sazona el alimento desde afuera hacia adentro, ayuda a que las verduras retengan minerales y mantengan mejor su color y textura, y evita que la temperatura del agua baje demasiado cuando se agrega comida fría."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Para pastas conviene un hervor fuerte y constante, que mantenga las piezas en movimiento y evite que se peguen. Para alimentos densos y almidonados como papas o zanahorias enteras, conviene partir en agua fría — así se cocinan de forma pareja de afuera hacia adentro, en vez de quedar cocidas por fuera y crudas en el centro."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El blanqueado es una inmersión breve en agua hirviendo con fuerza, seguida de un paro inmediato en agua con hielo. Su función es fijar el color y la textura, desactivar enzimas, y cocinar parcialmente un alimento antes de un paso final. Las verduras verdes obtienen su color de la clorofila. Al entrar en agua hirviendo, se eliminan bolsas de aire en las células que normalmente bloquean parte de ese pigmento, haciendo que se vean aún más vivas."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Por qué el blanqueado tiene que ser rápido",
+      "texto": "Existe una enzima llamada clorofilasa que es muy activa entre los 45°C y 75°C, y que convierte ese verde brillante en un verde oliva apagado. Por sobre los 88°C esa enzima se desactiva. Por eso se necesita un hervor fuerte: la verdura tiene que pasar por esa 'zona de peligro' lo más rápido posible."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El método de blanqueado paso a paso",
+      "items": [
+        "Gran volumen de agua hirviendo, bien salada",
+        "Cocción breve, justo hasta que el color esté brillante y la textura apenas tierna",
+        "Paso inmediato a agua con hielo o agua corriente fría, para detener la cocción por completo",
+        "Secado completo antes del siguiente paso o del almacenamiento"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Tiempos de blanqueado de referencia",
+      "columnas": ["Verdura", "Preparación", "Tiempo de blanqueado"],
+      "filas": [
+        ["Espinaca", "Hojas enteras", "30 segundos"],
+        ["Brócoli", "En ramitos", "2-3 minutos"],
+        ["Zanahoria (chica)", "Trozos", "3-4 minutos"],
+        ["Choclo (desgranado)", "—", "1-2 minutos"],
+        ["Betarraga", "Cubos de ~2,5 cm", "3-5 minutos"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Se debe agregar 30 segundos a todos los tiempos si el blanqueado se hace desde congelado. Las verduras blanqueadas se mantienen bien en el refrigerador por unos 5 días, o hasta 10 meses en el congelador."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Mejor forma de terminar unas verduras blanqueadas",
+      "texto": "Un salteado rápido con ajo y aceite de oliva justo antes de servir — se obtiene color brillante, buena textura, y sabor real, mucho mejor que servirlas tal cual."
+    }
+  ]
+}

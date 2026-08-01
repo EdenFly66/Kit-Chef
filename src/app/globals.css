@@ -1,26 +1,63 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --tinta: #1c1410;
+  --acero: #5b6670;
+  --pergamino: #ede4d3;
+  --brasa: #e3491b;
+
+  --background: var(--pergamino);
+  --foreground: var(--tinta);
+  --color-superficie: #f5eee0;
+  --color-superficie-2: #e4d9c4;
+  --color-ink-dim: #6b5f52;
+  --color-acero: var(--acero);
+  --color-brasa: var(--brasa);
+  --color-borde: rgba(28, 20, 16, 0.14);
+  --color-grano: rgba(28, 20, 16, 0.05);
+
+  --color-crudo: #e8c9a0;
+  --color-apunto: #d98a2b;
+  --color-dorado: #b5501c;
+  --color-dominado: #5c2a12;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-superficie: var(--color-superficie);
+  --color-superficie-2: var(--color-superficie-2);
+  --color-ink-dim: var(--color-ink-dim);
+  --color-acero: var(--color-acero);
+  --color-brasa: var(--color-brasa);
+  --color-borde: var(--color-borde);
+  --color-grano: var(--color-grano);
+  --color-crudo: var(--color-crudo);
+  --color-apunto: var(--color-apunto);
+  --color-dorado: var(--color-dorado);
+  --color-dominado: var(--color-dominado);
+  --color-pergamino: var(--pergamino);
+  --font-titulo: var(--font-fraunces);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-plex-mono);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: var(--tinta);
+    --foreground: #f1e8da;
+    --color-superficie: #2a1f18;
+    --color-superficie-2: #362820;
+    --color-ink-dim: #b3a494;
+    --color-acero: #8b96a0;
+    --color-brasa: #f0602e;
+    --color-borde: rgba(241, 232, 218, 0.14);
+    --color-grano: rgba(241, 232, 218, 0.05);
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-inter), Arial, Helvetica, sans-serif;
 }

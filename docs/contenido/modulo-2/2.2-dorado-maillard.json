@@ -1,0 +1,47 @@
+{
+  "modulo": 2,
+  "leccion_numero": "2.2",
+  "titulo": "Dorado (reacción de Maillard)",
+  "slug": "dorado-maillard",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "La diferencia entre comida sosa y comida realmente sabrosa casi siempre es la reacción de Maillard. Es una reacción química entre azúcares y aminoácidos que, al activarse, genera cientos de nuevos compuestos de color y sabor — la costra de una carne sellada, el color de una papa al horno, el tostado de un pan."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La reacción de Maillard empieza lento alrededor de los 140°C y alcanza su punto máximo entre 160°C y 175°C. Cerca de los 195°C-200°C, los compuestos empiezan a romperse y se vuelven amargos y quemados. La caramelización (que solo involucra azúcares, no aminoácidos) ocurre en un rango similar, aunque varía un poco según el tipo de azúcar."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "La regla de oro del dorado",
+      "texto": "'La humedad es enemiga del dorado.' El agua o el vapor mantienen la superficie del alimento cerca de los 100°C — muy por debajo de la temperatura necesaria para que ocurra cualquier dorado. Hasta que toda la humedad de la superficie se evapora, no hay dorado posible."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Por eso, si se agrega un ingrediente húmedo a una sartén caliente, primero se va a escuchar un chisporroteo intenso y va a soltar vapor visible — esa es literalmente el agua de la superficie evaporándose antes de que pueda empezar el dorado."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Cómo lograr mejor dorado",
+      "items": [
+        "Secar bien la superficie: pasar papel absorbente por la carne antes de sellarla",
+        "Salar con anticipación y dejar reposar destapado en el refrigerador, para que la humedad de superficie se reabsorba",
+        "Empezar con la sartén bien caliente antes de agregar la grasa",
+        "Usar una grasa que conduzca bien el calor, llenando los espacios entre las irregularidades de la superficie",
+        "Dar espacio al alimento — no llenar la sartén, el vapor atrapado impide el dorado",
+        "Tener paciencia — no mover el alimento antes de tiempo, se despega solo cuando la costra ya se formó"
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Para favorecer el dorado: mantener los bordes de la olla bajos, no saturar la sartén, y dejar la tapa afuera. Para frenar el dorado (por ejemplo, al sudar cebolla sin que tome color): tapar para atrapar vapor, saturar más la sartén, o agregar un chorrito de líquido — esto mantiene la temperatura de superficie cerca de los 100°C, donde el dorado no puede ocurrir."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Un detalle sobre las marinadas",
+      "texto": "Las marinadas ácidas reducen el dorado por Maillard, porque el ácido baja el pH de la superficie de la carne, haciendo la reacción menos eficiente. Si se quiere buena costra después de marinar, conviene secar muy bien la carne y asegurarse de retirar todo resto de marinada de la superficie antes de sellar."
+    }
+  ]
+}

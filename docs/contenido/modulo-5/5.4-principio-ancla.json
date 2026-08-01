@@ -1,0 +1,38 @@
+{
+  "modulo": 5,
+  "leccion_numero": "5.4",
+  "titulo": "Principio del ancla",
+  "slug": "principio-del-ancla",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Toda gran ensalada tiene un sabor dominante — y todo lo demás está ahí para servirle a ese sabor. El ancla es un ingrediente con un carácter inconfundible que define la identidad de la ensalada. No necesita ser el elemento más grande en cantidad, solo el más distintivo."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Las anchoas son una fracción mínima del volumen de una ensalada César, pero son la César. El sumac es apenas una pizca en un fattoush, pero lo define por completo. Una vez identificado el ancla, cada otra decisión se reduce a una sola pregunta: ¿este ingrediente apoya, contrasta, o compite innecesariamente con el ancla?"
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Ejemplos de anclas conocidas",
+      "columnas": ["Ancla", "Tipo de sabor", "Combina con"],
+      "filas": [
+        ["Anchoas", "Umami intenso", "Limón, hojas firmes como la romana"],
+        ["Miso blanco", "Umami dulzosalado", "Sésamo, jengibre, hojas amargas"],
+        ["Sumac", "Ácido afrutado", "Perejil, tomate, cebolla"],
+        ["Queso feta", "Salado y ácido", "Sandía, aceitunas, menta"],
+        ["Ajo asado", "Dulce y sabroso", "Hojas amargas, vinagre marcado"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Las ensaladas más reconocidas del mundo siguen exactamente esta lógica: la César tiene la romana como base, aderezo cremoso con parmesano como grasa, jugo de limón como ácido, crotones como textura, y anchoas junto con más parmesano como acento de umami que ancla todo el plato."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "El error de dos anclas",
+      "texto": "Combinar dos ingredientes ancla fuertes —anchoas con miso, o parmesano con salsa de soya— casi nunca funciona bien: en vez de complementarse, compiten entre sí y el resultado sabe confuso y sobresalado. Conviene elegir uno solo y dejar que los demás ingredientes lo apoyen."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "modulo": 1,
+  "leccion_numero": "1.3",
+  "titulo": "Limpieza y manejo de alimentos",
+  "slug": "limpieza-manejo-alimentos",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Parece obvio: lavar la comida antes de cocinarla. Pero la mayoría lo hace mal, o directamente se lo salta. No es solo sacar la tierra visible — también es una forma de reducir residuos de pesticidas y evitar que la suciedad termine literalmente dentro del alimento en vez de afuera."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Las hojas verdes (lechuga, acelga, espinaca) se lavan mejor sumergidas en un bowl con agua fría, moviéndolas suavemente con la mano — no bajo el chorro directo, que no saca bien la tierra escondida entre las hojas. Si el agua queda turbia, cambiala y repetí. Un secador de hojas (o simplemente un paño limpio y harta paciencia) es clave después: la hoja mojada no agarra bien el aliño y se echa a perder más rápido."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "El orden importa con las verduras de raíz",
+      "texto": "Papas, zanahorias y similares se lavan y refriegan ANTES de pelar, no después. Si pelás primero, arrastrás la tierra de la cáscara hacia la pulpa en el momento en que el pelador la toca."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Frutas y verduras con cáscara comestible (manzana, pepino, tomate) suelen traer una capa cerosa de la venta al por mayor — un buen refregado bajo agua corriente, con las manos o un cepillo suave, ayuda a sacarla junto con la mayoría de los residuos de superficie."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Cosas con cáscara NO comestible —cebolla, ajo, palta, plátano— en general no necesitan lavado previo, salvo que pienses comerte la cáscara (spoiler: no)."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cuidado con los berries",
+      "texto": "Frutillas, arándanos y similares pierden duración si se mojan antes de guardarlos — la humedad acelera que se echen a perder. Lavalos justo antes de comer o cocinar, nunca antes de guardarlos en el refrigerador."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Más allá del lavado, hay una regla de manejo que evita algo mucho más serio que la tierra: la contaminación cruzada. Es cuando bacterias de un alimento crudo (sobre todo carnes) pasan a otro alimento —generalmente uno que se va a comer crudo, como una ensalada— a través de una tabla, un cuchillo o las manos sin lavar entre el paso de uno y otro."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La forma más simple de evitarlo es tener tablas separadas: una para carnes crudas y otra para todo lo demás (verduras, pan, cosas que se comen crudas). Si solo tienes una tabla, el orden importa: corta primero lo que se come crudo, y deja la carne cruda para el final — así no contaminas nada que ya no se va a cocinar después."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Reglas rápidas de contaminación cruzada",
+      "columnas": ["Situación", "Qué hacer"],
+      "filas": [
+        ["Una sola tabla disponible", "Cortar primero verduras/pan, carne cruda al final"],
+        ["Después de tocar carne cruda", "Lavarse las manos antes de tocar cualquier otra cosa"],
+        ["Cuchillo usado en carne cruda", "Lavarlo antes de usarlo en otro ingrediente"],
+        ["Jugos de carne cruda en la tabla", "Lavar la tabla con agua caliente y jabón antes de reusarla"]
+      ]
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Un tip barato",
+      "texto": "Si no tienes presupuesto para dos tablas, una alternativa fácil es marcar un lado de tu única tabla (con un plumón permanente en el borde, o simplemente recordando cuál lado es cuál) para usarlo siempre solo con carne cruda."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "modulo": 6,
+  "titulo": "Salsa bechamel (salsa madre)",
+  "slug": "salsa-bechamel",
+  "descripcion": "La base de incontables salsas — lasañas, gratinados, salsas de queso. Dominar esta receta abre la puerta a improvisar decenas de otras.",
+  "tiempo_preparacion_min": 20,
+  "dificultad": "facil",
+  "porciones": 4,
+  "ingredientes": [
+    { "nombre": "mantequilla", "cantidad": 40, "unidad": "g" },
+    { "nombre": "harina", "cantidad": 40, "unidad": "g" },
+    { "nombre": "leche", "cantidad": 500, "unidad": "ml" },
+    { "nombre": "sal", "cantidad": 2, "unidad": "g" },
+    { "nombre": "nuez moscada", "cantidad": 1, "unidad": "pizca" }
+  ],
+  "pasos": [
+    { "numero_paso": 1, "instruccion": "Derretir la mantequilla en una olla a fuego medio, sin dejar que tome color.", "tecnica_relacionada": null },
+    { "numero_paso": 2, "instruccion": "Agregar la harina de golpe y mezclar con varillas, cocinando 1-2 minutos para quitar el sabor a crudo. Esto se llama roux.", "tecnica_relacionada": "conceptos-de-grasas" },
+    { "numero_paso": 3, "instruccion": "Agregar la leche fría de a poco, batiendo constantemente para evitar grumos.", "tecnica_relacionada": null },
+    { "numero_paso": 4, "instruccion": "Cocinar a fuego bajo, revolviendo seguido, hasta que espese (unos 10 minutos). Salar a gusto, probando de a poco.", "tecnica_relacionada": "salar-a-gusto" },
+    { "numero_paso": 5, "instruccion": "Terminar con una pizca de nuez moscada. Usar de inmediato o cubrir con film en contacto para que no forme una nata.", "tecnica_relacionada": null }
+  ],
+  "tags_dieta": ["vegetariano"],
+  "nota": "Cada paso con tecnica_relacionada distinto de null debe resolverse contra el slug de una lección existente al cargar a Supabase (RF-07b)."
+}

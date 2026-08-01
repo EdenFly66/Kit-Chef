@@ -1,0 +1,75 @@
+{
+  "modulo": 5,
+  "leccion_numero": "5.7",
+  "titulo": "Aderezos: fórmula base y variaciones",
+  "slug": "aderezos-formula-base",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "El aderezo no es un simple condimento — es el elemento estructural que une toda la ensalada. Entender cómo se construye evita tener que seguir una receta de aderezo nunca más. Todo aderezo es una variación de la misma fórmula base."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Fórmula base: la vinagreta clásica",
+      "columnas": ["Componente", "Proporción", "Ejemplos"],
+      "filas": [
+        ["Aceite", "3 partes", "Oliva, palta, sésamo"],
+        ["Ácido", "1 parte", "Vinagre, limón, lima"],
+        ["Emulsionante", "½ parte", "Mostaza, miso, tahini, yema"],
+        ["Sazón", "A gusto", "Sal, pimienta, miel, ajo"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La sal se disuelve primero en el ácido — no se disuelve en el aceite. Después se agrega el emulsionante, y recién ahí se incorpora el aceite en un chorro lento mientras se bate. Mientras más lento se agregue el aceite, más estable queda la emulsión."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La proporción 3:1 es un punto de partida, no una regla fija. Hojas delicadas necesitan una proporción más suave (4:1, menos ácido). Hojas robustas y granos necesitan 2:1 — más ácido para cortar el amargor y penetrar en almidones densos que absorben líquido rápido."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Eligiendo el aceite",
+      "columnas": ["Aceite", "Carácter", "Mejor uso"],
+      "filas": [
+        ["Oliva virgen", "Picante, herbal, afrutado", "Mediterráneo, la mayoría de las vinagretas"],
+        ["Sésamo tostado", "Intenso, nunca solo", "Mezclar 1:4 con aceite neutro, direcciones asiáticas"],
+        ["Palta", "Suave, mantecoso, limpio", "Cuando se quiere que el ácido y la sazón se noten"],
+        ["Neutro (maravilla, canola)", "Sin sabor propio", "Aliños cremosos, con harta hierba"]
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Eligiendo el ácido",
+      "columnas": ["Ácido", "Carácter", "Mejor uso"],
+      "filas": [
+        ["Vinagre de vino tinto", "Filoso, afrutado", "Ensaladas verdes, mediterráneas"],
+        ["Vinagre de jerez", "Más complejo, menos filoso", "Hojas amargas, ensaladas de grano"],
+        ["Balsámico", "Dulce, denso", "Fruta de carozo, hojas amargas — usar con moderación"],
+        ["Jugo de limón", "El más fresco, se apaga rápido", "Mariscos, aliños con hierbas, agregar cerca de servir"],
+        ["Jugo de lima", "Más aromático que el limón", "Direcciones latinas o del sudeste asiático"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El emulsionante es la pieza más subestimada: mantiene unidos aceite y ácido en una mezcla cohesiva en vez de una separada. Cambiar solo el emulsionante, manteniendo el mismo aceite y ácido, da como resultado un aderezo completamente distinto."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "El emulsionante",
+      "columnas": ["Emulsionante", "Aporta", "Cuánto usar"],
+      "filas": [
+        ["Mostaza Dijon", "Estable, aporta calor suave", "½ cdta por 60 ml de aderezo"],
+        ["Yema de huevo", "El más potente, cremoso y estable", "1 yema por 120 ml de aderezo"],
+        ["Miso blanco", "Umami y salado, reemplaza parte de la sal", "1 cdta por 60 ml, reducir sal aparte"],
+        ["Tahini", "Grasa + emulsionante, hay que diluir con agua", "1 cda por 60 ml, diluir con agua"]
+      ]
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Hábito útil",
+      "texto": "Mantener una base neutra de vinagreta en el refrigerador (aceite, vinagre, mostaza, sal, sin aromáticos). Cuando haga falta un aderezo, tomar 2-3 cucharadas de esa base y agregar lo que pida la ensalada del día: ajo fresco, hierbas, cítrico, miso."
+    }
+  ]
+}

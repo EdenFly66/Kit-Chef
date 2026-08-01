@@ -31,7 +31,10 @@ export interface Modulo {
 export interface Leccion {
   id: string;
   modulo_id: string;
-  numero: number;
+  // text, no numeric: "1.10" y "1.1" colisionarían como numeric.
+  numero: string;
+  // orden numérico dentro del módulo, solo para sort (no está en el esquema documentado).
+  orden: number;
   titulo: string;
   slug: string;
   contenido: BloqueContenido[];

@@ -1,0 +1,45 @@
+{
+  "modulo": 5,
+  "leccion_numero": "5.3",
+  "titulo": "Las 5 sensaciones de sabor",
+  "slug": "cinco-sensaciones-sabor",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Ya se mencionó de pasada: cada ingrediente de una ensalada contribuye con una o más de cinco sensaciones. Vale la pena profundizar en esto, porque es la herramienta de diagnóstico más útil para saber qué le falta a una ensalada que 'no está funcionando'."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Las cinco sensaciones",
+      "columnas": ["Sensación", "Qué aporta"],
+      "filas": [
+        ["Grasa", "Transporta y sostiene el sabor en el paladar"],
+        ["Ácido", "Levanta y aclara todo el conjunto"],
+        ["Sal", "Potencia todas las demás sensaciones"],
+        ["Dulce", "Redondea y suaviza los filos duros"],
+        ["Amargo", "Crea tensión y complejidad"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Las combinaciones más confiables en ensaladas se basan en tensiones entre dos de estas sensaciones. Amargo con dulce es de las más efectivas: la amargura deja de ser un defecto y se convierte en una cualidad cuando hay dulzor cerca para atemperarla. Radicchio con higo, rúcula con uva asada — ese tipo de combinación."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Combinaciones de tensión más usadas",
+      "columnas": ["Combinación", "Por qué funciona", "Ejemplo"],
+      "filas": [
+        ["Amargo × Dulce", "El dulzor atempera el amargor", "Rúcula + uva asada, endivia + nuez confitada"],
+        ["Grasa × Ácido", "Base de todo aliño — sin ácido la grasa se siente pesada", "Aceite de oliva + limón"],
+        ["Sal × Dulce", "La sal potencia el dulzor más de lo que lo contrasta", "Queso feta + sandía"],
+        ["Grasa × Amargo", "La grasa suaviza el filo del amargor", "Queso parmesano + rúcula"]
+      ]
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cómo usar esto en la práctica",
+      "texto": "Antes de agregar un ingrediente nuevo a una ensalada, preguntarse qué sensación aporta. Si ya hay tres ingredientes con grasa y ninguno con ácido, ese es el hueco que hay que llenar — no otro ingrediente graso más."
+    }
+  ]
+}

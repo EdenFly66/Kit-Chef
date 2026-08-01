@@ -1,0 +1,25 @@
+{
+  "modulo": 6,
+  "titulo": "Caldo casero",
+  "slug": "caldo-casero",
+  "descripcion": "Un buen caldo es la base invisible de sopas, guisos y salsas. Aprender a hacerlo bien mejora automáticamente todo lo que se cocina con él.",
+  "tiempo_preparacion_min": 180,
+  "dificultad": "facil",
+  "porciones": 8,
+  "ingredientes": [
+    { "nombre": "huesos de pollo", "cantidad": 1, "unidad": "kg" },
+    { "nombre": "cebolla", "cantidad": 1, "unidad": "unidad" },
+    { "nombre": "zanahoria", "cantidad": 2, "unidad": "unidad" },
+    { "nombre": "apio", "cantidad": 2, "unidad": "unidad" },
+    { "nombre": "laurel", "cantidad": 2, "unidad": "unidad" },
+    { "nombre": "sal", "cantidad": 5, "unidad": "g" }
+  ],
+  "pasos": [
+    { "numero_paso": 1, "instruccion": "Colocar los huesos en una olla grande y cubrir con agua fría, unos 3-4 litros.", "tecnica_relacionada": null },
+    { "numero_paso": 2, "instruccion": "Llevar a hervor suave (no un hervor fuerte, que enturbia el caldo) y espumar las impurezas que suben a la superficie los primeros 15-20 minutos.", "tecnica_relacionada": "blanqueado-hervido-hervor-lento" },
+    { "numero_paso": 3, "instruccion": "Agregar cebolla, zanahoria, apio y laurel, cortados en trozos grandes (no importa la precisión, se van a colar al final).", "tecnica_relacionada": "tipos-de-corte" },
+    { "numero_paso": 4, "instruccion": "Cocinar a fuego muy bajo, con el agua apenas burbujeando, por 2-3 horas.", "tecnica_relacionada": null },
+    { "numero_paso": 5, "instruccion": "Colar, salar a gusto, y dejar enfriar antes de guardar. Se conserva unos 4-5 días en el refrigerador, o varios meses congelado.", "tecnica_relacionada": "salar-a-gusto" }
+  ],
+  "tags_dieta": []
+}

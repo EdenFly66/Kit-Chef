@@ -1,0 +1,59 @@
+{
+  "modulo": 1,
+  "leccion_numero": "1.9",
+  "titulo": "Umami",
+  "slug": "umami",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Dulce, ácido, salado y amargo se identificaron y nombraron durante siglos de tradición culinaria. El umami, en cambio, recién fue aislado y nombrado en 1908, cuando el químico japonés Kikunae Ikeda probó un caldo dashi e identificó un quinto sabor distinto, que llamó 'umami' — algo así como 'sabor delicioso' o 'sabor sabroso'."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El umami es la percepción de los glutamatos, aminoácidos que ocurren naturalmente y que le indican al cuerpo que está consumiendo proteína, uno de los macronutrientes más valiosos biológicamente. El cerebro responde a esa señal con una sensación profunda de satisfacción. Esa plenitud que se siente después de un buen caldo o un pedazo de queso curado es, literalmente, el umami haciendo su trabajo."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Ingredientes con alto contenido de glutamato",
+      "columnas": ["Ingrediente", "Nivel de glutamato"],
+      "filas": [
+        ["Queso parmesano curado", "Muy alto"],
+        ["Anchoas", "Alto"],
+        ["Concentrado/pasta de tomate", "Alto"],
+        ["Salsa inglesa (Worcestershire)", "Medio-alto"],
+        ["Hongos secos (shiitake)", "Medio"],
+        ["Carne de vacuno cruda", "Bajo"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Existen además dos compuestos —inosinato y guanilato— que por sí solos casi no tienen sabor, pero que potencian enormemente la percepción del glutamato cuando se combinan con él. Si el glutamato es la llave que abre los receptores de umami, estos compuestos son la cuña que mantiene la puerta abierta. El efecto combinado es mucho más fuerte que cualquiera de los dos ingredientes por separado."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Por qué funcionan tan bien ciertas combinaciones",
+      "texto": "Las combinaciones de sabor más celebradas del mundo se basan en este principio de emparejamiento — no es casualidad ni tradición sin fundamento."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Un dashi japonés combina alga kombu (rica en glutamato) con katsuobushi/bonito seco (rico en inosinato). Una salsa boloñesa combina tomate (glutamato) con anchoas (inosinato). Un risotto con hongos combina parmesano (glutamato) con hongos secos (guanilato). En cada caso, ninguno de los dos ingredientes por separado tiene el mismo impacto que la combinación."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Combinaciones clásicas de umami",
+      "columnas": ["Fuente de glutamato", "Fuente potenciadora", "Ejemplo clásico"],
+      "filas": [
+        ["Kombu", "Katsuobushi", "Dashi (base de la cocina japonesa)"],
+        ["Salsa de tomate", "Anchoas", "Boloñesa, salsa puttanesca"],
+        ["Parmesano", "Hongos secos", "Risotto, pastas"],
+        ["Miso", "Caldo de pollo", "Caldo de ramen"]
+      ]
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Sobre el glutamato monosódico (GMS)",
+      "texto": "El GMS es simplemente glutamato purificado en forma de polvo — el mismo compuesto que está presente en el parmesano, el tomate y las anchoas, solo que concentrado. Es un ingrediente seguro y ampliamente usado en cocinas profesionales; su mala fama no tiene respaldo científico sólido."
+    }
+  ]
+}

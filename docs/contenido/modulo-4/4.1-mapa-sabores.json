@@ -1,0 +1,47 @@
+{
+  "modulo": 4,
+  "leccion_numero": "4.1",
+  "titulo": "Mapa de sabores por región",
+  "slug": "mapa-sabores-region",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Frente a la despensa, es fácil sentirse perdido con la pregunta de qué combina con qué. Parece algo que requiere años de experiencia o escuela de cocina. La respuesta es más simple de lo que parece: elegir una dirección geográfica ya resuelve la mayoría del trabajo."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Este es el atajo más útil que existe: elegir un lugar del mundo — México, Perú, Italia, Marruecos, lo que sea que suene atractivo. Esa geografía entrega un marco instantáneo: una grasa, un ácido, y un set de sabores de apoyo que ya están probados para funcionar juntos. Elimina la parálisis de decisión y da algo concreto para construir."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Mapa de sabores por región",
+      "columnas": ["Región", "Grasa", "Ácido", "Condimentos clave"],
+      "filas": [
+        ["Chile / Argentina", "Aceite de maravilla, grasa de vacuno", "Limón, vino, vinagre", "Ají de color, comino, orégano, perejil"],
+        ["Perú", "Aceite neutro", "Limón (leche de tigre)", "Ají amarillo, cilantro, ajo"],
+        ["México", "Aceite neutro, manteca", "Limón, naranja agria", "Chile, cilantro, comino"],
+        ["Italia", "Aceite de oliva, mantequilla", "Vino, vinagre, limón", "Parmesano, albahaca, ajo, perejil"],
+        ["España", "Aceite de oliva, grasa de cerdo", "Vino, jerez, limón", "Pimentón, ajo, almendra"],
+        ["Francia", "Mantequilla, crema, aceite de oliva", "Vino, vinagre, limón", "Mostaza, hierbas provenzales"],
+        ["Japón", "Aceite neutro, aceite de sésamo", "Vino de arroz, vinagre de arroz", "Salsa de soya, miso, jengibre"],
+        ["Tailandia", "Aceite de coco, aceite neutro", "Limón, vinagre de arroz", "Salsa de pescado, jengibre, cilantro, ají"],
+        ["India", "Ghee, aceite de coco", "Limón, yogur", "Tamarindo, curry, comino, jengibre"],
+        ["Medio Oriente", "Aceite de oliva", "Limón, yogur, vinagre de dátil", "Perejil, comino, sumac"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El proceso tiene dos pasos, no uno. Primero, elegir una dirección — un lugar del mundo. Esa geografía entrega una lógica de sabor incorporada, así no hay que inventar todo desde cero. Segundo, resolver la mecánica: la grasa elegida marca el rumbo, el ácido aporta brillo, y los condimentos (especias, aromáticos, hierbas) hacen que sepa al lugar elegido."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Truco práctico",
+      "texto": "Frente a cualquier bloqueo creativo en la cocina, este es el primer recurso: pensá en un lugar del mundo antes de pensar en ingredientes sueltos. Es rápido, confiable, y produce comida rica desde el primer intento."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Con la práctica, cocinar seguido la misma dirección regional hace que la lógica de sabor se vuelva intuitiva — con el tiempo se empieza a construir vocabulario propio dentro de esa tradición, en vez de depender de una receta escrita paso a paso."
+    }
+  ]
+}

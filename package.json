@@ -6,9 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "seed:modulos": "tsx --env-file=.env.local scripts/seed-modulos.ts",
+    "seed:modulo-1": "tsx --env-file=.env.local scripts/seed-modulo-1.ts"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.111.0",
     "next": "16.2.12",
     "react": "19.2.4",
     "react-dom": "19.2.4"
@@ -21,6 +24,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.12",
     "tailwindcss": "^4",
+    "tsx": "^4.23.1",
     "typescript": "^5"
   }
 }

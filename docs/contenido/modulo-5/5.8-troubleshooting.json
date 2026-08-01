@@ -1,0 +1,35 @@
+{
+  "modulo": 5,
+  "leccion_numero": "5.8",
+  "titulo": "Troubleshooting de aderezos",
+  "slug": "troubleshooting-aderezos",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Todo problema con un aderezo tiene una solución específica. Aprender a diagnosticar el problema exacto es mucho más útil que simplemente 'agregar un poco más de todo'."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Guía de diagnóstico y corrección",
+      "columnas": ["Problema", "Solución"],
+      "filas": [
+        ["Muy ácido / filoso", "Agregar más aceite para diluir, o un poco de miel, o una pizca de sal (baja la percepción de acidez)"],
+        ["Plano / apagado", "Un chorrito de limón fresco, más sal, agregar mostaza si falta, o rallar ajo o chalota"],
+        ["Muy pesado / denso", "Más ácido para reequilibrar, diluir con un poco de agua fría, o ralladura cítrica para dar aroma sin peso"],
+        ["Unidimensional", "Un elemento de umami (miso, soya, pasta de anchoas), un toque de dulzor, o combinar dos ácidos distintos"],
+        ["No emulsiona", "Más mostaza y batir con energía, o empezar de nuevo agregando el aderezo roto de a poco sobre una base nueva"],
+        ["Muy salado", "Agregar más aceite y más ácido en proporción, o un poco de miel que contrarresta lo salado"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Siempre conviene probar el aderezo sobre una hoja real, no directo de la cuchara — un aderezo se siente más filoso en la cuchara de lo que se siente puesto sobre una hoja."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "El truco del tiempo",
+      "texto": "Hacer el aderezo primero y dejarlo reposar 10-15 minutos mientras se preparan los demás componentes. El ajo se suaviza, los sabores se integran, y la emulsión se estabiliza — para cuando la ensalada está lista, el aderezo va a estar notablemente mejor que recién hecho."
+    }
+  ]
+}

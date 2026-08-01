@@ -1,0 +1,63 @@
+{
+  "modulo": 2,
+  "leccion_numero": "2.6",
+  "titulo": "Asado al horno",
+  "slug": "asado-al-horno",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "El asado al horno usa calor seco e intenso —radiación, convección y conducción del horno— para dorar el exterior mientras cocina el interior por completo. Es la técnica que convierte una bandeja de verduras en algo caramelizado y complejo, y un pollo entero en el plato central de una comida."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Al asar verduras, conviene agrupar las que tienen un nivel de humedad y densidad parecido. Verduras con mucha agua, como zapallo italiano, champiñones o tomate, sueltan bastante humedad al cocinarse y terminan cociendo al vapor a lo que las rodea si se mezclan con verduras más densas. Es mejor mantenerlas separadas, o combinarlas solo con otras de cocción rápida."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Reglas prácticas para asar verduras",
+      "items": [
+        "Cubrir con una capa fina de aceite y sal antes de meter al horno — el aceite sube la temperatura de superficie y controla la pérdida de humedad",
+        "Una sola capa, sin amontonar — piezas superpuestas se cuecen al vapor entre sí en vez de dorarse",
+        "Dejar espacio entre trozos para que el vapor pueda escapar",
+        "Cortar más chico lo que es más denso (verduras de raíz) para igualar tiempos de cocción con lo demás en la misma bandeja"
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Temperaturas sugeridas para asar verduras",
+      "columnas": ["Grupo", "Ejemplos", "Temperatura"],
+      "filas": [
+        ["Verduras de raíz", "Papa, zanahoria, betarraga", "200°C"],
+        ["Brasicáceas", "Repollitos de Bruselas, brócoli, coliflor", "220°C"],
+        ["Zapallos y camote", "Zapallo camote, camote", "200-220°C"],
+        ["Verduras de verano", "Zapallo italiano, pimentón, tomate cherry", "230°C"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Para carnes, lo mejor para asar son cortes grandes, tiernos y con algo de grasa. Se salan la noche anterior. Si el corte no tiene un grosor parejo, conviene atarlo para que cocine de forma pareja. Un termómetro de sonda en la parte más gruesa es la forma más confiable de saber cuándo retirarlo."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Temperatura de retiro vs. temperatura final",
+      "columnas": ["Carne", "Retirar a", "Final tras reposo"],
+      "filas": [
+        ["Pollo entero", "71°C", "74°C"],
+        ["Lomo de cerdo", "60°C", "63°C"],
+        ["Posta de vacuno (término medio)", "52-55°C", "57-60°C"],
+        ["Costillar de cordero", "52°C", "57-60°C"]
+      ]
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Sobre la cocción residual",
+      "texto": "La carne sigue cociéndose después de salir del horno, por el calor residual que sigue avanzando desde el exterior hacia el centro. Por eso conviene retirarla antes de la temperatura objetivo y dejarla reposar 15-30 minutos antes de cortar."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Un buen asado para principiantes",
+      "texto": "Un pollo entero asado con verduras de raíz es una de las mejores formas de empezar. Usar las verduras como base bajo el pollo, con las papas alrededor y las verduras más chicas cerca del centro. Asar a 200°C hasta que el pollo llegue a 71°C internos y la piel esté dorada y crocante."
+    }
+  ]
+}

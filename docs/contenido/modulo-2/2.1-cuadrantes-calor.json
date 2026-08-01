@@ -1,0 +1,50 @@
+{
+  "modulo": 2,
+  "leccion_numero": "2.1",
+  "titulo": "Los 4 cuadrantes de calor",
+  "slug": "cuatro-cuadrantes-calor",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Entender este único marco de referencia va a hacer una diferencia real en cómo se cocina. Cada técnica básica de cocción se puede ubicar en uno de cuatro cuadrantes, definidos por dos ejes: la intensidad del calor (intenso o suave) y la presencia de humedad (húmedo o seco)."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Cada cuadrante tiene un objetivo distinto — y elegir el correcto es la primera decisión que se toma frente a cualquier ingrediente."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Los cuatro cuadrantes",
+      "columnas": ["Cuadrante", "Objetivo principal", "Ejemplos"],
+      "filas": [
+        ["Seco + suave", "Transformación pareja, control de humedad, desarrollo de sabor", "Ahumado, cocción lenta a baja temperatura, confitado"],
+        ["Seco + intenso", "Dorado de superficie, textura crocante", "Sellado, parrilla, horneado, salteado, freído"],
+        ["Húmedo + suave", "Transformar la estructura con cuidado, minimizar daño y pérdida de humedad", "Escalfado, hervor lento, cocción al vapor, braseado, estofado"],
+        ["Húmedo + intenso", "Cocción pareja y rápida por dentro", "Hervido, blanqueado"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Para la mayoría de los cortes gruesos de carne, ningún cuadrante por sí solo cumple bien los dos objetivos a la vez — lograr una buena textura de superficie y el punto de cocción interno perfecto al mismo tiempo. Ahí es donde entra combinar técnicas de distintos cuadrantes."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Un sellado inverso empieza en seco + suave (horno a baja temperatura) para llevar el interior a la temperatura ideal de forma pareja, y termina en seco + intenso (sartén o parrilla muy caliente) para generar una costra dorada por fuera. El resultado: cocción pareja de borde a borde, con un buen sellado."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Diagrama de los cuatro cuadrantes de calor (seco/húmedo x suave/intenso)"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Un estofado clásico usa brevemente húmedo + intenso para generar el fondo (dorar la carne en una olla caliente primero), y luego cambia a húmedo + suave por horas, para derretir el colágeno y ablandar la carne. La combinación genera tanto profundidad de sabor como una textura perfecta."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Sobre la freidora de aire",
+      "texto": "Una freidora de aire es, en esencia, un horno de convección potente — se podría decir que hace 'horneado potenciado' más que fritura real. Pertenece al cuadrante seco + intenso. El flujo de aire acelerado saca la humedad de la superficie más rápido que un horno convencional, y por eso genera tan buen dorado. No hay fritura de verdad ocurriendo."
+    }
+  ]
+}

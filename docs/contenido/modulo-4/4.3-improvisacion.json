@@ -1,0 +1,46 @@
+{
+  "modulo": 4,
+  "leccion_numero": "4.3",
+  "titulo": "Framework de improvisación",
+  "slug": "framework-improvisacion",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Esto es hacia donde apuntaban todas las lecciones anteriores. Ya se tienen las herramientas — ahora toca aprender a usarlas juntas, sin depender de una receta paso a paso. Cocinar de verdad es más parecido a improvisar sobre una base que a seguir una partitura al pie de la letra: hay que ajustarse a los ingredientes que hay, al punto exacto de un limón, a lo que ofrezca la carnicería ese día."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El framework de 6 pasos",
+      "items": [
+        "1. Ancla: elegir una proteína, un ingrediente protagonista, o un plato de inspiración. ¿De qué se trata esta comida?",
+        "2. Perfil de sabor: elegir una dirección de cocina regional, y desde ahí definir grasa, ácido y acentos",
+        "3. Técnica y estructura: elegir el método de cocción y la forma del plato (plato armado, bowl, sopa, sándwich)",
+        "4. Secuencia: planear el orden antes de tocar nada — ¿qué toma más tiempo? ¿qué necesita estar caliente al mismo momento?",
+        "5. Probar y ajustar: probar al menos tres veces — después de la base, después de cocinar el ancla, antes de servir",
+        "6. Terminación: agregar grasa de terminación, un elemento fresco, y textura, fuera del fuego, justo antes de servir"
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El ancla es la decisión más importante porque condiciona todo lo demás. Puede ser una proteína (muslos de pollo, huevos, carne molida), un ingrediente protagonista (algo de la despensa que hay que aprovechar antes de que se eche a perder), o un plato de inspiración ('quiero algo tipo taco', 'quiero un bowl de fideos'). Si no se puede resumir en una frase de qué se trata la comida, todavía no hay un ancla clara."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El paso de secuencia es donde más se equivocan quienes recién empiezan a improvisar — no suele ser un tema de sabor o técnica, sino de tiempos. El error más común es empezar por lo más entretenido (normalmente la proteína) y olvidar que el arroz tarda 20 minutos."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Mise en place",
+      "texto": "Antes de empezar a cocinar, tener todos los ingredientes organizados — lo que se conoce como 'mise en place' ('todo en su lugar', en francés). Todo lo que se pueda preparar con anticipación, hacerlo antes. Esto saca presión y multitarea del momento en que ya hay algo sobre el fuego."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El paso de probar y ajustar merece su propio espacio porque casi nadie lo hace de forma consciente. Plano, significa que falta sal. Pesado o apagado, significa que falta ácido. Delgado o unidimensional, significa que falta más especia o profundidad. Filoso o duro, un poco de dulzor ayuda a equilibrar."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El paso de terminación es el gesto profesional que la mayoría de la gente en casa se salta. Fuera del fuego, justo antes de servir, agregar uno o más de estos tres elementos: una grasa de terminación (mantequilla, buen aceite de oliva, unas gotas de aceite de sésamo), un elemento fresco (hierbas, cebollín, un toque de cítrico), y textura (algo crocante). No hace falta usar los tres siempre, pero casi siempre uno de ellos eleva un plato de bueno a memorable."
+    }
+  ]
+}

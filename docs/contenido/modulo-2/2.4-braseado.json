@@ -1,0 +1,47 @@
+{
+  "modulo": 2,
+  "leccion_numero": "2.4",
+  "titulo": "Braseado",
+  "slug": "braseado",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "El braseado es la técnica que convierte los cortes más duros y económicos en algo profundamente satisfactorio. La fórmula siempre es la misma: elegir el corte correcto, construir sabor mediante el dorado y los aromáticos, y luego cocinar lento y a baja temperatura en líquido hasta que el colágeno se derrita."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "La fórmula del braseado",
+      "items": [
+        "Elegir el corte correcto: uno rico en colágeno y duro — posta rosada, asiento, osobuco, pulpa de cerdo. Salarlo la noche anterior si es posible.",
+        "Dorar bien: dorar la carne por todos lados en un poco de aceite a fuego alto, con paciencia. Si se pega, esperar — se despega solo cuando está lista.",
+        "Construir los aromáticos: elegir una base aromática y cocinarla en la misma olla, aprovechando lo que quedó pegado, hasta lograr buen color.",
+        "Desglasar: agregar un líquido con sabor (vino, cerveza, caldo) y raspar con cuchara de madera todo lo pegado en el fondo. Ahí vive gran parte del sabor.",
+        "Agregar líquido y calor: sumar hierbas si se usan, devolver la carne a la olla, cubrir hasta la mitad con líquido. Tomate o concentrado de tomate aportan ácido y umami.",
+        "Cocinar lento: tapar bien y cocinar en el horno a 135°C por 6 horas o más, o acelerar a 175°C por 3-4 horas. Está listo cuando la carne se deshace fácil con un tenedor.",
+        "Servir: acompañar con algún almidón. El líquido de cocción, reducido, se convierte en una salsa extraordinaria."
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La base aromática que se elija define la dirección de sabor del braseado incluso antes de agregar una sola especia. Cebolla, ajo y apio son los ladrillos básicos — cómo se combinan entre sí ya empieza a marcar el rumbo del plato."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Elección de líquido para el braseado",
+      "columnas": ["Líquido", "Aporta", "Mejor con"],
+      "filas": [
+        ["Vino tinto", "Profundidad y color", "Vacuno, cordero"],
+        ["Vino blanco", "Perfil más liviano", "Cerdo, pollo"],
+        ["Cerveza (oscura o stout)", "Complejidad maltosa", "Vacuno, cerdo"],
+        ["Caldo", "Resultado limpio y neutro", "Cualquier proteína"],
+        ["Tomate", "Ácido y umami", "Excelente sumado a cualquier líquido"]
+      ]
+    },
+    {
+      "tipo": "tip",
+      "titulo": "No hay atajos",
+      "texto": "La conversión de colágeno a gelatina, que es justo lo que hace que una carne braseada se deshaga sola, necesita tiempo a baja temperatura. Subir el fuego para acelerar da como resultado una carne seca y fibrosa, en vez de tierna y jugosa. Lento y a baja temperatura no es opcional — es el punto central de toda la técnica."
+    }
+  ]
+}

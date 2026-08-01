@@ -1,0 +1,39 @@
+{
+  "modulo": 2,
+  "leccion_numero": "2.5",
+  "titulo": "Salteado",
+  "slug": "salteado",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "El salteado consiste en usar una pequeña cantidad de grasa para potenciar la transferencia de calor y cocinar rápido en una sartén caliente. Es una de las técnicas más versátiles de la cocina — sirve tanto para aromáticos como para cortes finos de carne o pescado, y para terminar verduras ya blanqueadas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Las 6 reglas del salteado",
+      "items": [
+        "Sartén caliente primero: precalentarla a fuego medio-alto antes de agregar la grasa",
+        "Grasa hasta que brille: agregar la grasa y esperar el brillo — esa señal indica que el agua de superficie ya se evaporó y está a temperatura",
+        "Capa fina: usar una capa delgada de grasa, apenas la necesaria para cubrir la sartén, no para que se acumule",
+        "No más de 2/3 de la sartén llena: evitar amontonar, porque el vapor atrapado impide el dorado",
+        "Mantener el movimiento: mover con una espátula o con un golpe de muñeca, sin dejar el alimento quieto demasiado tiempo o se quema",
+        "El dorado es sabor: no hay que temerle al color en la sartén — eso es sabor concentrándose"
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El salteado es la técnica correcta para aromáticos (cebolla, ajo, chalota — la base de la mayoría de los platos), cortes finos de carne o pescado que se benefician de un sellado rápido, y para terminar verduras blanqueadas con mejor textura y sabor. Es demasiado rápida e intensa para proteínas grandes y densas, que necesitan una cocción más larga y suave una vez que el sellado ya está listo."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "El error más común",
+      "texto": "El error más grande al saltear es agregar comida a una sartén que todavía no está lo suficientemente caliente. Una sartén tibia hace que el alimento se cocine al vapor en vez de sellarse, y se pega mientras la superficie queda gris y sin color. El alimento se despega solo de una sartén bien caliente una vez que se formó la costra — si se está pegando, todavía no está listo para moverse."
+    },
+    {
+      "tipo": "imagen",
+      "url": "",
+      "caption": "Salteado de verduras y ajo con el movimiento característico de la técnica"
+    }
+  ]
+}

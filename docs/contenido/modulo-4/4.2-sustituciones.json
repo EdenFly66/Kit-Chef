@@ -1,0 +1,41 @@
+{
+  "modulo": 4,
+  "leccion_numero": "4.2",
+  "titulo": "Sustituciones de ingredientes",
+  "slug": "sustituciones-ingredientes",
+  "tiene_quiz": true,
+  "contenido": [
+    {
+      "tipo": "parrafo",
+      "texto": "Casi ninguna receta se rompe por completo porque falte un ingrediente. Lo que suele romperse es el resultado final si se reemplaza sin entender qué función cumplía ese ingrediente en la preparación. La clave para sustituir bien no es memorizar una lista de reemplazos, sino identificar el rol que cumple lo que falta: ¿aporta grasa? ¿ácido? ¿espesor? ¿dulzor? Una vez identificado ese rol, encontrar un reemplazo se vuelve mucho más simple."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Sustituciones comunes por función",
+      "columnas": ["Falta esto", "Función que cumple", "Reemplazo posible"],
+      "filas": [
+        ["Crema", "Grasa + cremosidad", "Leche + mantequilla derretida, o yogur natural"],
+        ["Mantequilla (para cocinar)", "Grasa", "Aceite neutro o margarina"],
+        ["Vino blanco (para cocinar)", "Ácido + profundidad", "Caldo + un chorrito de vinagre o jugo de limón"],
+        ["Jugo de limón", "Ácido brillante", "Vinagre blanco o de manzana, en menor cantidad"],
+        ["Huevo (en preparaciones horneadas)", "Ligante", "Puré de plátano, o una cucharada de chía/linaza remojada"],
+        ["Ajo fresco", "Aromático", "Ajo en polvo (usar menos cantidad, es más concentrado)"],
+        ["Cilantro", "Hierba fresca aromática", "Perejil (cambia el perfil, pero cumple el rol de hierba fresca)"],
+        ["Queso parmesano", "Umami + salado", "Otro queso curado, o una pizca de salsa de soya en preparaciones saladas"]
+      ]
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Algunas sustituciones cambian el sabor final del plato (cambiar cilantro por perejil, por ejemplo, da un resultado distinto, aunque funcional). Otras son casi invisibles al paladar (cambiar mantequilla por aceite en un salteado rara vez se nota). Vale la pena distinguir entre ambos tipos antes de decidir un reemplazo, sobre todo si el ingrediente es el protagonista del plato."
+    },
+    {
+      "tipo": "tip",
+      "titulo": "Cuándo NO conviene sustituir",
+      "texto": "En pastelería y panadería, donde las proporciones son químicamente precisas (harina, leudante, líquido), las sustituciones son más riesgosas que en cocina salada. Ahí conviene ser más conservador y buscar un reemplazo probado específicamente para esa función, en vez de improvisar."
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Esta forma de pensar —identificar la función antes de buscar el reemplazo— es exactamente la misma lógica que se usa en el recomendador de recetas según lo que se tiene en casa: no se trata de tener el ingrediente exacto que pide una receta, sino de entender qué necesita esa preparación y ver qué hay disponible que cumpla ese mismo rol."
+    }
+  ]
+}

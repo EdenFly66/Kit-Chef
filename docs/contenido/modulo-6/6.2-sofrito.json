@@ -1,0 +1,24 @@
+{
+  "modulo": 6,
+  "titulo": "Sofrito base",
+  "slug": "sofrito-base",
+  "descripcion": "La base aromática de incontables preparaciones — guisos, salsas, arroces. Se trata de cocinar bien los aromáticos antes de construir el resto del plato.",
+  "tiempo_preparacion_min": 15,
+  "dificultad": "facil",
+  "porciones": 4,
+  "ingredientes": [
+    { "nombre": "cebolla", "cantidad": 1, "unidad": "unidad" },
+    { "nombre": "ajo", "cantidad": 2, "unidad": "unidad" },
+    { "nombre": "pimenton", "cantidad": 1, "unidad": "unidad" },
+    { "nombre": "aceite", "cantidad": 30, "unidad": "ml" },
+    { "nombre": "sal", "cantidad": 2, "unidad": "g" }
+  ],
+  "pasos": [
+    { "numero_paso": 1, "instruccion": "Picar la cebolla, el ajo y el pimentón en brunoise, lo más parejo posible.", "tecnica_relacionada": "tipos-de-corte" },
+    { "numero_paso": 2, "instruccion": "Calentar el aceite en una olla o sartén a fuego medio.", "tecnica_relacionada": "conceptos-de-grasas" },
+    { "numero_paso": 3, "instruccion": "Agregar la cebolla con una pizca de sal, y cocinar revolviendo seguido hasta que esté transparente y suave, unos 5-7 minutos, sin dejar que tome color todavía.", "tecnica_relacionada": "cuando-salar" },
+    { "numero_paso": 4, "instruccion": "Agregar el ajo y el pimentón, y seguir cocinando otros 5 minutos, hasta que todo esté suave y aromático.", "tecnica_relacionada": "salteado" },
+    { "numero_paso": 5, "instruccion": "Probar y ajustar la sal. Este sofrito queda listo como base para guisos, arroces, o salsas.", "tecnica_relacionada": "salar-a-gusto" }
+  ],
+  "tags_dieta": ["vegetariano", "vegano"]
+}

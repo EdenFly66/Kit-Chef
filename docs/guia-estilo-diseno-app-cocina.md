@@ -99,6 +99,9 @@ Se usará **fotografía real de comida** en toda la app — técnicas, recetas y
 
 **Recomendación:** empezar con fotografía propia + bancos gratuitos para el MVP (bajo costo, más trabajo — consistente con tu prioridad), y evaluar invertir en fotografía profesional más adelante para las piezas de mayor tráfico, una vez que haya validación de que la app tiene tracción.
 
-## 8. Notas abiertas
+## 8. Tipografía definida
 
-- Elegir las fuentes tipográficas específicas (nombres concretos) — pendiente de moodboard/referencias visuales
+- **Títulos** (nombres de técnicas, recetas, encabezados de módulo): **Fraunces** (serif variable) — aporta el carácter editorial/artesanal que buscamos, sin caer en lo clásico-aburrido
+- **Cuerpo de texto y UI** (párrafos, botones, badges): **Inter** — máxima legibilidad en pantalla, con variedad de pesos para cubrir toda la jerarquía definida en la sección 3
+
+Ambas son gratuitas (Google Fonts) e integrables directo vía `next/font` en Next.js, sin costo ni licencias adicionales — consistente con la prioridad de bajo costo del proyecto.

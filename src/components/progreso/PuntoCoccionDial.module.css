@@ -1,0 +1,60 @@
+.dial {
+  position: relative;
+  border-radius: 50%;
+  background: conic-gradient(
+    from -120deg,
+    var(--color-crudo) 0deg 58deg,
+    var(--color-superficie) 58deg 62deg,
+    var(--color-apunto) 62deg 118deg,
+    var(--color-superficie) 118deg 122deg,
+    var(--color-dorado) 122deg 178deg,
+    var(--color-superficie) 178deg 182deg,
+    var(--color-dominado) 182deg 240deg,
+    transparent 240deg 360deg
+  );
+  -webkit-mask: radial-gradient(circle, transparent 60%, black 61%);
+  mask: radial-gradient(circle, transparent 60%, black 61%);
+}
+
+.needle {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 3px;
+  background: var(--color-foreground);
+  transform-origin: top center;
+  transform: translateX(-50%) rotate(var(--angulo));
+  transition: transform 700ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  border-radius: 2px;
+}
+
+.needle::after {
+  content: "";
+  position: absolute;
+  top: -5px;
+  left: 50%;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--color-foreground);
+  transform: translateX(-50%);
+}
+
+.readout {
+  position: absolute;
+  bottom: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: var(--font-mono);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-ink-dim);
+  text-align: center;
+  white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .needle {
+    transition: none;
+  }
+}
