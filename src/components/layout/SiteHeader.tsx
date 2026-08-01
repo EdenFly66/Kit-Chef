@@ -12,11 +12,17 @@ export function SiteHeader() {
   return (
     <header className="border-b border-borde bg-superficie">
       <div className="mx-auto flex w-full max-w-2xl items-center justify-between px-6 py-3">
-        <Link href="/modulos" className="font-titulo text-lg font-semibold text-foreground">
+        <Link href="/" className="font-titulo text-lg font-semibold text-foreground">
           Kit-Chef
         </Link>
 
         <div className="flex items-center gap-4">
+          <Link
+            href="/modulos"
+            className="font-mono text-xs uppercase tracking-wide text-ink-dim hover:text-foreground"
+          >
+            Módulos
+          </Link>
           {!loading && (
             <nav className="flex items-center gap-3 font-mono text-xs uppercase tracking-wide text-ink-dim">
               {user ? (

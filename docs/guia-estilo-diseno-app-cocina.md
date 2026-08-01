@@ -14,19 +14,20 @@ Esta guía define los lineamientos visuales para lograr un frontend "llamativo, 
 
 ---
 
-## 2. Paleta de color (propuesta inicial)
+## 2. Paleta de color (implementada)
 
-| Uso | Color sugerido | Notas |
+Reemplaza la propuesta inicial de terracota/oliva/dorado/crema — en la revisión de diseño se descartó por parecer "IA genérica cálida" (crema plana + acento pastel). La dirección final se inspira en una cocina profesional (hierro curado, acero de mostrador, fichas de pedido) y ya está implementada en `src/app/globals.css`.
+
+| Token | Hex | Uso |
 |---|---|---|
-| Primario | Naranja/terracota cálido | Evoca comida, calidez, apetito — distinto del azul/verde genérico de apps de productividad |
-| Secundario | Verde oliva o salvia | Asociado a ingredientes frescos, complementa al primario sin competir |
-| Acento (CTA, premium) | Dorado/mostaza | Para botones de upgrade, insignias, elementos "premium" — sensación de logro |
-| Fondo | Blanco cálido / crema | Nunca blanco puro — más cómodo a la vista en sesiones largas de lectura |
-| Texto | Gris carbón (no negro puro) | Mejor legibilidad, menos agresivo visualmente |
-| Éxito / aprobado | Verde | Estados de quiz aprobado, lección completada |
-| Alerta / no aprobado | Terracota oscuro | Nunca rojo puro — mantiene la app dentro de la paleta cálida general |
+| `tinta` | `#1C1410` | Negro cálido — texto en modo claro, fondo en modo oscuro |
+| `acero` | `#5B6670` | Gris-azulado frío — bordes, texto secundario, contrapeso frío |
+| `pergamino` | `#EDE4D3` | Papel de carnicero — fondo en modo claro (no crema plana) |
+| `brasa` | `#E3491B` | Ascua — único acento cálido, uso puntual (CTA, foco, links) |
 
-> Nota: esta es una propuesta de dirección, no colores hexadecimales finales — eso se define en una siguiente iteración con mockups reales.
+**Escala de "punto de cocción"** (el propio medidor de progreso, no solo color decorativo — ver `PuntoCoccionDial`): `crudo #E8C9A0` → `a punto #D98A2B` → `dorado #B5501C` → `dominado #5C2A12`.
+
+Ambos temas (claro/oscuro) están definidos como variables CSS y son intercambiables con el toggle del header — ver `:root[data-theme]` en `globals.css`.
 
 ---
 
