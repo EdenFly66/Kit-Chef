@@ -20,18 +20,34 @@ export function PuntoCoccionDial({
   progreso,
   size = "lg",
   detalle,
+  acento,
 }: {
   progreso: number;
   size?: "sm" | "lg";
   detalle?: string;
+  acento?: string;
 }) {
   const angulo = -120 + (Math.max(0, Math.min(100, progreso)) / 100) * 240;
   const { diametro, agujaLargo } = TAMANOS[size];
 
+  // Sin acento, el dial usa la escala cálida por defecto de globals.css.
+  // Con acento (contexto de módulo), la escala crudo→dominado se recalcula
+  // en el propio tono del módulo (claro a oscuro) en vez de siempre
+  // naranja/dorado, que da sensación de horno aunque el módulo sea, por
+  // ejemplo, una ensalada.
+  const escala = acento
+    ? ({
+        "--color-crudo": `color-mix(in srgb, ${acento} 25%, white)`,
+        "--color-apunto": `color-mix(in srgb, ${acento} 55%, white)`,
+        "--color-dorado": acento,
+        "--color-dominado": `color-mix(in srgb, ${acento} 65%, black)`,
+      } as React.CSSProperties)
+    : undefined;
+
   return (
     <div
       className={styles.dial}
-      style={{ width: diametro, height: diametro }}
+      style={{ width: diametro, height: diametro, ...escala }}
       role="img"
       aria-label={`Progreso: ${etiquetaDe(progreso)}, ${Math.round(progreso)}%`}
     >

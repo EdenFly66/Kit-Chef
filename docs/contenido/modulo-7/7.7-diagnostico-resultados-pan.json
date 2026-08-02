@@ -1,7 +1,7 @@
 {
   "modulo": 7,
   "leccion_numero": "7.7",
-  "titulo": "Diagnóstico de resultados",
+  "titulo": "Tu pan salió raro: qué te está diciendo la miga",
   "slug": "diagnostico-resultados-pan",
   "tiene_quiz": true,
   "contenido": [
@@ -20,7 +20,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "La corteza debería verse de un dorado profundo a color castaño, con pequeñas ampollas y grietas al enfriarse — señal de una masa bien fermentada y reposada en frío. Si la corteza está pálida, probablemente falta cocción. Si está opaca en vez de brillante, faltó vapor en la primera mitad del horneado."
+      "texto": "La corteza debería verse de un dorado profundo a color castaño, con pequeñas ampollas y grietas al enfriarse, señal de una masa bien fermentada y reposada en frío. Si la corteza está pálida, probablemente falta cocción. Si está opaca en vez de brillante, faltó vapor en la primera mitad del horneado."
     },
     {
       "tipo": "imagen",
@@ -29,7 +29,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "La miga es la huella digital del pan — cada una es única y entrega más información que cualquier otra característica. Es fundamental dejar reposar el pan al menos una hora antes de cortarlo: el vapor atrapado adentro todavía sigue gelatinizando el almidón, y cortar antes de tiempo aplasta la estructura suave y deja una miga pegajosa o gomosa."
+      "texto": "La miga es la huella digital del pan: cada una es única y entrega más información que cualquier otra característica. Es fundamental dejar reposar el pan al menos una hora antes de cortarlo: el vapor atrapado adentro todavía sigue gelatinizando el almidón, y cortar antes de tiempo aplasta la estructura suave y deja una miga pegajosa o gomosa."
     },
     {
       "tipo": "tabla",
@@ -55,7 +55,7 @@
     {
       "tipo": "tip",
       "titulo": "Llevar un registro",
-      "texto": "Anotar qué se hizo y comparar con el resultado obtenido es una de las formas más rápidas de mejorar como panadero — con el tiempo, los patrones entre proceso y resultado se vuelven mucho más claros."
+      "texto": "Anotar qué se hizo y comparar con el resultado obtenido es una de las formas más rápidas de mejorar como panadero: con el tiempo, los patrones entre proceso y resultado se vuelven mucho más claros."
     }
   ]
 }

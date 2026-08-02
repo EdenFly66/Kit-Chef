@@ -1,7 +1,7 @@
 {
   "modulo": 1,
   "leccion_numero": "1.7",
-  "titulo": "Ácido: sabor",
+  "titulo": "Por qué un toque de ácido puede salvar cualquier plato",
   "slug": "acido-sabor",
   "tiene_quiz": true,
   "contenido": [
@@ -11,7 +11,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "El ácido aligera lo pesado — grasas y almidones densos se sienten más livianos con un toque ácido. Equilibra lo dulce, lo amargo y lo salado. Esto es algo que se hace de forma intuitiva sin pensarlo: nadie come papas fritas sin algo ácido cerca (limón, vinagre, alguna salsa). El ácido no es solo un acompañamiento, literalmente hace que lo pesado se sienta comestible al aportar ese contraste."
+      "texto": "El ácido aligera lo pesado: grasas y almidones densos se sienten más livianos con un toque ácido. Equilibra lo dulce, lo amargo y lo salado. Esto es algo que se hace de forma intuitiva sin pensarlo: nadie come papas fritas sin algo ácido cerca (limón, vinagre, alguna salsa). El ácido no es solo un acompañamiento, literalmente hace que lo pesado se sienta comestible al aportar ese contraste."
     },
     {
       "tipo": "imagen",
@@ -21,19 +21,19 @@
     {
       "tipo": "tip",
       "titulo": "Idea clave",
-      "texto": "El ácido funciona de forma relativa, no en cantidades fijas como la sal. No existe una fórmula de 'esta cantidad de ácido' — siempre depende de cuánta grasa, dulzor y sal ya tiene el plato."
+      "texto": "El ácido funciona de forma relativa, no en cantidades fijas como la sal. No existe una fórmula de 'esta cantidad de ácido': siempre depende de cuánta grasa, dulzor y sal ya tiene el plato."
     },
     {
       "tipo": "parrafo",
-      "texto": "Los ácidos se dividen en dos categorías según el momento en que se usan, y eso cambia completamente cómo se comportan. Los ácidos de cocción (tomate, vino tinto, vinagre de manzana) se agregan temprano — son suaves, complejos, y construyen profundidad durante una cocción larga. Los ácidos de terminación (limón fresco, jugo de lima, vinagre de jerez) se agregan al final — son brillantes, directos, y cortan lo pesado justo antes de servir."
+      "texto": "Los ácidos se dividen en dos categorías según el momento en que se usan, y eso cambia completamente cómo se comportan. Los ácidos de cocción (tomate, vino tinto, vinagre de manzana) se agregan temprano: son suaves, complejos, y construyen profundidad durante una cocción larga. Los ácidos de terminación (limón fresco, jugo de lima, vinagre de jerez) se agregan al final: son brillantes, directos, y cortan lo pesado justo antes de servir."
     },
     {
       "tipo": "tabla",
       "titulo": "Ácidos de cocción vs. de terminación",
       "columnas": ["Tipo", "Ejemplos", "Cuándo usar"],
       "filas": [
-        ["Ácido de cocción", "Tomate, vino tinto, vinagre de manzana", "Al principio — construye profundidad durante una cocción larga"],
-        ["Ácido de terminación", "Limón fresco, jugo de lima, vinagre de jerez", "Al final — aporta brillo justo antes de servir"]
+        ["Ácido de cocción", "Tomate, vino tinto, vinagre de manzana", "Al principio, construye profundidad durante una cocción larga"],
+        ["Ácido de terminación", "Limón fresco, jugo de lima, vinagre de jerez", "Al final, aporta brillo justo antes de servir"]
       ]
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Una buena estrategia combina ambos tipos: un ácido de cocción para profundidad durante la preparación, y un ácido de terminación para dar brillo justo antes de servir. Por ejemplo, un guiso hecho con vino y tomate (ácidos de cocción), terminado con un chorrito de vinagre de jerez (ácido de terminación) — el resultado tiene tanto complejidad como frescura."
+      "texto": "Una buena estrategia combina ambos tipos: un ácido de cocción para profundidad durante la preparación, y un ácido de terminación para dar brillo justo antes de servir. Por ejemplo, un guiso hecho con vino y tomate (ácidos de cocción), terminado con un chorrito de vinagre de jerez (ácido de terminación): el resultado tiene tanto complejidad como frescura."
     },
     {
       "tipo": "imagen",

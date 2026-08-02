@@ -1,7 +1,7 @@
 {
   "modulo": 7,
   "leccion_numero": "7.6",
-  "titulo": "Horneado con vapor",
+  "titulo": "El truco del vapor que hace crecer tu pan en el horno",
   "slug": "horneado-con-vapor",
   "tiene_quiz": true,
   "contenido": [
@@ -24,7 +24,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "El horneado en olla de fundición es más simple de replicar en casa: se hornea con la tapa puesta la primera mitad del tiempo, y destapada la segunda mitad. El vapor necesario lo aporta la propia humedad de la masa, contenida dentro de la olla — no hace falta agregar agua ni nada extra."
+      "texto": "El horneado en olla de fundición es más simple de replicar en casa: se hornea con la tapa puesta la primera mitad del tiempo, y destapada la segunda mitad. El vapor necesario lo aporta la propia humedad de la masa, contenida dentro de la olla: no hace falta agregar agua ni nada extra."
     },
     {
       "tipo": "tabla",

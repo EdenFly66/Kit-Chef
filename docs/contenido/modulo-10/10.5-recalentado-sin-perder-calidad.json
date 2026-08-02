@@ -1,7 +1,7 @@
 {
   "modulo": 10,
   "leccion_numero": "10.5",
-  "titulo": "Recalentado sin perder calidad",
+  "titulo": "Recalentar sin arruinar la comida: la técnica correcta para cada plato",
   "slug": "recalentado-sin-perder-calidad",
   "tiene_quiz": true,
   "contenido": [
@@ -24,11 +24,11 @@
     {
       "tipo": "tip",
       "titulo": "Por qué el microondas no siempre es la mejor opción",
-      "texto": "El microondas calienta rápido, pero de forma dispareja y sin aportar nada de calor seco — por eso deja panes y frituras gomosos. Es una excelente opción para sopas y guisos, pero no tanto para todo lo que dependía de estar crocante."
+      "texto": "El microondas calienta rápido, pero de forma dispareja y sin aportar nada de calor seco, por eso deja panes y frituras gomosos. Es una excelente opción para sopas y guisos, pero no tanto para todo lo que dependía de estar crocante."
     },
     {
       "tipo": "parrafo",
-      "texto": "Como regla general, recalentar a fuego más bajo y por más tiempo da mejor resultado que recalentar rápido a fuego alto — el objetivo es que el centro llegue a temperatura sin que el exterior se sobrecocine en el proceso."
+      "texto": "Como regla general, recalentar a fuego más bajo y por más tiempo da mejor resultado que recalentar rápido a fuego alto: el objetivo es que el centro llegue a temperatura sin que el exterior se sobrecocine en el proceso."
     },
     {
       "tipo": "tip",

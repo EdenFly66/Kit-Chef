@@ -1,13 +1,13 @@
 {
   "modulo": 10,
   "leccion_numero": "10.2",
-  "titulo": "Conservación de verduras y frutas",
+  "titulo": "¿Verduras y frutas al refrigerador o no? Guía para que te duren más",
   "slug": "conservacion-verduras-frutas",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Verduras y frutas se echan a perder de formas distintas según su tipo, y no todas se benefician del mismo trato — meter todo al refrigerador sin criterio es una de las causas más comunes de desperdicio de comida en casa."
+      "texto": "Verduras y frutas se echan a perder de formas distintas según su tipo, y no todas se benefician del mismo trato. Meter todo al refrigerador sin criterio es una de las causas más comunes de desperdicio de comida en casa."
     },
     {
       "tipo": "tabla",
@@ -29,7 +29,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Las verduras de raíz (zanahoria, betarraga) duran considerablemente más si se les corta el follaje antes de guardar — las hojas siguen consumiendo humedad y nutrientes de la raíz incluso después de la cosecha."
+      "texto": "Las verduras de raíz (zanahoria, betarraga) duran considerablemente más si se les corta el follaje antes de guardar: las hojas siguen consumiendo humedad y nutrientes de la raíz incluso después de la cosecha."
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "modulo": 5,
   "leccion_numero": "5.2",
-  "titulo": "Los 5 componentes",
+  "titulo": "Los 5 ingredientes que no pueden faltar en una buena ensalada",
   "slug": "cinco-componentes-ensalada",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Sin importar el tipo de ensalada, toda buena ensalada cumple con cinco roles. Son roles, no ingredientes específicos — un mismo ingrediente puede cumplir más de uno a la vez."
+      "texto": "Sin importar el tipo de ensalada, toda buena ensalada cumple con cinco roles. Son roles, no ingredientes específicos: un mismo ingrediente puede cumplir más de uno a la vez."
     },
     {
       "tipo": "tabla",
@@ -28,12 +28,12 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "La clave para elegir bien los componentes es restricción y contraste: seguir una o dos lógicas de combinación y quedarse con 3 a 6 ingredientes en total. Cada ingrediente debería cumplir un rol distinto — si dos están haciendo lo mismo, conviene sacar uno. Más ingredientes no significa mejor ensalada, muchas veces significa una ensalada más confusa."
+      "texto": "La clave para elegir bien los componentes es restricción y contraste: seguir una o dos lógicas de combinación y quedarse con 3 a 6 ingredientes en total. Cada ingrediente debería cumplir un rol distinto: si dos están haciendo lo mismo, conviene sacar uno. Más ingredientes no significa mejor ensalada, muchas veces significa una ensalada más confusa."
     },
     {
       "tipo": "imagen",
       "url": "",
-      "caption": "Ensalada terminada con solo cuatro ingredientes visibles en el bowl — lechuga, palta, tomate cherry y semillas tostadas — mostrando cómo un número reducido de ingredientes con roles distintos resulta en un plato claro."
+      "caption": "Ensalada terminada con solo cuatro ingredientes visibles en el bowl (lechuga, palta, tomate cherry y semillas tostadas), mostrando cómo un número reducido de ingredientes con roles distintos resulta en un plato claro."
     },
     {
       "tipo": "tip",

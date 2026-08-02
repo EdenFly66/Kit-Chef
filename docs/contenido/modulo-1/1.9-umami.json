@@ -1,13 +1,13 @@
 {
   "modulo": 1,
   "leccion_numero": "1.9",
-  "titulo": "Umami",
+  "titulo": "El quinto sabor: por qué ciertas comidas te dejan pidiendo más",
   "slug": "umami",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Dulce, ácido, salado y amargo se identificaron y nombraron durante siglos de tradición culinaria. El umami, en cambio, recién fue aislado y nombrado en 1908, cuando el químico japonés Kikunae Ikeda probó un caldo dashi e identificó un quinto sabor distinto, que llamó 'umami' — algo así como 'sabor delicioso' o 'sabor sabroso'."
+      "texto": "Dulce, ácido, salado y amargo se identificaron y nombraron durante siglos de tradición culinaria. El umami, en cambio, recién fue aislado y nombrado en 1908, cuando el químico japonés Kikunae Ikeda probó un caldo dashi e identificó un quinto sabor distinto, que llamó 'umami' (algo así como 'sabor delicioso' o 'sabor sabroso')."
     },
     {
       "tipo": "parrafo",
@@ -33,12 +33,12 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Existen además dos compuestos —inosinato y guanilato— que por sí solos casi no tienen sabor, pero que potencian enormemente la percepción del glutamato cuando se combinan con él. Si el glutamato es la llave que abre los receptores de umami, estos compuestos son la cuña que mantiene la puerta abierta. El efecto combinado es mucho más fuerte que cualquiera de los dos ingredientes por separado."
+      "texto": "Existen además dos compuestos, el inosinato y el guanilato, que por sí solos casi no tienen sabor, pero que potencian enormemente la percepción del glutamato cuando se combinan con él. Si el glutamato es la llave que abre los receptores de umami, estos compuestos son la cuña que mantiene la puerta abierta. El efecto combinado es mucho más fuerte que cualquiera de los dos ingredientes por separado."
     },
     {
       "tipo": "tip",
       "titulo": "Por qué funcionan tan bien ciertas combinaciones",
-      "texto": "Las combinaciones de sabor más celebradas del mundo se basan en este principio de emparejamiento — no es casualidad ni tradición sin fundamento."
+      "texto": "Las combinaciones de sabor más celebradas del mundo se basan en este principio de emparejamiento: no es casualidad ni tradición sin fundamento."
     },
     {
       "tipo": "parrafo",
@@ -63,7 +63,7 @@
     {
       "tipo": "tip",
       "titulo": "Sobre el glutamato monosódico (GMS)",
-      "texto": "El GMS es simplemente glutamato purificado en forma de polvo — el mismo compuesto que está presente en el parmesano, el tomate y las anchoas, solo que concentrado. Es un ingrediente seguro y ampliamente usado en cocinas profesionales; su mala fama no tiene respaldo científico sólido."
+      "texto": "El GMS es simplemente glutamato purificado en forma de polvo: el mismo compuesto que está presente en el parmesano, el tomate y las anchoas, solo que concentrado. Es un ingrediente seguro y ampliamente usado en cocinas profesionales; su mala fama no tiene respaldo científico sólido."
     }
   ]
 }

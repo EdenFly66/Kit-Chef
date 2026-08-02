@@ -17,6 +17,12 @@ export function marcarLeidaLocal(leccionId: string): void {
   window.localStorage.setItem(CLAVE, JSON.stringify([...actuales, leccionId]));
 }
 
+export function desmarcarLeidaLocal(leccionId: string): void {
+  if (typeof window === "undefined") return;
+  const actuales = getProgresoLocal();
+  window.localStorage.setItem(CLAVE, JSON.stringify(actuales.filter((id) => id !== leccionId)));
+}
+
 export function limpiarProgresoLocal(): void {
   if (typeof window === "undefined") return;
   window.localStorage.removeItem(CLAVE);

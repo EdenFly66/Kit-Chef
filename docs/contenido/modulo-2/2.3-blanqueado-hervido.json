@@ -1,21 +1,21 @@
 {
   "modulo": 2,
   "leccion_numero": "2.3",
-  "titulo": "Blanqueado, hervido y hervor lento",
+  "titulo": "Agua hirviendo: la herramienta más subestimada de tu cocina",
   "slug": "blanqueado-hervido-hervor-lento",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Hervir y blanquear usan la misma agua a la temperatura más alta posible — 100°C a nivel del mar. Pero se usan para dos propósitos bien distintos: cocinar un alimento completamente por dentro, o fijar rápido su color y textura antes de terminarlo con otra técnica."
+      "texto": "Hervir y blanquear usan la misma agua a la temperatura más alta posible, 100°C a nivel del mar. Pero se usan para dos propósitos bien distintos: cocinar un alimento completamente por dentro, o fijar rápido su color y textura antes de terminarlo con otra técnica."
     },
     {
       "tipo": "parrafo",
-      "texto": "Lo primero es la base: usar una olla grande con abundante agua bien salada. El agua debe saber a mar suave — aproximadamente 10 gramos de sal por litro de agua. Ese nivel de sal cumple varias funciones: sazona el alimento desde afuera hacia adentro, ayuda a que las verduras retengan minerales y mantengan mejor su color y textura, y evita que la temperatura del agua baje demasiado cuando se agrega comida fría."
+      "texto": "Lo primero es la base: usar una olla grande con abundante agua bien salada. El agua debe saber a mar suave (aproximadamente 10 gramos de sal por litro de agua). Ese nivel de sal cumple varias funciones: sazona el alimento desde afuera hacia adentro, ayuda a que las verduras retengan minerales y mantengan mejor su color y textura, y evita que la temperatura del agua baje demasiado cuando se agrega comida fría."
     },
     {
       "tipo": "parrafo",
-      "texto": "Para pastas conviene un hervor fuerte y constante, que mantenga las piezas en movimiento y evite que se peguen. Para alimentos densos y almidonados como papas o zanahorias enteras, conviene partir en agua fría — así se cocinan de forma pareja de afuera hacia adentro, en vez de quedar cocidas por fuera y crudas en el centro."
+      "texto": "Para pastas conviene un hervor fuerte y constante, que mantenga las piezas en movimiento y evite que se peguen. Para alimentos densos y almidonados como papas o zanahorias enteras, conviene partir en agua fría: así se cocinan de forma pareja de afuera hacia adentro, en vez de quedar cocidas por fuera y crudas en el centro."
     },
     {
       "tipo": "imagen",
@@ -54,7 +54,7 @@
         ["Espinaca", "Hojas enteras", "30 segundos"],
         ["Brócoli", "En ramitos", "2-3 minutos"],
         ["Zanahoria (chica)", "Trozos", "3-4 minutos"],
-        ["Choclo (desgranado)", "—", "1-2 minutos"],
+        ["Choclo (desgranado)", "Granos sueltos", "1-2 minutos"],
         ["Betarraga", "Cubos de ~2,5 cm", "3-5 minutos"]
       ]
     },
@@ -65,7 +65,7 @@
     {
       "tipo": "tip",
       "titulo": "Mejor forma de terminar unas verduras blanqueadas",
-      "texto": "Un salteado rápido con ajo y aceite de oliva justo antes de servir — se obtiene color brillante, buena textura, y sabor real, mucho mejor que servirlas tal cual."
+      "texto": "Un salteado rápido con ajo y aceite de oliva justo antes de servir: se obtiene color brillante, buena textura, y sabor real, mucho mejor que servirlas tal cual."
     },
     {
       "tipo": "imagen",

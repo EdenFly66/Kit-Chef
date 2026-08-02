@@ -1,7 +1,7 @@
 {
   "modulo": 4,
   "leccion_numero": "4.1",
-  "titulo": "Mapa de sabores por región",
+  "titulo": "No sabes qué sabores combinan: elige una región del mundo",
   "slug": "mapa-sabores-region",
   "tiene_quiz": true,
   "contenido": [
@@ -11,7 +11,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Este es el atajo más útil que existe: elegir un lugar del mundo — México, Perú, Italia, Marruecos, lo que sea que suene atractivo. Esa geografía entrega un marco instantáneo: una grasa, un ácido, y un set de sabores de apoyo que ya están probados para funcionar juntos. Elimina la parálisis de decisión y da algo concreto para construir."
+      "texto": "Este es el atajo más útil que existe: elegir un lugar del mundo (México, Perú, Italia, Marruecos, lo que sea que suene atractivo). Esa geografía entrega un marco instantáneo: una grasa, un ácido, y un set de sabores de apoyo que ya están probados para funcionar juntos. Elimina la parálisis de decisión y da algo concreto para construir."
     },
     {
       "tipo": "imagen",
@@ -42,7 +42,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "El proceso tiene dos pasos, no uno. Primero, elegir una dirección — un lugar del mundo. Esa geografía entrega una lógica de sabor incorporada, así no hay que inventar todo desde cero. Segundo, resolver la mecánica: la grasa elegida marca el rumbo, el ácido aporta brillo, y los condimentos (especias, aromáticos, hierbas) hacen que sepa al lugar elegido."
+      "texto": "El proceso tiene dos pasos, no uno. Primero, elegir una dirección: un lugar del mundo. Esa geografía entrega una lógica de sabor incorporada, así no hay que inventar todo desde cero. Segundo, resolver la mecánica: la grasa elegida marca el rumbo, el ácido aporta brillo, y los condimentos (especias, aromáticos, hierbas) hacen que sepa al lugar elegido."
     },
     {
       "tipo": "tip",
@@ -56,7 +56,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Con la práctica, cocinar seguido la misma dirección regional hace que la lógica de sabor se vuelva intuitiva — con el tiempo se empieza a construir vocabulario propio dentro de esa tradición, en vez de depender de una receta escrita paso a paso."
+      "texto": "Con la práctica, cocinar seguido la misma dirección regional hace que la lógica de sabor se vuelva intuitiva. Con el tiempo se empieza a construir vocabulario propio dentro de esa tradición, en vez de depender de una receta escrita paso a paso."
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "modulo": 2,
   "leccion_numero": "2.2",
-  "titulo": "Dorado (reacción de Maillard)",
+  "titulo": "Por qué dorar los alimentos los hace tan sabrosos",
   "slug": "dorado-maillard",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "La diferencia entre comida sosa y comida realmente sabrosa casi siempre es la reacción de Maillard. Es una reacción química entre azúcares y aminoácidos que, al activarse, genera cientos de nuevos compuestos de color y sabor — la costra de una carne sellada, el color de una papa al horno, el tostado de un pan."
+      "texto": "La diferencia entre comida sosa y comida realmente sabrosa casi siempre es la reacción de Maillard. Es una reacción química entre azúcares y aminoácidos que, al activarse, genera cientos de nuevos compuestos de color y sabor: la costra de una carne sellada, el color de una papa al horno, el tostado de un pan."
     },
     {
       "tipo": "parrafo",
@@ -16,16 +16,16 @@
     {
       "tipo": "tip",
       "titulo": "La regla de oro del dorado",
-      "texto": "'La humedad es enemiga del dorado.' El agua o el vapor mantienen la superficie del alimento cerca de los 100°C — muy por debajo de la temperatura necesaria para que ocurra cualquier dorado. Hasta que toda la humedad de la superficie se evapora, no hay dorado posible."
+      "texto": "'La humedad es enemiga del dorado.' El agua o el vapor mantienen la superficie del alimento cerca de los 100°C, muy por debajo de la temperatura necesaria para que ocurra cualquier dorado. Hasta que toda la humedad de la superficie se evapora, no hay dorado posible."
     },
     {
       "tipo": "parrafo",
-      "texto": "Por eso, si se agrega un ingrediente húmedo a una sartén caliente, primero se va a escuchar un chisporroteo intenso y va a soltar vapor visible — esa es literalmente el agua de la superficie evaporándose antes de que pueda empezar el dorado."
+      "texto": "Por eso, si se agrega un ingrediente húmedo a una sartén caliente, primero se va a escuchar un chisporroteo intenso y va a soltar vapor visible: esa es literalmente el agua de la superficie evaporándose antes de que pueda empezar el dorado."
     },
     {
       "tipo": "imagen",
       "url": "",
-      "caption": "Un trozo de carne húmeda al tocar la sartén caliente, soltando una nube de vapor visible — el agua de la superficie evaporándose antes de que pueda comenzar el dorado."
+      "caption": "Un trozo de carne húmeda al tocar la sartén caliente, soltando una nube de vapor visible: el agua de la superficie evaporándose antes de que pueda comenzar el dorado."
     },
     {
       "tipo": "lista",
@@ -35,8 +35,8 @@
         "Salar con anticipación y dejar reposar destapado en el refrigerador, para que la humedad de superficie se reabsorba",
         "Empezar con la sartén bien caliente antes de agregar la grasa",
         "Usar una grasa que conduzca bien el calor, llenando los espacios entre las irregularidades de la superficie",
-        "Dar espacio al alimento — no llenar la sartén, el vapor atrapado impide el dorado",
-        "Tener paciencia — no mover el alimento antes de tiempo, se despega solo cuando la costra ya se formó"
+        "Dar espacio al alimento: no llenar la sartén, el vapor atrapado impide el dorado",
+        "Tener paciencia: no mover el alimento antes de tiempo, se despega solo cuando la costra ya se formó"
       ]
     },
     {
@@ -46,12 +46,12 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Para favorecer el dorado: mantener los bordes de la olla bajos, no saturar la sartén, y dejar la tapa afuera. Para frenar el dorado (por ejemplo, al sudar cebolla sin que tome color): tapar para atrapar vapor, saturar más la sartén, o agregar un chorrito de líquido — esto mantiene la temperatura de superficie cerca de los 100°C, donde el dorado no puede ocurrir."
+      "texto": "Para favorecer el dorado: mantener los bordes de la olla bajos, no saturar la sartén, y dejar la tapa afuera. Para frenar el dorado (por ejemplo, al sudar cebolla sin que tome color): tapar para atrapar vapor, saturar más la sartén, o agregar un chorrito de líquido. Esto mantiene la temperatura de superficie cerca de los 100°C, donde el dorado no puede ocurrir."
     },
     {
       "tipo": "imagen",
       "url": "",
-      "caption": "Cebolla transparente y sin color sudándose en una olla tapada a fuego bajo, con gotas de condensación en la tapa — ejemplo de cómo frenar el dorado a propósito."
+      "caption": "Cebolla transparente y sin color sudándose en una olla tapada a fuego bajo, con gotas de condensación en la tapa: ejemplo de cómo frenar el dorado a propósito."
     },
     {
       "tipo": "tip",

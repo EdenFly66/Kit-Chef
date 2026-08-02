@@ -1,20 +1,20 @@
 {
   "modulo": 8,
   "leccion_numero": "8.3",
-  "titulo": "Cerdo",
+  "titulo": "Cerdo: los cortes que sí y los que no",
   "slug": "tips-cerdo",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "El cerdo moderno es mucho más magro que el de hace algunas décadas, lo que significa que se seca con más facilidad si se cocina de más — un error común es tratarlo con la misma precaución extrema de seguridad que se usaba antes, cuando en realidad hoy se puede cocinar a un punto más jugoso con total seguridad."
+      "texto": "El cerdo moderno es mucho más magro que el de hace algunas décadas, lo que significa que se seca con más facilidad si se cocina de más. Un error común es tratarlo con la misma precaución extrema de seguridad que se usaba antes, cuando en realidad hoy se puede cocinar a un punto más jugoso con total seguridad."
     },
     {
       "tipo": "tabla",
       "titulo": "Cortes de cerdo y su mejor uso",
       "columnas": ["Corte", "Grasa", "Mejor técnica", "Temperatura final"],
       "filas": [
-        ["Lomo, chuletas", "Baja-media", "Sellado, horneado — cuidado de no secarlo", "63°C"],
+        ["Lomo, chuletas", "Baja-media", "Sellado, horneado (con cuidado de no secarlo)", "63°C"],
         ["Pulpa, posta", "Media", "Asado, braseado", "63°C o braseado hasta deshacer"],
         ["Costillar", "Alta", "Cocción lenta, horno bajo o braseado", "Se deshace del hueso"],
         ["Panceta", "Muy alta", "Horno lento, luego dorado final", "Textura suave y crocante"]
@@ -22,7 +22,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "El lomo y las chuletas son los cortes más propensos a secarse, justamente por su bajo contenido de grasa. Se benefician mucho de salazón anticipada y de no pasarse del punto de cocción — un termómetro es especialmente útil acá."
+      "texto": "El lomo y las chuletas son los cortes más propensos a secarse, justamente por su bajo contenido de grasa. Se benefician mucho de salazón anticipada y de no pasarse del punto de cocción. Un termómetro es especialmente útil acá."
     },
     {
       "tipo": "tip",
@@ -31,7 +31,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "El costillar y la panceta, en cambio, son cortes con mucha grasa y colágeno que se benefician de cocciones largas y lentas — ahí el objetivo no es un punto de cocción específico, sino dejar que el colágeno se convierta en gelatina hasta que la carne se sienta suave y se deshaga con facilidad."
+      "texto": "El costillar y la panceta, en cambio, son cortes con mucha grasa y colágeno que se benefician de cocciones largas y lentas: ahí el objetivo no es un punto de cocción específico, sino dejar que el colágeno se convierta en gelatina hasta que la carne se sienta suave y se deshaga con facilidad."
     }
   ]
 }

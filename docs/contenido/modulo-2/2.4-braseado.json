@@ -1,7 +1,7 @@
 {
   "modulo": 2,
   "leccion_numero": "2.4",
-  "titulo": "Braseado",
+  "titulo": "Cómo transformar cortes duros y baratos en algo delicioso",
   "slug": "braseado",
   "tiene_quiz": true,
   "contenido": [
@@ -13,8 +13,8 @@
       "tipo": "lista",
       "titulo": "La fórmula del braseado",
       "items": [
-        "Elegir el corte correcto: uno rico en colágeno y duro — posta rosada, asiento, osobuco, pulpa de cerdo. Salarlo la noche anterior si es posible.",
-        "Dorar bien: dorar la carne por todos lados en un poco de aceite a fuego alto, con paciencia. Si se pega, esperar — se despega solo cuando está lista.",
+        "Elegir el corte correcto: uno rico en colágeno y duro, por ejemplo posta rosada, asiento, osobuco o pulpa de cerdo. Salarlo la noche anterior si es posible.",
+        "Dorar bien: dorar la carne por todos lados en un poco de aceite a fuego alto, con paciencia. Si se pega, esperar: se despega solo cuando está lista.",
         "Construir los aromáticos: elegir una base aromática y cocinarla en la misma olla, aprovechando lo que quedó pegado, hasta lograr buen color.",
         "Desglasar: agregar un líquido con sabor (vino, cerveza, caldo) y raspar con cuchara de madera todo lo pegado en el fondo. Ahí vive gran parte del sabor.",
         "Agregar líquido y calor: sumar hierbas si se usan, devolver la carne a la olla, cubrir hasta la mitad con líquido. Tomate o concentrado de tomate aportan ácido y umami.",
@@ -29,7 +29,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "La base aromática que se elija define la dirección de sabor del braseado incluso antes de agregar una sola especia. Cebolla, ajo y apio son los ladrillos básicos — cómo se combinan entre sí ya empieza a marcar el rumbo del plato."
+      "texto": "La base aromática que se elija define la dirección de sabor del braseado incluso antes de agregar una sola especia. Cebolla, ajo y apio son los ladrillos básicos: cómo se combinan entre sí ya empieza a marcar el rumbo del plato."
     },
     {
       "tipo": "tabla",
@@ -51,7 +51,7 @@
     {
       "tipo": "tip",
       "titulo": "No hay atajos",
-      "texto": "La conversión de colágeno a gelatina, que es justo lo que hace que una carne braseada se deshaga sola, necesita tiempo a baja temperatura. Subir el fuego para acelerar da como resultado una carne seca y fibrosa, en vez de tierna y jugosa. Lento y a baja temperatura no es opcional — es el punto central de toda la técnica."
+      "texto": "La conversión de colágeno a gelatina, que es justo lo que hace que una carne braseada se deshaga sola, necesita tiempo a baja temperatura. Subir el fuego para acelerar da como resultado una carne seca y fibrosa, en vez de tierna y jugosa. Lento y a baja temperatura no es opcional: es el punto central de toda la técnica."
     },
     {
       "tipo": "imagen",

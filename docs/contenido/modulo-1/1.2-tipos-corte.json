@@ -1,13 +1,13 @@
 {
   "modulo": 1,
   "leccion_numero": "1.2",
-  "titulo": "Tipos de corte",
+  "titulo": "Los cortes que necesitas conocer, y para qué sirve cada uno",
   "slug": "tipos-de-corte",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Una vez que tienes el agarre y la postura resueltos, el siguiente paso es entender que no todos los cortes son iguales — y que el nombre del corte no es solo estética francesa, cada uno existe porque cumple una función distinta: cambia cómo se cocina el ingrediente, cuánto tarda, y cómo se ve el plato final."
+      "texto": "Una vez que tienes el agarre y la postura resueltos, el siguiente paso es entender que no todos los cortes son iguales, y que el nombre del corte no es solo estética francesa, cada uno existe porque cumple una función distinta: cambia cómo se cocina el ingrediente, cuánto tarda, y cómo se ve el plato final."
     },
     {
       "tipo": "parrafo",
@@ -29,11 +29,11 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "**Brunoise**: es la juliana, pero llevada un paso más allá — se toman esas mismas tiras finas y se cortan en cubitos chiquititos, de unos 2-3 mm. Es el corte típico para un sofrito base (cebolla, zanahoria, apio bien picaditos) donde la idea es que el sabor se distribuya parejo por toda la preparación sin que se note el trozo individual."
+      "texto": "**Brunoise**: es la juliana, pero llevada un paso más allá: se toman esas mismas tiras finas y se cortan en cubitos chiquititos, de unos 2-3 mm. Es el corte típico para un sofrito base (cebolla, zanahoria, apio bien picaditos) donde la idea es que el sabor se distribuya parejo por toda la preparación sin que se note el trozo individual."
     },
     {
       "tipo": "parrafo",
-      "texto": "**Chiffonade**: este corte es específico para hojas (albahaca, lechuga, acelga). Se apilan las hojas una sobre otra, se enrollan como un cigarro apretado, y se cortan tiritas finas transversales al rollo. El resultado son cintas delgadas de hoja, perfectas para espolvorear sobre un plato terminado — como albahaca sobre una pasta."
+      "texto": "**Chiffonade**: este corte es específico para hojas (albahaca, lechuga, acelga). Se apilan las hojas una sobre otra, se enrollan como un cigarro apretado, y se cortan tiritas finas transversales al rollo. El resultado son cintas delgadas de hoja, perfectas para espolvorear sobre un plato terminado, como albahaca sobre una pasta."
     },
     {
       "tipo": "imagen",
@@ -42,7 +42,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "También existen los cortes más gruesos y rústicos — cubos medianos o grandes (para guisos y estofados, donde el ingrediente cocina lento y por horas, así que no necesita ser fino), o simplemente 'picado grueso' para cosas como un caldo, donde el corte se va a colar después y su tamaño exacto no importa."
+      "texto": "También existen los cortes más gruesos y rústicos: cubos medianos o grandes (para guisos y estofados, donde el ingrediente cocina lento y por horas, así que no necesita ser fino), o simplemente 'picado grueso' para cosas como un caldo, donde el corte se va a colar después y su tamaño exacto no importa."
     },
     {
       "tipo": "tabla",
@@ -59,7 +59,7 @@
     {
       "tipo": "tip",
       "titulo": "No te obsesiones con la precisión al principio",
-      "texto": "Estos cortes toman práctica. Lo importante en tus primeras semanas no es que la brunoise te quede perfecta en milímetros, sino que los trozos sean parejos ENTRE SÍ — eso es lo que realmente afecta la cocción."
+      "texto": "Estos cortes toman práctica. Lo importante en tus primeras semanas no es que la brunoise te quede perfecta en milímetros, sino que los trozos sean parejos ENTRE SÍ: eso es lo que realmente afecta la cocción."
     }
   ]
 }

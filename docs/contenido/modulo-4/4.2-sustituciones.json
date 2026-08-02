@@ -1,7 +1,7 @@
 {
   "modulo": 4,
   "leccion_numero": "4.2",
-  "titulo": "Sustituciones de ingredientes",
+  "titulo": "Te falta un ingrediente: cómo reemplazarlo sin arruinar la receta",
   "slug": "sustituciones-ingredientes",
   "tiene_quiz": true,
   "contenido": [
@@ -50,7 +50,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Esta forma de pensar —identificar la función antes de buscar el reemplazo— es exactamente la misma lógica que se usa en el recomendador de recetas según lo que se tiene en casa: no se trata de tener el ingrediente exacto que pide una receta, sino de entender qué necesita esa preparación y ver qué hay disponible que cumpla ese mismo rol."
+      "texto": "Esta forma de pensar (identificar la función antes de buscar el reemplazo) es exactamente la misma lógica que se usa en el recomendador de recetas según lo que se tiene en casa: no se trata de tener el ingrediente exacto que pide una receta, sino de entender qué necesita esa preparación y ver qué hay disponible que cumpla ese mismo rol."
     }
   ]
 }

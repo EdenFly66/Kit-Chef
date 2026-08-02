@@ -1,7 +1,7 @@
 {
   "modulo": 8,
   "leccion_numero": "8.1",
-  "titulo": "Pollo",
+  "titulo": "Todo lo que necesitas saber del pollo antes de cocinarlo",
   "slug": "tips-pollo",
   "tiene_quiz": true,
   "contenido": [
@@ -14,7 +14,7 @@
       "titulo": "Cortes de pollo y su comportamiento",
       "columnas": ["Corte", "Grasa", "Mejor técnica", "Temperatura final"],
       "filas": [
-        ["Pechuga", "Baja", "Sellado, horneado — cuidado de no secarla", "68-71°C"],
+        ["Pechuga", "Baja", "Sellado, horneado (con cuidado de no secarla)", "68-71°C"],
         ["Muslo", "Media-alta", "Cualquier técnica, muy tolerante", "80-82°C"],
         ["Ala", "Alta", "Horneado, frito, parrilla", "80-82°C"],
         ["Pollo entero", "Variable por zona", "Asado al horno", "71°C en la pechuga"]
@@ -22,7 +22,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "La pechuga es el corte que más se seca con facilidad, porque tiene muy poca grasa que la proteja durante la cocción. El muslo, en cambio, es mucho más tolerante a errores de tiempo gracias a su mayor contenido de grasa y colágeno — por eso suele ser el corte más recomendable para quienes recién empiezan a cocinar pollo."
+      "texto": "La pechuga es el corte que más se seca con facilidad, porque tiene muy poca grasa que la proteja durante la cocción. El muslo, en cambio, es mucho más tolerante a errores de tiempo gracias a su mayor contenido de grasa y colágeno, por eso suele ser el corte más recomendable para quienes recién empiezan a cocinar pollo."
     },
     {
       "tipo": "tip",
@@ -36,7 +36,7 @@
     {
       "tipo": "tip",
       "titulo": "Sobre la seguridad",
-      "texto": "El pollo no necesita llegar a 74°C para ser seguro. Una pechuga terminada a 65-68°C, sostenida ese calor por unos minutos con el reposo, es tan segura como una recocida a 74°C — y considerablemente más jugosa."
+      "texto": "El pollo no necesita llegar a 74°C para ser seguro. Una pechuga terminada a 65-68°C, sostenida ese calor por unos minutos con el reposo, es tan segura como una recocida a 74°C, y considerablemente más jugosa."
     }
   ]
 }

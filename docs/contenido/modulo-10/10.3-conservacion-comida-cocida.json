@@ -1,13 +1,13 @@
 {
   "modulo": 10,
   "leccion_numero": "10.3",
-  "titulo": "Conservación de comida cocida y sobras",
+  "titulo": "Sobras seguras: cómo guardar la comida cocida sin arriesgar tu salud",
   "slug": "conservacion-comida-cocida",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Una vez que la comida ya está cocinada, el reloj de seguridad empieza a correr distinto que con ingredientes crudos. Guardar bien las sobras no es solo cuestión de sabor — es cuestión de seguridad alimentaria."
+      "texto": "Una vez que la comida ya está cocinada, el reloj de seguridad empieza a correr distinto que con ingredientes crudos. Guardar bien las sobras no es solo cuestión de sabor: es cuestión de seguridad alimentaria."
     },
     {
       "tipo": "parrafo",
@@ -16,7 +16,7 @@
     {
       "tipo": "tip",
       "titulo": "No hace falta esperar a que se enfríe del todo",
-      "texto": "La creencia de que la comida caliente 'daña' el refrigerador es un mito exagerado — los refrigeradores modernos manejan bien el calor. Lo importante es no dejar la comida más de 2 horas fuera antes de guardarla."
+      "texto": "La creencia de que la comida caliente 'daña' el refrigerador es un mito exagerado: los refrigeradores modernos manejan bien el calor. Lo importante es no dejar la comida más de 2 horas fuera antes de guardarla."
     },
     {
       "tipo": "tabla",

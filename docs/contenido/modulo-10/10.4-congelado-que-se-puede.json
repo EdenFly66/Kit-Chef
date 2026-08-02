@@ -1,20 +1,20 @@
 {
   "modulo": 10,
   "leccion_numero": "10.4",
-  "titulo": "Congelado: qué se puede y qué no",
+  "titulo": "Qué se puede congelar (y qué no), para no perder nada en el freezer",
   "slug": "congelado-que-se-puede",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "El congelador puede extender mucho la vida útil de la comida, pero no todos los alimentos toleran bien el proceso — algunos cambian de textura de forma tan drástica que dejan de ser agradables al descongelar."
+      "texto": "El congelador puede extender mucho la vida útil de la comida, pero no todos los alimentos toleran bien el proceso: algunos cambian de textura de forma tan drástica que dejan de ser agradables al descongelar."
     },
     {
       "tipo": "tabla",
       "titulo": "Qué congela bien",
       "columnas": ["Alimento", "Notas"],
       "filas": [
-        ["Guisos, sopas, salsas", "Excelente candidato — la textura casi no cambia"],
+        ["Guisos, sopas, salsas", "Excelente candidato: la textura casi no cambia"],
         ["Carnes crudas o cocidas", "Muy bien, sobre todo bien envueltas"],
         ["Pan", "Muy bien, rebanado o entero"],
         ["Verduras blanqueadas", "Bien, siempre que se blanqueen antes de congelar"],
@@ -40,7 +40,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Etiquetar con el nombre y la fecha antes de congelar es un hábito simple que ahorra mucha frustración después — es sorprendentemente difícil reconocer un guiso congelado de otro solo por su apariencia."
+      "texto": "Etiquetar con el nombre y la fecha antes de congelar es un hábito simple que ahorra mucha frustración después: es sorprendentemente difícil reconocer un guiso congelado de otro solo por su apariencia."
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "modulo": 5,
   "leccion_numero": "5.5",
-  "titulo": "Grupos de afinidad de ingredientes",
+  "titulo": "Ingredientes que combinan casi solos: los grupos de afinidad",
   "slug": "grupos-afinidad-ingredientes",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Ciertos ingredientes tienden a agruparse de forma natural — comparten un mundo de sabor y funcionan bien juntos casi sin esfuerzo. Conocer estos grupos ahorra mucho ensayo y error a la hora de armar una ensalada nueva."
+      "texto": "Ciertos ingredientes tienden a agruparse de forma natural: comparten un mundo de sabor y funcionan bien juntos casi sin esfuerzo. Conocer estos grupos ahorra mucho ensayo y error a la hora de armar una ensalada nueva."
     },
     {
       "tipo": "parrafo",

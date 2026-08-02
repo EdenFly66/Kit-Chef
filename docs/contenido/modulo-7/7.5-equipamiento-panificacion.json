@@ -1,13 +1,13 @@
 {
   "modulo": 7,
   "leccion_numero": "7.5",
-  "titulo": "Equipamiento básico por nivel de compromiso",
+  "titulo": "Qué herramientas necesitas de verdad (y cuáles puedes esperar)",
   "slug": "equipamiento-panificacion",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Técnicamente se puede hacer algo parecido a pan con solo un bowl y un horno. Pero contar con las herramientas adecuadas hace el proceso mucho más disfrutable y los resultados más consistentes. No hace falta comprar todo de una vez — conviene ir escalando según cuánto se vaya a hornear."
+      "texto": "Técnicamente se puede hacer algo parecido a pan con solo un bowl y un horno. Pero contar con las herramientas adecuadas hace el proceso mucho más disfrutable y los resultados más consistentes. No hace falta comprar todo de una vez: conviene ir escalando según cuánto se vaya a hornear."
     },
     {
       "tipo": "tabla",
@@ -48,7 +48,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "El vapor es esencial durante los primeros 20 minutos de horneado — mantiene blanda la corteza mientras el pan todavía se está expandiendo, permitiendo que alcance su tamaño máximo antes de que la costra se endurezca. La forma más simple de lograrlo en casa es hornear con una olla de fundición tapada: el vapor lo genera la misma humedad de la masa, atrapada dentro de la olla."
+      "texto": "El vapor es esencial durante los primeros 20 minutos de horneado: mantiene blanda la corteza mientras el pan todavía se está expandiendo, permitiendo que alcance su tamaño máximo antes de que la costra se endurezca. La forma más simple de lograrlo en casa es hornear con una olla de fundición tapada: el vapor lo genera la misma humedad de la masa, atrapada dentro de la olla."
     },
     {
       "tipo": "imagen",
@@ -58,7 +58,7 @@
     {
       "tipo": "tip",
       "titulo": "Lo que más vale la pena comprar primero",
-      "texto": "Si solo se puede invertir en una cosa más allá de lo mínimo, la balanza digital es la prioridad — la precisión en panadería es mucho más importante que en otros tipos de cocina, porque las proporciones afectan directamente la estructura del pan, no solo el sabor."
+      "texto": "Si solo se puede invertir en una cosa más allá de lo mínimo, la balanza digital es la prioridad: la precisión en panadería es mucho más importante que en otros tipos de cocina, porque las proporciones afectan directamente la estructura del pan, no solo el sabor."
     }
   ]
 }

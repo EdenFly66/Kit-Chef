@@ -1,7 +1,7 @@
 {
   "modulo": 10,
   "leccion_numero": "10.6",
-  "titulo": "Lácteos y huevos",
+  "titulo": "¿La leche y los huevos todavía sirven? Cómo saberlo sin arriesgarte",
   "slug": "conservacion-lacteos-huevos",
   "tiene_quiz": true,
   "contenido": [
@@ -24,7 +24,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Los huevos duran considerablemente más de lo que la mayoría cree — semanas, no días. Guardarlos en su cartón original (no en la puerta del refrigerador, que sufre más variación de temperatura) ayuda a que se mantengan frescos por más tiempo."
+      "texto": "Los huevos duran considerablemente más de lo que la mayoría cree: semanas, no días. Guardarlos en su cartón original (no en la puerta del refrigerador, que sufre más variación de temperatura) ayuda a que se mantengan frescos por más tiempo."
     },
     {
       "tipo": "tip",
@@ -38,7 +38,7 @@
     {
       "tipo": "tip",
       "titulo": "Cómo saber si la leche ya no sirve",
-      "texto": "Más allá de la fecha del envase, el olfato es la prueba más confiable — leche que empezó a fallar huele agria de forma inconfundible, mucho antes de que se vea distinta a simple vista."
+      "texto": "Más allá de la fecha del envase, el olfato es la prueba más confiable: leche que empezó a fallar huele agria de forma inconfundible, mucho antes de que se vea distinta a simple vista."
     }
   ]
 }

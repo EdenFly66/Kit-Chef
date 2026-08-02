@@ -1,13 +1,13 @@
 {
   "modulo": 3,
   "leccion_numero": "3.2",
-  "titulo": "Cocción por transferencia de calor residual",
+  "titulo": "Por qué tu carne sigue cocinándose después de apagar el fuego",
   "slug": "coccion-calor-residual",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Después de retirar la carne del fuego, su temperatura interna sigue subiendo — esto se llama cocción por calor residual o 'carryover'. Es uno de los conceptos que más sorprende a quienes recién empiezan a cocinar, porque parece contraintuitivo: la carne sigue cocinándose incluso lejos del calor."
+      "texto": "Después de retirar la carne del fuego, su temperatura interna sigue subiendo: esto se llama cocción por calor residual o 'carryover'. Es uno de los conceptos que más sorprende a quienes recién empiezan a cocinar, porque parece contraintuitivo: la carne sigue cocinándose incluso lejos del calor."
     },
     {
       "tipo": "parrafo",
@@ -41,12 +41,12 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Esto es exactamente lo que explica por qué en la lección anterior las 'temperaturas de retiro' eran más bajas que las 'temperaturas finales' — no es un margen de seguridad arbitrario, es matemática real: si se espera a que la carne llegue a la temperatura final deseada dentro del horno o la sartén, va a terminar sobrecocida una vez que el calor residual termine de subirla."
+      "texto": "Esto es exactamente lo que explica por qué en la lección anterior las 'temperaturas de retiro' eran más bajas que las 'temperaturas finales'. No es un margen de seguridad arbitrario, es matemática real: si se espera a que la carne llegue a la temperatura final deseada dentro del horno o la sartén, va a terminar sobrecocida una vez que el calor residual termine de subirla."
     },
     {
       "tipo": "tip",
       "titulo": "Por qué el reposo es parte de la técnica, no un paso opcional",
-      "texto": "El reposo después de cocinar no es solo para que 'se redistribuyan los jugos' (aunque eso también ayuda) — es el tiempo que necesita el calor residual para terminar su trabajo. Cortar la carne apenas sale del fuego interrumpe ese proceso a medio camino."
+      "texto": "El reposo después de cocinar no es solo para que 'se redistribuyan los jugos' (aunque eso también ayuda): es el tiempo que necesita el calor residual para terminar su trabajo. Cortar la carne apenas sale del fuego interrumpe ese proceso a medio camino."
     },
     {
       "tipo": "imagen",
@@ -55,7 +55,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "En la práctica, esto significa que la temperatura objetivo de cualquier receta no es el número al que hay que llegar mientras se cocina — es el número al que hay que retirar la carne del fuego, restando el calor residual esperado según el grosor y la intensidad de cocción."
+      "texto": "En la práctica, esto significa que la temperatura objetivo de cualquier receta no es el número al que hay que llegar mientras se cocina, sino el número al que hay que retirar la carne del fuego, restando el calor residual esperado según el grosor y la intensidad de cocción."
     }
   ]
 }

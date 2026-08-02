@@ -1,7 +1,7 @@
 {
   "modulo": 7,
   "leccion_numero": "7.2",
-  "titulo": "Ingredientes: harina, agua, cultivo iniciador, sal",
+  "titulo": "Los cuatro ingredientes que necesitas (y por qué cada uno importa)",
   "slug": "ingredientes-masa-madre",
   "tiene_quiz": true,
   "contenido": [
@@ -27,11 +27,11 @@
     {
       "tipo": "imagen",
       "url": "",
-      "caption": "Primer plano de dos montículos de harina separados sobre la mesa de trabajo — harina de fuerza blanca y harina integral más oscura y granulada — mostrando la diferencia de color y textura entre ambas antes de mezclarlas."
+      "caption": "Primer plano de dos montículos de harina separados sobre la mesa de trabajo (harina de fuerza blanca y harina integral más oscura y granulada), mostrando la diferencia de color y textura entre ambas antes de mezclarlas."
     },
     {
       "tipo": "parrafo",
-      "texto": "El agua activa las enzimas de la harina y comienza a formar el gluten — recién ahí se puede hablar de masa. El concepto de hidratación (el porcentaje de agua respecto al peso de la harina) es central en panadería: una masa de 70% de hidratación tiene 700 gramos de agua por cada 1.000 gramos de harina."
+      "texto": "El agua activa las enzimas de la harina y comienza a formar el gluten: recién ahí se puede hablar de masa. El concepto de hidratación (el porcentaje de agua respecto al peso de la harina) es central en panadería: una masa de 70% de hidratación tiene 700 gramos de agua por cada 1.000 gramos de harina."
     },
     {
       "tipo": "tabla",
@@ -51,7 +51,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "El cultivo iniciador (o masa madre propiamente tal) es el ingrediente que distingue a este pan. Es un ecosistema vivo de levaduras silvestres y bacterias del ácido láctico, cultivado a partir de solo harina y agua dejadas fermentar con el tiempo. Se cuida con alimentaciones regulares — se descarta una parte y se agrega harina y agua fresca — y se mantiene activo mientras se use con frecuencia."
+      "texto": "El cultivo iniciador (o masa madre propiamente tal) es el ingrediente que distingue a este pan. Es un ecosistema vivo de levaduras silvestres y bacterias del ácido láctico, cultivado a partir de solo harina y agua dejadas fermentar con el tiempo. Se cuida con alimentaciones regulares (se descarta una parte y se agrega harina y agua fresca) y se mantiene activo mientras se use con frecuencia."
     },
     {
       "tipo": "imagen",

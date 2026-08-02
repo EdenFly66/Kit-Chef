@@ -17,11 +17,11 @@
   "pasos": [
     { "numero_paso": 1, "instruccion": "Salar la proteína con anticipación si es posible, y secarla muy bien con papel absorbente justo antes de cocinar.", "tecnica_relacionada": "cuando-salar" },
     { "numero_paso": 2, "instruccion": "Precalentar la sartén a fuego medio-alto. Agregar el aceite y esperar a que brille.", "tecnica_relacionada": "dorado-maillard" },
-    { "numero_paso": 3, "instruccion": "Colocar la proteína y no moverla — dejar que se forme una costra dorada antes de darla vuelta. Se va a despegar sola cuando esté lista.", "tecnica_relacionada": "salteado" },
+    { "numero_paso": 3, "instruccion": "Colocar la proteína y no moverla: dejar que se forme una costra dorada antes de darla vuelta. Se va a despegar sola cuando esté lista.", "tecnica_relacionada": "salteado" },
     { "tipo": "imagen", "url": "", "caption": "Pechuga de pollo en la sartén con costra dorada pareja por Maillard, en el momento en que se despega sola del fondo" },
     { "numero_paso": 4, "instruccion": "Retirar la proteína unos grados antes de la temperatura final deseada, y dejarla reposar tapada mientras se hace la salsa.", "tecnica_relacionada": "coccion-calor-residual" },
     { "numero_paso": 5, "instruccion": "En la misma sartén, sofreír la chalota picada fina hasta que esté suave.", "tecnica_relacionada": "tipos-de-corte" },
-    { "numero_paso": 6, "instruccion": "Desglasar con el vino blanco, raspando con cuchara de madera todo lo dorado pegado en el fondo — ahí está la mayor parte del sabor.", "tecnica_relacionada": null },
+    { "numero_paso": 6, "instruccion": "Desglasar con el vino blanco, raspando con cuchara de madera todo lo dorado pegado en el fondo, donde está la mayor parte del sabor.", "tecnica_relacionada": null },
     { "tipo": "imagen", "url": "", "caption": "Fondo de la sartén siendo desglasado con vino blanco, cuchara de madera raspando los trozos dorados pegados, líquido burbujeando" },
     { "numero_paso": 7, "instruccion": "Dejar reducir a la mitad, luego retirar del fuego e incorporar la mantequilla fría de a poco, batiendo, hasta lograr una salsa brillante.", "tecnica_relacionada": "conceptos-de-grasas" },
     { "numero_paso": 8, "instruccion": "Probar y ajustar sal, servir la salsa sobre la proteína ya reposada.", "tecnica_relacionada": "salar-a-gusto" },

@@ -4,12 +4,18 @@ import { TipBlock } from "./TipBlock";
 import { TablaBlock } from "./TablaBlock";
 import { ImagenBlock } from "./ImagenBlock";
 
-export function BloqueRenderer({ bloque }: { bloque: BloqueContenido }) {
+export function BloqueRenderer({
+  bloque,
+  acento,
+}: {
+  bloque: BloqueContenido;
+  acento?: string;
+}) {
   switch (bloque.tipo) {
     case "parrafo":
       return <ParrafoBlock texto={bloque.texto} />;
     case "tip":
-      return <TipBlock titulo={bloque.titulo} texto={bloque.texto} />;
+      return <TipBlock titulo={bloque.titulo} texto={bloque.texto} acento={acento} />;
     case "tabla":
       return (
         <TablaBlock
@@ -19,7 +25,7 @@ export function BloqueRenderer({ bloque }: { bloque: BloqueContenido }) {
         />
       );
     case "imagen":
-      return <ImagenBlock url={bloque.url} caption={bloque.caption} />;
+      return <ImagenBlock url={bloque.url} caption={bloque.caption} acento={acento} />;
     default:
       return null;
   }

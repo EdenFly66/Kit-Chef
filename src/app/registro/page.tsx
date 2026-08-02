@@ -83,7 +83,7 @@ export default function RegistroPage() {
     <main className="mx-auto w-full max-w-md px-6 py-16">
       <h1 className="font-titulo text-2xl font-semibold text-foreground">Crear cuenta</h1>
       <p className="mt-2 text-sm text-ink-dim">
-        Opcional — puedes seguir usando Kit-Chef sin registrarte. Regístrate solo si quieres
+        Opcional: puedes seguir usando Kit-Chef sin registrarte. Regístrate solo si quieres
         guardar tu progreso en la nube.
       </p>
 

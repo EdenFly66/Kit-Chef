@@ -31,8 +31,8 @@ export default async function LandingPage() {
           La técnica primero. La receta después.
         </h1>
         <p className="mx-auto mt-5 max-w-xl text-ink-dim">
-          Diez módulos gratuitos que enseñan a cocinar por técnica —cortar, salar, dorar,
-          emulsionar— para que después cualquier receta te salga sin depender de seguir
+          Diez módulos gratuitos que enseñan a cocinar por técnica (cortar, salar, dorar,
+          emulsionar) para que después cualquier receta te salga sin depender de seguir
           instrucciones al pie de la letra.
         </p>
         <div className="mt-8 flex flex-col items-center gap-2">
@@ -56,7 +56,7 @@ export default async function LandingPage() {
             </h2>
             <p className="mt-4 text-ink-dim">
               Una receta caduca apenas falta un ingrediente o cambia la sartén. La técnica
-              —cuándo salar, cómo armar una emulsión, qué le hace el calor a una proteína— se
+              (cuándo salar, cómo armar una emulsión, qué le hace el calor a una proteína) se
               transfiere a cualquier plato, para siempre.
             </p>
           </div>
@@ -114,13 +114,13 @@ export default async function LandingPage() {
             Todo el contenido es gratis. Premium es para ir más rápido.
           </h2>
           <p className="mt-4 text-ink-dim">
-            Los diez módulos —lecciones y recetas— son gratis y completos, sin muro de pago.
+            Los diez módulos (lecciones y recetas) son gratis y completos, sin muro de pago.
             Premium agrega dos cosas: quizzes por lección con calificación, para saber si de
             verdad aprendiste, y un recomendador que cruza lo que tienes en tu despensa con las
             recetas disponibles.
           </p>
           <p className="mt-4 text-sm text-ink-dim">
-            Premium está en construcción — el contenido educativo ya está disponible completo
+            Premium está en construcción. El contenido educativo ya está disponible completo
             hoy.
           </p>
         </div>

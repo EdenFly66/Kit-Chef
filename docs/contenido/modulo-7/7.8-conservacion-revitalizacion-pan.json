@@ -1,7 +1,7 @@
 {
   "modulo": 7,
   "leccion_numero": "7.8",
-  "titulo": "Conservación y revitalización del pan",
+  "titulo": "Cómo guardar tu pan (y revivirlo cuando ya está duro)",
   "slug": "conservacion-revitalizacion-pan",
   "tiene_quiz": true,
   "contenido": [
@@ -11,7 +11,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Sobre la mesa, un pan entero o cortado se mantiene bien hasta por una semana. Un pan ya cortado conviene apoyarlo con el lado cortado hacia abajo, para frenar que el interior se seque. Envolverlo en un paño de cocina o guardarlo en una bolsa de papel funciona bien. Nunca conviene guardar el pan en el refrigerador — es un ambiente de baja humedad que reseca la corteza, y el frío acelera la cristalización del almidón, lo que pone el pan duro y desmoronadizo más rápido."
+      "texto": "Sobre la mesa, un pan entero o cortado se mantiene bien hasta por una semana. Un pan ya cortado conviene apoyarlo con el lado cortado hacia abajo, para frenar que el interior se seque. Envolverlo en un paño de cocina o guardarlo en una bolsa de papel funciona bien. Nunca conviene guardar el pan en el refrigerador: es un ambiente de baja humedad que reseca la corteza, y el frío acelera la cristalización del almidón, lo que pone el pan duro y desmoronadizo más rápido."
     },
     {
       "tipo": "imagen",
@@ -43,7 +43,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Si el pan lleva uno o dos días fuera y ya se siente más duro que fresco, hay una forma simple de revivirlo. Se pasa el pan bajo el chorro de agua, mojando toda la corteza por unos 5-10 segundos —sin empapar el lado cortado si ya está rebanado— y se hornea a 175°C por unos 10 minutos. El vapor generado ablanda el interior y suaviza la corteza, sin que pierda su textura crujiente."
+      "texto": "Si el pan lleva uno o dos días fuera y ya se siente más duro que fresco, hay una forma simple de revivirlo. Se pasa el pan bajo el chorro de agua, mojando toda la corteza por unos 5-10 segundos (sin empapar el lado cortado si ya está rebanado) y se hornea a 175°C por unos 10 minutos. El vapor generado ablanda el interior y suaviza la corteza, sin que pierda su textura crujiente."
     },
     {
       "tipo": "imagen",

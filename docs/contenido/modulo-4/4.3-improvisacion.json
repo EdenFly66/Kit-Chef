@@ -1,13 +1,13 @@
 {
   "modulo": 4,
   "leccion_numero": "4.3",
-  "titulo": "Framework de improvisación",
+  "titulo": "Sin receta a la vista: el método de 6 pasos para improvisar un plato",
   "slug": "framework-improvisacion",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Esto es hacia donde apuntaban todas las lecciones anteriores. Ya se tienen las herramientas — ahora toca aprender a usarlas juntas, sin depender de una receta paso a paso. Cocinar de verdad es más parecido a improvisar sobre una base que a seguir una partitura al pie de la letra: hay que ajustarse a los ingredientes que hay, al punto exacto de un limón, a lo que ofrezca la carnicería ese día."
+      "texto": "Esto es hacia donde apuntaban todas las lecciones anteriores. Ya se tienen las herramientas, ahora toca aprender a usarlas juntas, sin depender de una receta paso a paso. Cocinar de verdad es más parecido a improvisar sobre una base que a seguir una partitura al pie de la letra: hay que ajustarse a los ingredientes que hay, al punto exacto de un limón, a lo que ofrezca la carnicería ese día."
     },
     {
       "tipo": "imagen",
@@ -21,8 +21,8 @@
         "1. Ancla: elegir una proteína, un ingrediente protagonista, o un plato de inspiración. ¿De qué se trata esta comida?",
         "2. Perfil de sabor: elegir una dirección de cocina regional, y desde ahí definir grasa, ácido y acentos",
         "3. Técnica y estructura: elegir el método de cocción y la forma del plato (plato armado, bowl, sopa, sándwich)",
-        "4. Secuencia: planear el orden antes de tocar nada — ¿qué toma más tiempo? ¿qué necesita estar caliente al mismo momento?",
-        "5. Probar y ajustar: probar al menos tres veces — después de la base, después de cocinar el ancla, antes de servir",
+        "4. Secuencia: planear el orden antes de tocar nada. ¿Qué toma más tiempo? ¿Qué necesita estar caliente al mismo momento?",
+        "5. Probar y ajustar: probar al menos tres veces (después de la base, después de cocinar el ancla, antes de servir)",
         "6. Terminación: agregar grasa de terminación, un elemento fresco, y textura, fuera del fuego, justo antes de servir"
       ]
     },
@@ -32,12 +32,12 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "El paso de secuencia es donde más se equivocan quienes recién empiezan a improvisar — no suele ser un tema de sabor o técnica, sino de tiempos. El error más común es empezar por lo más entretenido (normalmente la proteína) y olvidar que el arroz tarda 20 minutos."
+      "texto": "El paso de secuencia es donde más se equivocan quienes recién empiezan a improvisar: no suele ser un tema de sabor o técnica, sino de tiempos. El error más común es empezar por lo más entretenido (normalmente la proteína) y olvidar que el arroz tarda 20 minutos."
     },
     {
       "tipo": "tip",
       "titulo": "Mise en place",
-      "texto": "Antes de empezar a cocinar, tener todos los ingredientes organizados — lo que se conoce como 'mise en place' ('todo en su lugar', en francés). Todo lo que se pueda preparar con anticipación, hacerlo antes. Esto saca presión y multitarea del momento en que ya hay algo sobre el fuego."
+      "texto": "Antes de empezar a cocinar, tener todos los ingredientes organizados: lo que se conoce como 'mise en place' ('todo en su lugar', en francés). Todo lo que se pueda preparar con anticipación, hacerlo antes. Esto saca presión y multitarea del momento en que ya hay algo sobre el fuego."
     },
     {
       "tipo": "imagen",

@@ -1,7 +1,7 @@
 {
   "modulo": 1,
   "leccion_numero": "1.6",
-  "titulo": "Conceptos de grasas",
+  "titulo": "La grasa no es la mala de la película: todo lo que hace por tu comida",
   "slug": "conceptos-de-grasas",
   "tiene_quiz": true,
   "contenido": [
@@ -11,7 +11,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Como medio de calor, la grasa permite que la superficie de un alimento alcance temperaturas mucho más altas que las que se logran con agua. Un método de cocción basado en agua nunca supera los 100°C, pero una sartén con aceite puede llegar muy por encima de eso — y ese calor extra es justamente lo que genera el dorado y la costra que hacen tan sabrosa a la comida."
+      "texto": "Como medio de calor, la grasa permite que la superficie de un alimento alcance temperaturas mucho más altas que las que se logran con agua. Un método de cocción basado en agua nunca supera los 100°C, pero una sartén con aceite puede llegar muy por encima de eso, y ese calor extra es justamente lo que genera el dorado y la costra que hacen tan sabrosa a la comida."
     },
     {
       "tipo": "imagen",
@@ -25,7 +25,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Cada tipo de grasa tiene un punto de humo distinto — la temperatura a la que empieza a quemarse y generar sabores desagradables. Para cocciones a fuego alto conviene usar grasas con punto de humo alto (como aceite de maravilla, palta o canola refinado); para aliñar en frío o cocciones suaves, conviene aprovechar grasas de sabor más marcado, como el aceite de oliva virgen o la mantequilla, que a fuego muy alto se queman antes de tiempo."
+      "texto": "Cada tipo de grasa tiene un punto de humo distinto: la temperatura a la que empieza a quemarse y generar sabores desagradables. Para cocciones a fuego alto conviene usar grasas con punto de humo alto (como aceite de maravilla, palta o canola refinado); para aliñar en frío o cocciones suaves, conviene aprovechar grasas de sabor más marcado, como el aceite de oliva virgen o la mantequilla, que a fuego muy alto se queman antes de tiempo."
     },
     {
       "tipo": "imagen",
@@ -54,7 +54,7 @@
     {
       "tipo": "tip",
       "titulo": "Grasa de terminación",
-      "texto": "Una cucharada de mantequilla fría agregada justo al final, fuera del fuego, sobre una salsa; un chorrito de buen aceite de oliva sobre una pasta recién servida — esta 'grasa de terminación' redondea el plato y agrega una capa final de sabor que la grasa de cocción no logra por sí sola."
+      "texto": "Una cucharada de mantequilla fría agregada justo al final, fuera del fuego, sobre una salsa; un chorrito de buen aceite de oliva sobre una pasta recién servida: esta 'grasa de terminación' redondea el plato y agrega una capa final de sabor que la grasa de cocción no logra por sí sola."
     },
     {
       "tipo": "imagen",

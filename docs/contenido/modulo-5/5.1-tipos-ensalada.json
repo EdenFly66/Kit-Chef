@@ -1,13 +1,13 @@
 {
   "modulo": 5,
   "leccion_numero": "5.1",
-  "titulo": "Los 4 tipos de ensalada",
+  "titulo": "Antes de armar nada, descubre qué tipo de ensalada estás haciendo",
   "slug": "cuatro-tipos-ensalada",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Toda buena ensalada sigue el mismo marco de referencia. Aprender los principios permite improvisar cualquier combinación sin necesidad de receta. Antes de elegir un solo ingrediente, conviene saber qué tipo de ensalada se está armando — esa decisión determina el momento de servir, el estilo de aliño, si se puede preparar con anticipación, y hasta qué cuenta como una buena base."
+      "texto": "Toda buena ensalada sigue el mismo marco de referencia. Aprender los principios permite improvisar cualquier combinación sin necesidad de receta. Antes de elegir un solo ingrediente, conviene saber qué tipo de ensalada se está armando: esa decisión determina el momento de servir, el estilo de aliño, si se puede preparar con anticipación, y hasta qué cuenta como una buena base."
     },
     {
       "tipo": "tabla",
@@ -16,13 +16,13 @@
       "filas": [
         ["Mezclada", "Ingredientes combinados y aliñados juntos en un bowl", "César, ensalada griega, ensalada chilena", "Inmediato, después de aliñar"],
         ["Compuesta", "Cada componente ubicado por separado en el plato, sin mezclar", "Niçoise, caprese, bowls armados", "Inmediato, aliño al servir o en la mesa"],
-        ["Ligada", "Ingredientes unidos por un aglutinante espeso — mayonesa, yogur o similar", "Ensalada de pollo, ensalada rusa, coleslaw", "Mejora reposando, se puede preparar antes"],
-        ["Farinácea", "Construida sobre una base de almidón — pasta, grano, legumbre o pan", "Ensalada de pasta, tabulé, ensalada de garbanzos", "Mejora reposando, se puede preparar antes"]
+        ["Ligada", "Ingredientes unidos por un aglutinante espeso (mayonesa, yogur o similar)", "Ensalada de pollo, ensalada rusa, coleslaw", "Mejora reposando, se puede preparar antes"],
+        ["Farinácea", "Construida sobre una base de almidón (pasta, grano, legumbre o pan)", "Ensalada de pasta, tabulé, ensalada de garbanzos", "Mejora reposando, se puede preparar antes"]
       ]
     },
     {
       "tipo": "parrafo",
-      "texto": "Las ensaladas mezcladas y compuestas se deben servir de inmediato después de aliñar — las hojas aliñadas se marchitan en minutos. Las ligadas y las farináceas, en cambio, se pueden —y a menudo conviene— preparar con anticipación, para dejar que los sabores se asienten y se desarrollen."
+      "texto": "Las ensaladas mezcladas y compuestas se deben servir de inmediato después de aliñar: las hojas aliñadas se marchitan en minutos. Las ligadas y las farináceas, en cambio, se pueden preparar con anticipación (y a menudo conviene hacerlo), para dejar que los sabores se asienten y se desarrollen."
     },
     {
       "tipo": "imagen",
@@ -37,11 +37,11 @@
     {
       "tipo": "imagen",
       "url": "",
-      "caption": "Bowl de ensalada verde aliñada 20 minutos antes de la foto, con las hojas visiblemente marchitas y aguadas por el aliño — ejemplo de lo que hay que evitar en una ensalada mezclada."
+      "caption": "Bowl de ensalada verde aliñada 20 minutos antes de la foto, con las hojas visiblemente marchitas y aguadas por el aliño, ejemplo de lo que hay que evitar en una ensalada mezclada."
     },
     {
       "tipo": "parrafo",
-      "texto": "Las ensaladas farináceas, en particular, absorben bastante aliño con el tiempo — por eso suelen necesitar más ácido del que parece necesario al momento de prepararlas, porque buena parte de ese sabor se lo va a llevar el almidón mientras reposa."
+      "texto": "Las ensaladas farináceas, en particular, absorben bastante aliño con el tiempo, por eso suelen necesitar más ácido del que parece necesario al momento de prepararlas, porque buena parte de ese sabor se lo va a llevar el almidón mientras reposa."
     },
     {
       "tipo": "imagen",

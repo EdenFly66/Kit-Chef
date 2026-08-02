@@ -1,7 +1,7 @@
 {
   "modulo": 2,
   "leccion_numero": "2.1",
-  "titulo": "Los 4 cuadrantes de calor",
+  "titulo": "El mapa mental que ordena todas las técnicas de cocción",
   "slug": "cuatro-cuadrantes-calor",
   "tiene_quiz": true,
   "contenido": [
@@ -11,7 +11,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Cada cuadrante tiene un objetivo distinto — y elegir el correcto es la primera decisión que se toma frente a cualquier ingrediente."
+      "texto": "Cada cuadrante tiene un objetivo distinto. Elegir el correcto es la primera decisión que se toma frente a cualquier ingrediente."
     },
     {
       "tipo": "tabla",
@@ -26,7 +26,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Para la mayoría de los cortes gruesos de carne, ningún cuadrante por sí solo cumple bien los dos objetivos a la vez — lograr una buena textura de superficie y el punto de cocción interno perfecto al mismo tiempo. Ahí es donde entra combinar técnicas de distintos cuadrantes."
+      "texto": "Para la mayoría de los cortes gruesos de carne, ningún cuadrante por sí solo cumple bien los dos objetivos a la vez: lograr una buena textura de superficie y el punto de cocción interno perfecto al mismo tiempo. Ahí es donde entra combinar técnicas de distintos cuadrantes."
     },
     {
       "tipo": "parrafo",
@@ -49,7 +49,7 @@
     {
       "tipo": "tip",
       "titulo": "Sobre la freidora de aire",
-      "texto": "Una freidora de aire es, en esencia, un horno de convección potente — se podría decir que hace 'horneado potenciado' más que fritura real. Pertenece al cuadrante seco + intenso. El flujo de aire acelerado saca la humedad de la superficie más rápido que un horno convencional, y por eso genera tan buen dorado. No hay fritura de verdad ocurriendo."
+      "texto": "Una freidora de aire es, en esencia, un horno de convección potente: se podría decir que hace 'horneado potenciado' más que fritura real. Pertenece al cuadrante seco + intenso. El flujo de aire acelerado saca la humedad de la superficie más rápido que un horno convencional, y por eso genera tan buen dorado. No hay fritura de verdad ocurriendo."
     }
   ]
 }

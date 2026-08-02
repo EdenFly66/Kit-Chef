@@ -1,13 +1,13 @@
 {
   "modulo": 5,
   "leccion_numero": "5.4",
-  "titulo": "Principio del ancla",
+  "titulo": "El ingrediente que le da identidad a toda tu ensalada",
   "slug": "principio-del-ancla",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Toda gran ensalada tiene un sabor dominante — y todo lo demás está ahí para servirle a ese sabor. El ancla es un ingrediente con un carácter inconfundible que define la identidad de la ensalada. No necesita ser el elemento más grande en cantidad, solo el más distintivo."
+      "texto": "Toda gran ensalada tiene un sabor dominante, y todo lo demás está ahí para servirle a ese sabor. El ancla es un ingrediente con un carácter inconfundible que define la identidad de la ensalada. No necesita ser el elemento más grande en cantidad, solo el más distintivo."
     },
     {
       "tipo": "parrafo",
@@ -42,7 +42,7 @@
     {
       "tipo": "tip",
       "titulo": "El error de dos anclas",
-      "texto": "Combinar dos ingredientes ancla fuertes —anchoas con miso, o parmesano con salsa de soya— casi nunca funciona bien: en vez de complementarse, compiten entre sí y el resultado sabe confuso y sobresalado. Conviene elegir uno solo y dejar que los demás ingredientes lo apoyen."
+      "texto": "Combinar dos ingredientes ancla fuertes (anchoas con miso, o parmesano con salsa de soya) casi nunca funciona bien: en vez de complementarse, compiten entre sí y el resultado sabe confuso y sobresalado. Conviene elegir uno solo y dejar que los demás ingredientes lo apoyen."
     },
     {
       "tipo": "imagen",

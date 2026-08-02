@@ -1,13 +1,13 @@
 {
   "modulo": 7,
   "leccion_numero": "7.3",
-  "titulo": "Fermentación: variables que la afectan",
+  "titulo": "Qué acelera o frena la fermentación de tu masa",
   "slug": "fermentacion-variables",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "La fermentación prolongada de la masa madre es lo que la distingue de otros panes. El cultivo iniciador inocula la masa con levaduras y bacterias que se alimentan de los azúcares presentes en la harina hidratada. Las enzimas rompen el almidón en azúcar, la levadura convierte ese azúcar en gas y etanol, y las bacterias convierten azúcar y etanol en ácidos orgánicos. Todo esto ocurre dentro de la masa, y la red de gluten atrapa el gas generado — así la masa crece y se transforma de una bola densa a un colchón aireado."
+      "texto": "La fermentación prolongada de la masa madre es lo que la distingue de otros panes. El cultivo iniciador inocula la masa con levaduras y bacterias que se alimentan de los azúcares presentes en la harina hidratada. Las enzimas rompen el almidón en azúcar, la levadura convierte ese azúcar en gas y etanol, y las bacterias convierten azúcar y etanol en ácidos orgánicos. Todo esto ocurre dentro de la masa, y la red de gluten atrapa el gas generado, así la masa crece y se transforma de una bola densa a un colchón aireado."
     },
     {
       "tipo": "parrafo",
@@ -15,7 +15,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "La inoculación —el porcentaje de cultivo iniciador respecto a la harina— suele ser entre 10% y 20%. Porcentajes más altos aceleran la fermentación. Un cultivo fuerte y en su punto de actividad máxima fermenta la masa más rápido que uno recién alimentado y todavía perezoso."
+      "texto": "La inoculación (el porcentaje de cultivo iniciador respecto a la harina) suele ser entre 10% y 20%. Porcentajes más altos aceleran la fermentación. Un cultivo fuerte y en su punto de actividad máxima fermenta la masa más rápido que uno recién alimentado y todavía perezoso."
     },
     {
       "tipo": "imagen",
@@ -48,7 +48,7 @@
       "items": [
         "La masa se ve inflada y esponjosa, con un hombro definido donde toca el borde del recipiente",
         "Se forman burbujas visibles bajo la superficie, y en los bordes si el recipiente es transparente",
-        "Al oler, ya no huele solo a harina cruda — hay un aroma dulce, levemente ácido y apetitoso",
+        "Al oler, ya no huele solo a harina cruda: hay un aroma dulce, levemente ácido y apetitoso",
         "Al mover suavemente el recipiente, la masa se mueve como un globo de agua, con un vaivén aireado"
       ]
     },
@@ -60,12 +60,12 @@
     {
       "tipo": "tip",
       "titulo": "Después de la fermentación en bloque",
-      "texto": "La mayoría de las masas madre pasan a un reposo en frío en el refrigerador después de formadas — esto detiene a la levadura pero deja activas las bacterias, mejorando la complejidad de sabor sin sobrefermentar. Puede durar entre 8 y 72 horas, lo que da flexibilidad para hornear cuando convenga."
+      "texto": "La mayoría de las masas madre pasan a un reposo en frío en el refrigerador después de formadas: esto detiene a la levadura pero deja activas las bacterias, mejorando la complejidad de sabor sin sobrefermentar. Puede durar entre 8 y 72 horas, lo que da flexibilidad para hornear cuando convenga."
     },
     {
       "tipo": "imagen",
       "url": "",
-      "caption": "Masa ya formada dentro de un banneton enharinado, entrando al refrigerador para el reposo en frío — toma que muestre la superficie tensa de la masa y la harina espolvoreada marcando el patrón del canasto."
+      "caption": "Masa ya formada dentro de un banneton enharinado, entrando al refrigerador para el reposo en frío: toma que muestre la superficie tensa de la masa y la harina espolvoreada marcando el patrón del canasto."
     }
   ]
 }

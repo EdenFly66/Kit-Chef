@@ -1,7 +1,7 @@
 {
   "modulo": 5,
   "leccion_numero": "5.9",
-  "titulo": "Construcción y armado",
+  "titulo": "Los 6 pasos para armar una ensalada como corresponde",
   "slug": "construccion-armado",
   "tiene_quiz": true,
   "contenido": [
@@ -13,12 +13,12 @@
       "tipo": "lista",
       "titulo": "Los 6 pasos de construcción",
       "items": [
-        "1. Lavar remojando y masajeando, no solo enjuagando — el sedimento se hunde, las hojas flotan limpias",
-        "2. Secar por completo en un secador de hojas — el agua diluye el aderezo y hace que no se adhiera bien",
-        "3. Usar un bowl unas tres veces más grande que la ensalada — da espacio para mezclar sin aplastar",
+        "1. Lavar remojando y masajeando, no solo enjuagando: el sedimento se hunde, las hojas flotan limpias",
+        "2. Secar por completo en un secador de hojas: el agua diluye el aderezo y hace que no se adhiera bien",
+        "3. Usar un bowl unas tres veces más grande que la ensalada: da espacio para mezclar sin aplastar",
         "4. Sazonar en capas: sal a las hojas, sazón al aderezo, y un toque final de sal y pimienta al servir",
-        "5. Guardar los elementos de textura para el final — crotones, semillas, hierbas frescas, recién antes de servir",
-        "6. Probar el bocado completo antes de servir — una hoja con un poco de todo, no los elementos por separado"
+        "5. Guardar los elementos de textura para el final: crotones, semillas, hierbas frescas, recién antes de servir",
+        "6. Probar el bocado completo antes de servir: una hoja con un poco de todo, no los elementos por separado"
       ]
     },
     {

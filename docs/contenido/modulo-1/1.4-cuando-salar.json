@@ -1,7 +1,7 @@
 {
   "modulo": 1,
   "leccion_numero": "1.4",
-  "titulo": "Cuándo salar",
+  "titulo": "Por qué el momento en que salas cambia el resultado",
   "slug": "cuando-salar",
   "tiene_quiz": true,
   "contenido": [
@@ -11,7 +11,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Con la carne, la sal que se pone sobre la superficie extrae agua desde el interior por ósmosis. Esa agua sale, se mezcla con la sal en la superficie, y luego ese líquido salado vuelve a ser absorbido hacia adentro — el resultado es una carne sazonada de adentro hacia afuera. Si se le da tiempo suficiente (algunas horas), la sal también empieza a romper algunas proteínas, lo que hace que la carne retenga más jugo durante la cocción y sea más difícil de secar en exceso."
+      "texto": "Con la carne, la sal que se pone sobre la superficie extrae agua desde el interior por ósmosis. Esa agua sale, se mezcla con la sal en la superficie, y luego ese líquido salado vuelve a ser absorbido hacia adentro: el resultado es una carne sazonada de adentro hacia afuera. Si se le da tiempo suficiente (algunas horas), la sal también empieza a romper algunas proteínas, lo que hace que la carne retenga más jugo durante la cocción y sea más difícil de secar en exceso."
     },
     {
       "tipo": "imagen",
@@ -21,11 +21,11 @@
     {
       "tipo": "tip",
       "titulo": "Regla práctica",
-      "texto": "Un buen punto de partida es 1% de sal sobre el peso de la carne — aproximadamente 5 gramos de sal por cada 500 gramos de carne."
+      "texto": "Un buen punto de partida es 1% de sal sobre el peso de la carne, aproximadamente 5 gramos de sal por cada 500 gramos de carne."
     },
     {
       "tipo": "parrafo",
-      "texto": "Aquí está la parte contraintuitiva: hay una ventana de tiempo que en realidad es la peor para cocinar. Si se sala la carne y se cocina entre 5 y 30 minutos después, el agua ya salió a la superficie pero no alcanzó a volver a absorberse — el resultado es una superficie húmeda que no dora bien. Lo ideal es salar con al menos 40 minutos de anticipación, o mejor aún, la noche anterior y dejarla en el refrigerador."
+      "texto": "Aquí está la parte contraintuitiva: hay una ventana de tiempo que en realidad es la peor para cocinar. Si se sala la carne y se cocina entre 5 y 30 minutos después, el agua ya salió a la superficie pero no alcanzó a volver a absorberse: el resultado es una superficie húmeda que no dora bien. Lo ideal es salar con al menos 40 minutos de anticipación, o mejor aún, la noche anterior y dejarla en el refrigerador."
     },
     {
       "tipo": "imagen",
@@ -40,14 +40,14 @@
         ["Bistec (menos de 5 cm de grosor)", "12-24 horas", "48 horas"],
         ["Pechuga de pollo", "6-12 horas", "24 horas"],
         ["Asado / carne para horno", "24-48 horas", "72 horas"],
-        ["Carne molida", "Justo antes de cocinar", "—"],
+        ["Carne molida", "Justo antes de cocinar", "No aplica"],
         ["Filete de pescado", "0-15 minutos", "15 minutos"],
         ["Camarones", "10 minutos", "30 minutos"]
       ]
     },
     {
       "tipo": "parrafo",
-      "texto": "Las verduras se comportan distinto porque tienen paredes celulares, no fibra muscular. La sal no rompe la celulosa, pero sí reduce la presión de agua dentro de las células vegetales — si se dejan saladas demasiado tiempo, terminan blandas y aguadas. Por eso las verduras conviene salarlas justo antes de cocinar (menos de 30 minutos), o directamente durante la cocción."
+      "texto": "Las verduras se comportan distinto porque tienen paredes celulares, no fibra muscular. La sal no rompe la celulosa, pero sí reduce la presión de agua dentro de las células vegetales: si se dejan saladas demasiado tiempo, terminan blandas y aguadas. Por eso las verduras conviene salarlas justo antes de cocinar (menos de 30 minutos), o directamente durante la cocción."
     },
     {
       "tipo": "tip",

@@ -1,13 +1,13 @@
 {
   "modulo": 2,
   "leccion_numero": "2.6",
-  "titulo": "Asado al horno",
+  "titulo": "El horno: dorado por fuera, jugoso por dentro",
   "slug": "asado-al-horno",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "El asado al horno usa calor seco e intenso —radiación, convección y conducción del horno— para dorar el exterior mientras cocina el interior por completo. Es la técnica que convierte una bandeja de verduras en algo caramelizado y complejo, y un pollo entero en el plato central de una comida."
+      "texto": "El asado al horno usa calor seco e intenso (radiación, convección y conducción del horno) para dorar el exterior mientras cocina el interior por completo. Es la técnica que convierte una bandeja de verduras en algo caramelizado y complejo, y un pollo entero en el plato central de una comida."
     },
     {
       "tipo": "parrafo",
@@ -17,8 +17,8 @@
       "tipo": "lista",
       "titulo": "Reglas prácticas para asar verduras",
       "items": [
-        "Cubrir con una capa fina de aceite y sal antes de meter al horno — el aceite sube la temperatura de superficie y controla la pérdida de humedad",
-        "Una sola capa, sin amontonar — piezas superpuestas se cuecen al vapor entre sí en vez de dorarse",
+        "Cubrir con una capa fina de aceite y sal antes de meter al horno: el aceite sube la temperatura de superficie y controla la pérdida de humedad",
+        "Una sola capa, sin amontonar: piezas superpuestas se cuecen al vapor entre sí en vez de dorarse",
         "Dejar espacio entre trozos para que el vapor pueda escapar",
         "Cortar más chico lo que es más denso (verduras de raíz) para igualar tiempos de cocción con lo demás en la misma bandeja"
       ]

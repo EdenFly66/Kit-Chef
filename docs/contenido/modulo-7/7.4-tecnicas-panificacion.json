@@ -1,13 +1,13 @@
 {
   "modulo": 7,
   "leccion_numero": "7.4",
-  "titulo": "Técnicas de panificación",
+  "titulo": "Las técnicas que van a transformar tu masa en pan",
   "slug": "tecnicas-panificacion",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Hacer un pan de masa madre requiere un puñado de técnicas que se van encadenando. Ninguna necesita salir perfecta desde el primer intento — se aprenden horneando, no leyendo."
+      "texto": "Hacer un pan de masa madre requiere un puñado de técnicas que se van encadenando. Ninguna necesita salir perfecta desde el primer intento: se aprenden horneando, no leyendo."
     },
     {
       "tipo": "parrafo",
@@ -24,11 +24,11 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "**Pliegues**: se hacen en las primeras horas de la fermentación en bloque, para fortalecer la red de gluten con suavidad. Se toma un extremo de la masa, se estira hacia arriba sin romperla, y se dobla sobre el centro — se repite girando el recipiente un cuarto de vuelta cada vez. Con 3-4 rondas espaciadas cada 30-45 minutos suele bastar."
+      "texto": "**Pliegues**: se hacen en las primeras horas de la fermentación en bloque, para fortalecer la red de gluten con suavidad. Se toma un extremo de la masa, se estira hacia arriba sin romperla, y se dobla sobre el centro. Se repite girando el recipiente un cuarto de vuelta cada vez. Con 3-4 rondas espaciadas cada 30-45 minutos suele bastar."
     },
     {
       "tipo": "parrafo",
-      "texto": "**Preformado**: al terminar la fermentación en bloque, se divide la masa en porciones y se les da una forma redonda suelta, para darles estructura antes del formado final. Se deja reposar unos 15-20 minutos tapada — este descanso relaja el gluten y facilita el paso siguiente."
+      "texto": "**Preformado**: al terminar la fermentación en bloque, se divide la masa en porciones y se les da una forma redonda suelta, para darles estructura antes del formado final. Se deja reposar unos 15-20 minutos tapada: este descanso relaja el gluten y facilita el paso siguiente."
     },
     {
       "tipo": "parrafo",
@@ -41,7 +41,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "**Greñado**: es el corte que se hace en la superficie de la masa justo antes de hornear. El pan puede expandirse hasta tres veces su tamaño original durante la cocción — sin un corte, esa expansión ocurre de forma impredecible, reventando el pan por su punto más débil. El corte dirige esa expansión de forma controlada, y de paso aporta un valor estético al pan terminado."
+      "texto": "**Greñado**: es el corte que se hace en la superficie de la masa justo antes de hornear. El pan puede expandirse hasta tres veces su tamaño original durante la cocción. Sin un corte, esa expansión ocurre de forma impredecible, reventando el pan por su punto más débil. El corte dirige esa expansión de forma controlada, y de paso aporta un valor estético al pan terminado."
     },
     {
       "tipo": "tip",

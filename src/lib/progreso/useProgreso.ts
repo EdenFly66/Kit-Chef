@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useState } from "react";
 import { supabase } from "@/lib/supabase/client";
 import { useAuth } from "@/lib/auth/AuthProvider";
-import { getProgresoLocal, marcarLeidaLocal } from "@/lib/progreso/local";
+import { getProgresoLocal, marcarLeidaLocal, desmarcarLeidaLocal } from "@/lib/progreso/local";
 
 /**
  * Fuente única de verdad para "¿qué lecciones de este set están leídas?".
@@ -77,5 +77,25 @@ export function useProgreso(leccionIds: string[]) {
     [user, session]
   );
 
-  return { leidas, loading, marcarLeida };
+  const desmarcarLeida = useCallback(
+    async (leccionId: string) => {
+      setLeidas((actuales) => {
+        const siguientes = new Set(actuales);
+        siguientes.delete(leccionId);
+        return siguientes;
+      });
+
+      if (user && session) {
+        await fetch(`/api/v1/progreso/${leccionId}/leido`, {
+          method: "DELETE",
+          headers: { Authorization: `Bearer ${session.access_token}` },
+        });
+      } else {
+        desmarcarLeidaLocal(leccionId);
+      }
+    },
+    [user, session]
+  );
+
+  return { leidas, loading, marcarLeida, desmarcarLeida };
 }

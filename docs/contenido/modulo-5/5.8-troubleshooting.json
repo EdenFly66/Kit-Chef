@@ -1,7 +1,7 @@
 {
   "modulo": 5,
   "leccion_numero": "5.8",
-  "titulo": "Troubleshooting de aderezos",
+  "titulo": "Tu aderezo no quedó bien: cómo diagnosticarlo y arreglarlo",
   "slug": "troubleshooting-aderezos",
   "tiene_quiz": true,
   "contenido": [
@@ -29,7 +29,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "Siempre conviene probar el aderezo sobre una hoja real, no directo de la cuchara — un aderezo se siente más filoso en la cuchara de lo que se siente puesto sobre una hoja."
+      "texto": "Siempre conviene probar el aderezo sobre una hoja real, no directo de la cuchara: un aderezo se siente más filoso en la cuchara de lo que se siente puesto sobre una hoja."
     },
     {
       "tipo": "imagen",
@@ -39,7 +39,7 @@
     {
       "tipo": "tip",
       "titulo": "El truco del tiempo",
-      "texto": "Hacer el aderezo primero y dejarlo reposar 10-15 minutos mientras se preparan los demás componentes. El ajo se suaviza, los sabores se integran, y la emulsión se estabiliza — para cuando la ensalada está lista, el aderezo va a estar notablemente mejor que recién hecho."
+      "texto": "Hacer el aderezo primero y dejarlo reposar 10-15 minutos mientras se preparan los demás componentes. El ajo se suaviza, los sabores se integran, y la emulsión se estabiliza. Para cuando la ensalada está lista, el aderezo va a estar notablemente mejor que recién hecho."
     },
     {
       "tipo": "imagen",

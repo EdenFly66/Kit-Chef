@@ -1,17 +1,17 @@
 {
   "modulo": 1,
   "leccion_numero": "1.1",
-  "titulo": "Seguridad y manejo de cuchillo",
+  "titulo": "El cuchillo no muerde si sabes cómo agarrarlo",
   "slug": "seguridad-manejo-cuchillo",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Antes de picar la primera cebolla, hay que resolver algo más básico: cómo sostener el cuchillo. Suena obvio, pero es el paso que la mayoría se salta — y es justo el que evita que tu primera semana cocinando termine con un corte feo y las ganas de no volver a la cocina. Si aprendés esto bien desde el día uno, todo lo demás —cortes, velocidad, seguridad— viene solo."
+      "texto": "Antes de picar la primera cebolla, hay que resolver algo más básico: cómo sostener el cuchillo. Suena obvio, pero es el paso que la mayoría se salta, y es justo el que evita que tu primera semana cocinando termine con un corte feo y las ganas de no volver a la cocina. Si aprendes bien esto desde el día uno, todo lo demás (cortes, velocidad, seguridad) viene solo."
     },
     {
       "tipo": "parrafo",
-      "texto": "El cuchillo que vas a usar el 90% del tiempo es un cuchillo de chef (o 'cuchillo cebollero', como se le dice en varias partes de Latinoamérica). No importa la marca ni el largo exacto: todos comparten la misma anatomía básica — el mango, el filo (el borde que corta), el lomo (el borde opuesto, sin filo) y la punta."
+      "texto": "El cuchillo que vas a usar el 90% del tiempo es un cuchillo de chef (o 'cuchillo cebollero', como se le dice en varias partes de Latinoamérica). No importa la marca ni el largo exacto, porque todos comparten la misma anatomía básica: el mango, el filo (el borde que corta), el lomo (el borde opuesto, sin filo) y la punta."
     },
     {
       "tipo": "tip",
@@ -20,7 +20,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "La forma correcta de agarrar el cuchillo se llama 'agarre de pinza'. En vez de tomar el mango como si fuera un martillo (con toda la mano envuelta abajo), se pinza la hoja con el pulgar y el índice, justo donde termina el mango y empieza el metal. Los otros tres dedos se enrollan sueltos alrededor del mango. La sensación debe ser de control relajado, no de apretar fuerte — parecido a cómo se sostiene una baqueta de batería, no un mazo."
+      "texto": "La forma correcta de agarrar el cuchillo se llama 'agarre de pinza'. En vez de tomar el mango como si fuera un martillo (con toda la mano envuelta abajo), se pinza la hoja con el pulgar y el índice, justo donde termina el mango y empieza el metal. Los otros tres dedos se enrollan sueltos alrededor del mango. La sensación debe ser de control relajado, no de apretar fuerte: parecido a cómo se sostiene una baqueta de batería, no un mazo."
     },
     {
       "tipo": "imagen",
@@ -34,11 +34,11 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "La otra mitad de la seguridad no está en la mano que corta, sino en la que sostiene el alimento. Esa mano tiene que ir en forma de garra: los dedos doblados hacia adentro, con las puntas de los dedos escondidas detrás de los nudillos y el pulgar metido atrás también. Así, la parte de tu mano que queda expuesta al cuchillo son los nudillos —duros y redondeados— y no la carne blanda de los dedos."
+      "texto": "La otra mitad de la seguridad no está en la mano que corta, sino en la que sostiene el alimento. Esa mano tiene que ir en forma de garra: los dedos doblados hacia adentro, con las puntas de los dedos escondidas detrás de los nudillos y el pulgar metido atrás también. Así, la parte de tu mano que queda expuesta al cuchillo son los nudillos, duros y redondeados, y no la carne blanda de los dedos."
     },
     {
       "tipo": "parrafo",
-      "texto": "Antes de cortar cualquier cosa, genera una base plana y estable. Si vas a picar una cebolla o una papa, primero córtala por la mitad para que quede un lado plano apoyado en la tabla — así no rueda mientras cortas. El nudillo de tu dedo guía (el que va más adelante en la garra) toca apenas el costado plano del cuchillo, y ese contacto es lo que te va marcando el ritmo del corte: el filo nunca debería subir más arriba que ese nudillo."
+      "texto": "Antes de cortar cualquier cosa, genera una base plana y estable. Si vas a picar una cebolla o una papa, primero córtala por la mitad para que quede un lado plano apoyado en la tabla, así no rueda mientras cortas. El nudillo de tu dedo guía (el que va más adelante en la garra) toca apenas el costado plano del cuchillo, y ese contacto es lo que te va marcando el ritmo del corte: el filo nunca debería subir más arriba que ese nudillo."
     },
     {
       "tipo": "imagen",
@@ -47,16 +47,16 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "A medida que vas cortando, la mano en garra se va retirando de a poco hacia atrás, exponiendo más superficie del alimento para el siguiente corte. Al principio ve lento — la velocidad viene sola con la práctica, no hay que perseguirla desde el primer día."
+      "texto": "A medida que vas cortando, la mano en garra se va retirando de a poco hacia atrás, exponiendo más superficie del alimento para el siguiente corte. Al principio ve lento. La velocidad viene sola con la práctica, no hay que perseguirla desde el primer día."
     },
     {
       "tipo": "tip",
       "titulo": "El error más común y más peligroso",
-      "texto": "Un cuchillo desafilado es más peligroso que uno afilado. Necesita más fuerza para cortar, y esa fuerza extra, sumada a que el filo resbala en vez de morder, es la combinación perfecta para un corte feo. Si el cuchillo se resbala en vez de morder un tomate, no es que 'tengas mala mano' — es que necesita afilado."
+      "texto": "Un cuchillo desafilado es más peligroso que uno afilado. Necesita más fuerza para cortar, y esa fuerza extra, sumada a que el filo resbala en vez de morder, es la combinación perfecta para un corte feo. Si el cuchillo se resbala en vez de morder un tomate, no es que 'tengas mala mano', es que necesita afilado."
     },
     {
       "tipo": "parrafo",
-      "texto": "Para mantener el filo hay dos herramientas distintas y no son lo mismo: la chaira (o afilador de barra) realinea el filo entre usos y conviene pasarla seguido, casi cada vez que cocinás. La piedra de afilar (o un afilador de arrastre) de verdad saca metal para crear un filo nuevo, y se usa mucho menos seguido — cuando la chaira ya no alcanza para devolverle el filo al cuchillo."
+      "texto": "Para mantener el filo hay dos herramientas distintas y no son lo mismo: la chaira (o afilador de barra) realinea el filo entre usos y conviene pasarla seguido, casi cada vez que cocinás. La piedra de afilar (o un afilador de arrastre) de verdad saca metal para crear un filo nuevo, y se usa mucho menos seguido: solo cuando la chaira ya no alcanza para devolverle el filo al cuchillo."
     },
     {
       "tipo": "tabla",

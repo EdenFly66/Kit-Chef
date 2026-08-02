@@ -1,7 +1,7 @@
 {
   "modulo": 5,
   "leccion_numero": "5.6",
-  "titulo": "Combinaciones que fallan",
+  "titulo": "Los errores clásicos que arruinan una buena ensalada",
   "slug": "combinaciones-que-fallan",
   "tiene_quiz": true,
   "contenido": [
@@ -22,12 +22,12 @@
     {
       "tipo": "tip",
       "titulo": "Dos hierbas dominantes",
-      "texto": "Estragón con cilantro, o menta con albahaca en cantidad. Las hierbas fuertes compiten a nivel aromático — sus compuestos volátiles chocan entre sí antes incluso de llegar a la lengua. Conviene elegir una hierba dominante y usar la otra apenas como acento."
+      "texto": "Estragón con cilantro, o menta con albahaca en cantidad. Las hierbas fuertes compiten a nivel aromático: sus compuestos volátiles chocan entre sí antes incluso de llegar a la lengua. Conviene elegir una hierba dominante y usar la otra apenas como acento."
     },
     {
       "tipo": "tip",
       "titulo": "Dos anclas de umami",
-      "texto": "Anchoas con miso, o parmesano con salsa de soya. Dos anclas de umami compiten en vez de complementarse — el resultado sabe confuso y sobresalado. Conviene elegir una y dejar que las demás la apoyen."
+      "texto": "Anchoas con miso, o parmesano con salsa de soya. Dos anclas de umami compiten en vez de complementarse: el resultado sabe confuso y sobresalado. Conviene elegir una y dejar que las demás la apoyen."
     },
     {
       "tipo": "tip",
@@ -42,7 +42,7 @@
     {
       "tipo": "tip",
       "titulo": "Fruta con cebolla cruda sin colchón",
-      "texto": "Cebolla morada cruda directo contra durazno o higo maduro. Conviene encurtir la cebolla primero (10 minutos en vinagre) — así se le quita el filo picante sin perder el color ni el crujiente."
+      "texto": "Cebolla morada cruda directo contra durazno o higo maduro. Conviene encurtir la cebolla primero (10 minutos en vinagre): así se le quita el filo picante sin perder el color ni el crujiente."
     },
     {
       "tipo": "imagen",

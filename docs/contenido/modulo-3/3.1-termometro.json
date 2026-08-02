@@ -1,7 +1,7 @@
 {
   "modulo": 3,
   "leccion_numero": "3.1",
-  "titulo": "Uso del termómetro y puntos de cocción",
+  "titulo": "Deja de adivinar: cómo saber el punto exacto de cocción con un termómetro",
   "slug": "termometro-puntos-coccion",
   "tiene_quiz": true,
   "contenido": [
@@ -16,7 +16,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "La carne está compuesta principalmente por proteína (miosina y actina), grasa y agua. La grasa se derrite entre 43°C y 60°C — ahí es cuando la grasa intramuscular empieza a licuarse y aportar sabor. La miosina comienza a desnaturalizarse cerca de los 49°C, punto en el que la carne se vuelve firme pero se mantiene tierna y jugosa. Cuando la actina se desnaturaliza a temperaturas más altas, se contrae y expulsa humedad — esto es justo lo que hace que la carne recocida quede seca y gomosa."
+      "texto": "La carne está compuesta principalmente por proteína (miosina y actina), grasa y agua. La grasa se derrite entre 43°C y 60°C: ahí es cuando la grasa intramuscular empieza a licuarse y aportar sabor. La miosina comienza a desnaturalizarse cerca de los 49°C, punto en el que la carne se vuelve firme pero se mantiene tierna y jugosa. Cuando la actina se desnaturaliza a temperaturas más altas, se contrae y expulsa humedad, y es justamente eso lo que deja la carne recocida seca y gomosa."
     },
     {
       "tipo": "tabla",
@@ -45,9 +45,9 @@
       "titulo": "Cómo usar la sonda correctamente",
       "items": [
         "Buscar la parte más gruesa: insertar la sonda ahí, evitando el hueso o zonas con grasa, que dan lecturas incorrectas",
-        "Buscar el punto más frío: mover levemente la punta para encontrar la lectura más baja — esa es la zona menos cocida",
+        "Buscar el punto más frío: mover levemente la punta para encontrar la lectura más baja, que es la zona menos cocida",
         "Usar sondas con cable solo como monitor: si es de cable, sirve para monitorear durante la cocción, pero conviene verificar la temperatura final con una de lectura instantánea",
-        "Considerar la cocción residual: retirar la carne del calor antes de la temperatura objetivo — la cocción residual la va a terminar de llevar"
+        "Considerar la cocción residual: retirar la carne del calor antes de la temperatura objetivo, ya que la cocción residual la va a terminar de llevar"
       ]
     },
     {

@@ -1,13 +1,13 @@
 {
   "modulo": 10,
   "leccion_numero": "10.1",
-  "titulo": "Conservación de proteínas crudas",
+  "titulo": "Carne, pollo y pescado crudos: cuánto duran y cómo guardarlos sin arriesgarte",
   "slug": "conservacion-proteinas-crudas",
   "tiene_quiz": true,
   "contenido": [
     {
       "tipo": "parrafo",
-      "texto": "Carnes, pollo y pescado crudos son los alimentos donde una mala conservación tiene consecuencias más serias — no solo se trata de perder sabor o textura, sino de riesgo real de contaminación."
+      "texto": "Carnes, pollo y pescado crudos son los alimentos donde una mala conservación tiene consecuencias más serias: no solo se trata de perder sabor o textura, sino de riesgo real de contaminación."
     },
     {
       "tipo": "tabla",
@@ -23,7 +23,7 @@
     },
     {
       "tipo": "parrafo",
-      "texto": "La proteína cruda siempre va en la parte más fría del refrigerador (generalmente el estante inferior), y en un recipiente cerrado o cubierto — así se evita que sus jugos goteen sobre otros alimentos, sobre todo los que se van a comer crudos."
+      "texto": "La proteína cruda siempre va en la parte más fría del refrigerador (generalmente el estante inferior), y en un recipiente cerrado o cubierto. Así se evita que sus jugos goteen sobre otros alimentos, sobre todo los que se van a comer crudos."
     },
     {
       "tipo": "tip",
